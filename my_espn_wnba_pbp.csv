@@ -1,0 +1,386 @@
+game_id,play_id,sequence,period,clock,text,type,home_score,away_score,x,y,athlete_id_1
+401857107,4018571074,4,1,10:00,Aliyah Boston vs. Natasha Howard (Monique Billings gains possession),Jumpball,0,0,-214748340,-214748365,4432831
+401857107,4018571077,7,1,9:38,Aliyah Boston makes driving layup,Driving Layup Shot,0,2,28,2,4432831
+401857107,4018571079,9,1,9:23,Napheesa Collier misses alley oop layup,Alley Oop Layup Shot,0,2,24,1,3917450
+401857107,40185710710,10,1,9:22,Aliyah Boston defensive rebound,Defensive Rebound,0,2,24,1,4432831
+401857107,40185710711,11,1,9:22,Kayla McBride kicked ball violation,Kicked Ball,0,2,-214748340,-214748365,2529205
+401857107,40185710712,12,1,9:13,Monique Billings makes layup (Caitlin Clark assists),Cutting Layup Shot,0,4,25,1,3142255
+401857107,40185710714,14,1,8:58,Natasha Howard makes 2-foot layup (Courtney Williams assists),Cutting Layup Shot,2,4,22,1,2529130
+401857107,40185710716,16,1,8:48,Caitlin Clark misses 25-foot three point step back jumpshot,Step Back Jump Shot,2,4,42,19,4433403
+401857107,40185710717,17,1,8:45,Olivia Miles defensive rebound,Defensive Rebound,2,4,42,19,4433791
+401857107,40185710718,18,1,8:40,Kayla McBride makes 22-foot running jump shot (Olivia Miles assists),Running Jump Shot,5,4,47,3,2529205
+401857107,40185710720,20,1,8:26,Monique Billings misses 6-foot fade away jump shot,Fade Away Jump Shot,5,4,28,6,3142255
+401857107,40185710721,21,1,8:25,Lynx defensive team rebound,Defensive Rebound,5,4,28,6,
+401857107,40185710723,23,1,8:09,Napheesa Collier makes driving layup (Olivia Miles assists),Driving Layup Shot,7,4,23,0,3917450
+401857107,40185710724,24,1,7:56,Aliyah Boston makes 1-foot two point shot,Turnaround Bank Jump Shot,7,6,26,1,4432831
+401857107,40185710726,26,1,7:46,Napheesa Collier misses 6-foot fade away jump shot,Fade Away Jump Shot,7,6,20,4,3917450
+401857107,40185710727,27,1,7:44,Monique Billings defensive rebound,Defensive Rebound,7,6,20,4,3142255
+401857107,40185710728,28,1,7:38,Kelsey Mitchell makes 23-foot three point jumper (Aliyah Boston assists),Jump Shot,7,9,46,10,3142191
+401857107,40185710730,30,1,7:28,Olivia Miles makes driving layup,Driving Layup Shot,9,9,26,1,4433791
+401857107,40185710731,31,1,7:15,Kelsey Mitchell misses 21-foot pullup jump shot,Pullup Jump Shot,9,9,14,18,3142191
+401857107,40185710732,32,1,7:12,Lexie Hull offensive rebound,Offensive Rebound,9,9,14,18,4398829
+401857107,40185710733,33,1,7:11,Kelsey Mitchell makes 24-foot three point jumper (Lexie Hull assists),Jump Shot,9,12,10,19,3142191
+401857107,40185710735,35,1,6:52,Napheesa Collier misses 23-foot three point jumper,Jump Shot,9,12,27,24,3917450
+401857107,40185710736,36,1,6:49,Natasha Howard offensive rebound,Offensive Rebound,9,12,27,24,2529130
+401857107,40185710737,37,1,6:48,Olivia Miles makes 23-foot three point jumper (Natasha Howard assists),Jump Shot,12,12,5,12,4433791
+401857107,40185710739,39,1,6:37,Olivia Miles shooting foul,Shooting Foul,12,12,28,2,4433791
+401857107,40185710741,41,1,6:37,Monique Billings makes free throw 1 of 2,Free Throw - 1 of 2,12,13,-214748340,-214748365,3142255
+401857107,40185710742,42,1,6:37,Monique Billings makes free throw 2 of 2,Free Throw - 2 of 2,12,14,-214748340,-214748365,3142255
+401857107,40185710744,44,1,6:15,Natasha Howard makes 15-foot jumper (Napheesa Collier assists),Jump Shot,14,14,10,4,2529130
+401857107,40185710746,46,1,6:00,Monique Billings makes 9-foot jumper (Kelsey Mitchell assists),Jump Shot,14,16,26,9,3142255
+401857107,40185710748,48,1,5:47,Olivia Miles makes two point shot,Layup Driving Reverse,16,16,23,0,4433791
+401857107,40185710762,62,1,5:34,Napheesa Collier kicked ball violation,Kicked Ball,16,16,-214748340,-214748365,3917450
+401857107,40185710751,51,1,5:32,Kelsey Mitchell makes 2-foot layup (Caitlin Clark assists),Cutting Layup Shot,16,18,24,1,3142191
+401857107,40185710753,53,1,5:32,Courtney Williams shooting foul,Shooting Foul,16,18,24,1,2987891
+401857107,40185710755,55,1,5:32,Kelsey Mitchell makes free throw 1 of 1,Free Throw - 1 of 1,16,19,-214748340,-214748365,3142191
+401857107,40185710757,57,1,5:20,Courtney Williams makes 21-foot three point jumper (Natasha Howard assists),Jump Shot,19,19,3,0,2987891
+401857107,40185710759,59,1,5:13,Monique Billings makes 1-foot layup (Caitlin Clark assists),Cutting Layup Shot,19,21,26,0,3142255
+401857107,40185710761,61,1,5:04,Olivia Miles makes two point shot,Layup Driving Reverse,21,21,23,0,4433791
+401857107,40185710763,63,1,4:57,Kelsey Mitchell misses 14-foot pullup jump shot,Pullup Jump Shot,21,21,26,14,3142191
+401857107,40185710764,64,1,4:54,Napheesa Collier defensive rebound,Defensive Rebound,21,21,26,14,3917450
+401857107,40185710765,65,1,4:41,Napheesa Collier makes 23-foot three point jumper (Olivia Miles assists),Jump Shot,24,21,20,23,3917450
+401857107,40185710768,68,1,4:15,Official timeout,Official Timeout,24,21,-214748340,-214748365,
+401857107,40185710769,69,1,4:10,Caitlin Clark makes 14-foot fade away jump shot,Fade Away Jump Shot,24,23,21,13,4433403
+401857107,40185710770,70,1,3:53,Courtney Williams makes 7-foot floating jump shot (Napheesa Collier assists),Floating Jump Shot,26,23,17,0,2987891
+401857107,40185710772,72,1,3:47,Natasha Howard personal foul,Personal Foul,26,23,28,3,2529130
+401857107,40185710774,74,1,3:47,Nia Coffey enters the game for Napheesa Collier,Substitution,26,23,-214748340,-214748365,3054590
+401857107,40185710775,75,1,3:47,Maya Caldwell enters the game for Olivia Miles,Substitution,26,23,-214748340,-214748365,4280850
+401857107,40185710776,76,1,3:47,Sophie Cunningham enters the game for Lexie Hull,Substitution,26,23,-214748340,-214748365,3907781
+401857107,40185710781,81,1,3:40,Monique Billings misses 23-foot three point jumper,Jump Shot,26,23,2,1,3142255
+401857107,40185710782,82,1,3:38,Courtney Williams defensive rebound,Defensive Rebound,26,23,2,1,2987891
+401857107,40185710783,83,1,3:31,Courtney Williams makes 24-foot three pointer,Pullup Jump Shot,29,23,18,23,2987891
+401857107,40185710784,84,1,3:20,Natasha Howard personal foul,Personal Foul,29,23,27,11,2529130
+401857107,40185710786,86,1,3:20,Dorka Juhasz enters the game for Natasha Howard,Substitution,29,23,-214748340,-214748365,4398938
+401857107,40185710787,87,1,3:20,Makayla Timpson enters the game for Aliyah Boston,Substitution,29,23,-214748340,-214748365,4433546
+401857107,40185710790,90,1,3:11,Caitlin Clark makes 16-foot step back jumpshot,Step Back Jump Shot,29,25,22,16,4433403
+401857107,40185710791,91,1,2:56,Kayla McBride makes 2-foot two point shot (Dorka Juhasz assists),Driving Finger Roll Layup,31,25,25,2,2529205
+401857107,40185710793,93,1,2:35,Kelsey Mitchell out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,31,25,13,23,3142191
+401857107,40185710794,94,1,2:23,"Kayla McBride bad pass
+turnover (Monique Billings steals)","Bad Pass
+Turnover",31,25,26,15,2529205
+401857107,40185710796,96,1,2:11,Kelsey Mitchell makes 26-foot three point jumper (Sophie Cunningham assists),Jump Shot,31,28,21,25,3142191
+401857107,40185710798,98,1,1:57,Nia Coffey makes driving layup (Courtney Williams assists),Driving Layup Shot,33,28,26,1,3054590
+401857107,401857107100,100,1,1:42,Dorka Juhasz blocks Caitlin Clark 's 4-foot driving layup,Driving Layup Shot,33,28,28,2,4433403
+401857107,401857107102,102,1,1:38,Maya Caldwell defensive rebound,Defensive Rebound,33,28,28,2,4280850
+401857107,401857107103,103,1,1:22,Maya Caldwell lost ball turnover (Caitlin Clark steals),Lost Ball Turnover,33,28,12,1,4280850
+401857107,401857107105,105,1,1:17,Caitlin Clark misses running pullup jump shot,Running Pullup Jump Shot,33,28,27,29,4433403
+401857107,401857107106,106,1,1:16,Lynx defensive team rebound,Defensive Rebound,33,28,27,29,
+401857107,401857107108,108,1,1:16,Olivia Miles enters the game for Courtney Williams,Substitution,33,28,-214748340,-214748365,4433791
+401857107,401857107109,109,1,1:16,Antonia Delaere enters the game for Kayla McBride,Substitution,33,28,-214748340,-214748365,4873358
+401857107,401857107110,110,1,1:16,Tyasha Harris enters the game for Caitlin Clark,Substitution,33,28,-214748340,-214748365,4065760
+401857107,401857107114,114,1,1:01,Nia Coffey misses 13-foot pullup jump shot,Pullup Jump Shot,33,28,34,10,3054590
+401857107,401857107115,115,1,59.5,Makayla Timpson defensive rebound,Defensive Rebound,33,28,34,10,4433546
+401857107,401857107116,116,1,46.2,Kelsey Mitchell makes driving layup (Monique Billings assists),Driving Layup Shot,33,30,24,1,3142191
+401857107,401857107117,117,1,28.2,Maya Caldwell misses 24-foot three point jumper,Jump Shot,33,30,39,19,4280850
+401857107,401857107118,118,1,25.4,Nia Coffey offensive rebound,Offensive Rebound,33,30,39,19,3054590
+401857107,401857107119,119,1,25.0,Nia Coffey makes two point shot,Layup Shot Putback,35,30,23,1,3054590
+401857107,401857107121,121,1,5.4,Kelsey Mitchell makes 25-foot three point step back jumpshot,Step Back Jump Shot,35,33,17,24,3142191
+401857107,401857107122,122,1,0.1,Tyasha Harris shooting foul,Shooting Foul,35,33,29,10,4065760
+401857107,401857107124,124,1,0.1,Maya Caldwell misses free throw 1 of 2,Free Throw - 1 of 2,35,33,-214748340,-214748365,4280850
+401857107,401857107125,125,1,0.1,Lynx offensive team rebound,Offensive Rebound,35,33,-214748340,-214748365,
+401857107,401857107126,126,1,0.1,Maya Caldwell makes free throw 2 of 2,Free Throw - 2 of 2,36,33,-214748340,-214748365,4280850
+401857107,401857107128,128,1,0.0,(00:00) [Fever] REF-INITIATED REVIEW (CALL OVERTURNED),Ref-Initiated Review (Overturned),36,33,-214748340,-214748365,
+401857107,401857107127,127,1,0.0,End of the 1st Quarter,End Period,36,33,-214748340,-214748365,
+401857107,401857107129,129,2,10:00,Caitlin Clark enters the game for Kelsey Mitchell,Substitution,36,33,-214748340,-214748365,4433403
+401857107,401857107130,130,2,10:00,Aliyah Boston enters the game for Monique Billings,Substitution,36,33,-214748340,-214748365,4432831
+401857107,401857107134,134,2,9:40,Antonia Delaere misses 24-foot three point jumper,Jump Shot,36,33,6,15,4873358
+401857107,401857107135,135,2,9:38,Maya Caldwell offensive rebound,Offensive Rebound,36,33,6,15,4280850
+401857107,401857107136,136,2,9:32,Dorka Juhasz makes driving layup (Olivia Miles assists),Driving Layup Shot,38,33,26,1,4398938
+401857107,401857107138,138,2,9:16,Caitlin Clark makes 25-foot three point jumper (Aliyah Boston assists),Jump Shot,38,36,30,24,4433403
+401857107,401857107140,140,2,9:07,Makayla Timpson personal foul,Personal Foul,38,36,40,20,4433546
+401857107,401857107144,144,2,9:00,Lynx Full timeout,Full Timeout,38,36,-214748340,-214748365,
+401857107,401857107146,146,2,9:00,(09:00) [Fever] COACH'S CHALLENGE (CALL OVERTURNED) [Fever] retain their timeout,Coach's Challenge (Overturned),38,36,-214748340,-214748365,
+401857107,401857107147,147,2,9:00,Antonia Delaere misses driving layup,Driving Layup Shot,38,36,23,4,4873358
+401857107,401857107148,148,2,9:00,Fever defensive team rebound,Defensive Rebound,38,36,23,4,
+401857107,401857107149,149,2,8:47,Aliyah Boston makes 15-foot turnaround jump shot (Caitlin Clark assists),Turnaround Jump Shot,38,38,10,4,4432831
+401857107,401857107179,179,2,8:36,Aliyah Boston kicked ball violation,Kicked Ball,38,38,-214748340,-214748365,4432831
+401857107,401857107153,153,2,8:30,Olivia Miles makes 24-foot three pointer,Pullup Jump Shot,41,38,38,21,4433791
+401857107,401857107154,154,2,8:11,Caitlin Clark misses 5-foot two point shot,Driving Hook Shot,41,38,23,5,4433403
+401857107,401857107155,155,2,8:09,Maya Caldwell defensive rebound,Defensive Rebound,41,38,23,5,4280850
+401857107,401857107156,156,2,8:02,Olivia Miles misses 26-foot three point pullup jump shot,Pullup Jump Shot,41,38,28,26,4433791
+401857107,401857107157,157,2,8:02,Sophie Cunningham defensive rebound,Defensive Rebound,41,38,28,26,3907781
+401857107,401857107158,158,2,7:52,Caitlin Clark makes 26-foot three point jumper (Tyasha Harris assists),Jump Shot,41,41,15,24,4433403
+401857107,401857107160,160,2,7:37,Maya Caldwell makes 25-foot three point jumper (Olivia Miles assists),Jump Shot,44,41,41,20,4280850
+401857107,401857107162,162,2,7:12,Sophie Cunningham misses driving layup,Driving Layup Shot,44,41,35,3,3907781
+401857107,401857107163,163,2,7:11,Maya Caldwell defensive rebound,Defensive Rebound,44,41,35,3,4280850
+401857107,401857107164,164,2,7:04,Sophie Cunningham personal foul,Personal Foul,44,41,5,15,3907781
+401857107,401857107166,166,2,7:04,Natasha Howard enters the game for Maya Caldwell,Substitution,44,41,-214748340,-214748365,2529130
+401857107,401857107167,167,2,7:04,Kayla McBride enters the game for Antonia Delaere,Substitution,44,41,-214748340,-214748365,2529205
+401857107,401857107168,168,2,7:04,Courtney Williams enters the game for Nia Coffey,Substitution,44,41,-214748340,-214748365,2987891
+401857107,401857107169,169,2,7:04,Napheesa Collier enters the game for Dorka Juhasz,Substitution,44,41,-214748340,-214748365,3917450
+401857107,401857107170,170,2,7:04,Raven Johnson enters the game for Sophie Cunningham,Substitution,44,41,-214748340,-214748365,4433797
+401857107,401857107171,171,2,7:04,Monique Billings enters the game for Makayla Timpson,Substitution,44,41,-214748340,-214748365,3142255
+401857107,401857107178,178,2,7:04,(07:04) [Fever] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL),Ref-Initiated Review (Supported),44,41,-214748340,-214748365,
+401857107,401857107180,180,2,7:04,Kelsey Mitchell enters the game for Tyasha Harris,Substitution,44,41,-214748340,-214748365,3142191
+401857107,401857107182,182,2,6:51,Olivia Miles makes 23-foot three point step back jumpshot,Step Back Jump Shot,47,41,33,22,4433791
+401857107,401857107183,183,2,6:40,Caitlin Clark misses driving layup,Driving Layup Shot,47,41,27,1,4433403
+401857107,401857107184,184,2,6:37,Olivia Miles defensive rebound,Defensive Rebound,47,41,27,1,4433791
+401857107,401857107185,185,2,6:30,Olivia Miles makes two point shot,Driving Finger Roll Layup,49,41,26,0,4433791
+401857107,401857107186,186,2,6:16,Aliyah Boston misses 12-foot fade away jump shot,Fade Away Jump Shot,49,41,24,12,4432831
+401857107,401857107187,187,2,6:14,Napheesa Collier defensive rebound,Defensive Rebound,49,41,24,12,3917450
+401857107,401857107188,188,2,6:06,Natasha Howard misses layup,Layup Shot,49,41,24,1,2529130
+401857107,401857107189,189,2,6:01,Monique Billings defensive rebound,Defensive Rebound,49,41,24,1,3142255
+401857107,401857107190,190,2,5:57,Fever Full timeout,Full Timeout,49,41,-214748340,-214748365,
+401857107,401857107191,191,2,5:40,Raven Johnson makes 2-foot layup (Monique Billings assists),Cutting Layup Shot,49,43,24,1,4433797
+401857107,401857107194,194,2,5:19,Courtney Williams makes 16-foot pullup jump shot (Napheesa Collier assists),Pullup Jump Shot,51,43,12,10,2987891
+401857107,401857107196,196,2,4:56,Aliyah Boston misses 26-foot three point jumper,Jump Shot,51,43,16,25,4432831
+401857107,401857107197,197,2,4:52,Fever offensive team rebound,Offensive Rebound,51,43,16,25,
+401857107,401857107199,199,2,4:41,Aliyah Boston makes 13-foot jumper (Kelsey Mitchell assists),Jump Shot,51,45,11,2,4432831
+401857107,401857107202,202,2,4:28,Olivia Miles makes driving layup (Natasha Howard assists),Driving Layup Shot,53,45,26,0,4433791
+401857107,401857107204,204,2,4:24,Raven Johnson inbound turnover,Inbound Turnover,53,45,34,-2,4433797
+401857107,401857107205,205,2,4:19,Kayla McBride misses 25-foot three point pullup jump shot,Pullup Jump Shot,53,45,22,25,2529205
+401857107,401857107206,206,2,4:16,Napheesa Collier offensive rebound,Offensive Rebound,53,45,22,25,3917450
+401857107,401857107207,207,2,4:13,Natasha Howard makes layup (Napheesa Collier assists),Layup Shot,55,45,26,0,2529130
+401857107,401857107209,209,2,3:57,Aliyah Boston offensive foul,Offensive Foul,55,45,23,3,4432831
+401857107,401857107211,211,2,3:57,Aliyah Boston offensive foul turnover,Offensive Foul Turnover,55,45,23,3,4432831
+401857107,401857107212,212,2,3:49,Raven Johnson personal foul,Personal Foul,55,45,42,21,4433797
+401857107,401857107214,214,2,3:49,Makayla Timpson enters the game for Aliyah Boston,Substitution,55,45,-214748340,-214748365,4433546
+401857107,401857107216,216,2,3:43,Olivia Miles makes 1-foot two point shot (Natasha Howard assists),Driving Finger Roll Layup,57,45,26,0,4433791
+401857107,401857107218,218,2,3:33,Kayla McBride personal foul,Personal Foul,57,45,9,11,2529205
+401857107,401857107220,220,2,3:33,Sophie Cunningham enters the game for Raven Johnson,Substitution,57,45,-214748340,-214748365,3907781
+401857107,401857107222,222,2,3:27,Kelsey Mitchell misses 20-foot step back jumpshot,Step Back Jump Shot,57,45,36,16,3142191
+401857107,401857107223,223,2,3:24,Olivia Miles defensive rebound,Defensive Rebound,57,45,36,16,4433791
+401857107,401857107224,224,2,3:17,Kayla McBride misses 22-foot three point jumper,Jump Shot,57,45,46,8,2529205
+401857107,401857107225,225,2,3:12,Makayla Timpson defensive rebound,Defensive Rebound,57,45,46,8,4433546
+401857107,401857107226,226,2,3:03,Courtney Williams shooting foul,Shooting Foul,57,45,23,2,2987891
+401857107,401857107228,228,2,3:03,Makayla Timpson misses free throw 1 of 2,Free Throw - 1 of 2,57,45,-214748340,-214748365,4433546
+401857107,401857107229,229,2,3:03,Fever offensive team rebound,Offensive Rebound,57,45,-214748340,-214748365,
+401857107,401857107230,230,2,3:03,Makayla Timpson makes free throw 2 of 2,Free Throw - 2 of 2,57,46,-214748340,-214748365,4433546
+401857107,401857107231,231,2,2:53,Olivia Miles lost ball turnover (Kelsey Mitchell steals),Lost Ball Turnover,57,46,13,39,4433791
+401857107,401857107233,233,2,2:51,Kelsey Mitchell makes driving layup,Driving Layup Shot,57,48,26,1,3142191
+401857107,401857107234,234,2,2:37,Makayla Timpson shooting foul,Shooting Foul,57,48,24,1,4433546
+401857107,401857107236,236,2,2:37,Olivia Miles technical foul,Technical Foul,57,48,-214748340,-214748365,4433791
+401857107,401857107237,237,2,2:37,Caitlin Clark makes technical free throw,Free Throw - Technical,57,49,-214748340,-214748365,4433403
+401857107,401857107238,238,2,2:37,Napheesa Collier makes free throw 1 of 2,Free Throw - 1 of 2,58,49,-214748340,-214748365,3917450
+401857107,401857107239,239,2,2:37,Aliyah Boston enters the game for Monique Billings,Substitution,58,49,-214748340,-214748365,4432831
+401857107,401857107241,241,2,2:37,Napheesa Collier makes free throw 2 of 2,Free Throw - 2 of 2,59,49,-214748340,-214748365,3917450
+401857107,401857107242,242,2,2:24,Natasha Howard personal foul,Personal Foul,59,49,31,37,2529130
+401857107,401857107244,244,2,2:24,Tyasha Harris enters the game for Caitlin Clark,Substitution,59,49,-214748340,-214748365,4065760
+401857107,401857107246,246,2,2:24,Dorka Juhasz enters the game for Natasha Howard,Substitution,59,49,-214748340,-214748365,4398938
+401857107,401857107248,248,2,2:09,Aliyah Boston misses 25-foot three point jumper,Jump Shot,59,49,11,21,4432831
+401857107,401857107249,249,2,2:06,Olivia Miles defensive rebound,Defensive Rebound,59,49,11,21,4433791
+401857107,401857107250,250,2,1:50,Olivia Miles misses 23-foot three point step back jumpshot,Step Back Jump Shot,59,49,2,1,4433791
+401857107,401857107251,251,2,1:46,Kelsey Mitchell defensive rebound,Defensive Rebound,59,49,2,1,3142191
+401857107,401857107252,252,2,1:37,Olivia Miles blocks Kelsey Mitchell's step back jumpshot,Step Back Jump Shot,59,49,25,21,3142191
+401857107,401857107253,253,2,1:34,Dorka Juhasz defensive rebound,Defensive Rebound,59,49,25,21,4398938
+401857107,401857107254,254,2,1:29,Courtney Williams misses running pullup jump shot,Running Pullup Jump Shot,59,49,35,14,2987891
+401857107,401857107255,255,2,1:27,Aliyah Boston defensive rebound,Defensive Rebound,59,49,35,14,4432831
+401857107,401857107256,256,2,1:12,Kelsey Mitchell makes driving layup (Sophie Cunningham assists),Driving Layup Shot,59,51,24,1,3142191
+401857107,401857107258,258,2,54.8,Kayla McBride makes 23-foot three point jumper (Napheesa Collier assists),Jump Shot,62,51,48,4,2529205
+401857107,401857107260,260,2,40.0,Kelsey Mitchell makes driving layup,Driving Layup Shot,62,53,25,1,3142191
+401857107,401857107261,261,2,33.3,Olivia Miles makes two point shot (Courtney Williams assists),Layup Driving Reverse,64,53,26,0,4433791
+401857107,401857107263,263,2,23.7,Dorka Juhasz personal foul,Personal Foul,64,53,20,10,4398938
+401857107,401857107265,265,2,23.7,Maya Caldwell enters the game for Olivia Miles,Substitution,64,53,-214748340,-214748365,4280850
+401857107,401857107267,267,2,10.6,"Aliyah Boston bad pass
+turnover (Dorka Juhasz steals)","Bad Pass
+Turnover",64,53,28,10,4432831
+401857107,401857107269,269,2,0.4,Courtney Williams misses 24-foot three point pullup jump shot,Pullup Jump Shot,64,53,8,17,2987891
+401857107,401857107270,270,2,0.4,Lynx offensive team rebound,Offensive Rebound,64,53,8,17,
+401857107,401857107273,273,2,0.0,(00:00) [Fever] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL),Ref-Initiated Review (Supported),64,53,-214748340,-214748365,
+401857107,401857107271,271,2,0.0,End of the 2nd Quarter,End Period,64,53,-214748340,-214748365,
+401857107,401857107274,274,3,10:00,Natasha Howard enters the game for Dorka Juhasz,Substitution,64,53,-214748340,-214748365,2529130
+401857107,401857107275,275,3,10:00,Olivia Miles enters the game for Maya Caldwell,Substitution,64,53,-214748340,-214748365,4433791
+401857107,401857107276,276,3,10:00,Lexie Hull enters the game for Sophie Cunningham,Substitution,64,53,-214748340,-214748365,4398829
+401857107,401857107277,277,3,10:00,Caitlin Clark enters the game for Makayla Timpson,Substitution,64,53,-214748340,-214748365,4433403
+401857107,401857107278,278,3,10:00,Monique Billings enters the game for Tyasha Harris,Substitution,64,53,-214748340,-214748365,3142255
+401857107,401857107285,285,3,9:39,Natasha Howard makes 1-foot two point shot (Napheesa Collier assists),Turnaround Hook Shot,66,53,26,1,2529130
+401857107,401857107287,287,3,9:25,Caitlin Clark makes 12-foot driving floating jump shot (Kelsey Mitchell assists),Driving Floating Jump Shot,66,55,30,11,4433403
+401857107,401857107289,289,3,9:13,Lexie Hull personal foul,Personal Foul,66,55,35,7,4398829
+401857107,401857107291,291,3,9:11,Kayla McBride makes 1-foot layup (Olivia Miles assists),Cutting Layup Shot,68,55,26,1,2529205
+401857107,401857107293,293,3,9:03,Olivia Miles shooting foul,Shooting Foul,68,55,26,0,4433791
+401857107,401857107295,295,3,9:03,Monique Billings makes free throw 1 of 2,Free Throw - 1 of 2,68,56,-214748340,-214748365,3142255
+401857107,401857107296,296,3,9:03,Monique Billings misses free throw 2 of 2,Free Throw - 2 of 2,68,56,-214748340,-214748365,3142255
+401857107,401857107297,297,3,9:00,Napheesa Collier defensive rebound,Defensive Rebound,68,56,-214748340,-214748365,3917450
+401857107,401857107298,298,3,8:40,Aliyah Boston shooting foul,Shooting Foul,68,56,24,1,4432831
+401857107,401857107300,300,3,8:40,Natasha Howard makes free throw 1 of 2,Free Throw - 1 of 2,69,56,-214748340,-214748365,2529130
+401857107,401857107301,301,3,8:40,Natasha Howard misses free throw 2 of 2,Free Throw - 2 of 2,69,56,-214748340,-214748365,2529130
+401857107,401857107302,302,3,8:37,Monique Billings defensive rebound,Defensive Rebound,69,56,-214748340,-214748365,3142255
+401857107,401857107303,303,3,8:22,Aliyah Boston misses 3-foot two point shot,Turnaround Hook Shot,69,56,25,3,4432831
+401857107,401857107304,304,3,8:19,Napheesa Collier defensive rebound,Defensive Rebound,69,56,25,3,3917450
+401857107,401857107306,306,3,8:11,Courtney Williams makes 15-foot pullup jump shot (Natasha Howard assists),Pullup Jump Shot,71,56,34,12,2987891
+401857107,401857107308,308,3,7:56,Natasha Howard personal foul,Personal Foul,71,56,30,25,2529130
+401857107,401857107310,310,3,7:56,Nia Coffey enters the game for Natasha Howard,Substitution,71,56,-214748340,-214748365,3054590
+401857107,401857107312,312,3,7:54,Lexie Hull steps out of bounds turnover,Out of Bounds - Step Turnover,71,56,2,3,4398829
+401857107,401857107313,313,3,7:44,Olivia Miles steps out of bounds turnover,Out of Bounds - Step Turnover,71,56,46,20,4433791
+401857107,401857107314,314,3,7:37,Caitlin Clark misses 31-foot three point jumper,Jump Shot,71,56,37,28,4433403
+401857107,401857107315,315,3,7:35,Courtney Williams defensive rebound,Defensive Rebound,71,56,37,28,2987891
+401857107,401857107316,316,3,7:19,Nia Coffey misses 23-foot three point jumper,Jump Shot,71,56,46,11,3054590
+401857107,401857107317,317,3,7:16,Caitlin Clark defensive rebound,Defensive Rebound,71,56,46,11,4433403
+401857107,401857107318,318,3,7:08,Aliyah Boston makes driving layup (Caitlin Clark assists),Driving Layup Shot,71,58,24,1,4432831
+401857107,401857107320,320,3,6:56,Courtney Williams misses 23-foot three point jumper,Jump Shot,71,58,48,7,2987891
+401857107,401857107321,321,3,6:53,Kayla McBride offensive rebound,Offensive Rebound,71,58,48,7,2529205
+401857107,401857107322,322,3,6:51,Kayla McBride misses 25-foot three point pullup jump shot,Pullup Jump Shot,71,58,38,21,2529205
+401857107,401857107323,323,3,6:50,Fever defensive team rebound,Defensive Rebound,71,58,38,21,
+401857107,401857107326,326,3,6:27,Lexie Hull makes 24-foot three point jumper (Aliyah Boston assists),Jump Shot,71,61,11,20,4398829
+401857107,401857107328,328,3,6:05,Courtney Williams misses 16-foot pullup jump shot,Pullup Jump Shot,71,61,37,11,2987891
+401857107,401857107329,329,3,6:01,Courtney Williams offensive rebound,Offensive Rebound,71,61,37,11,2987891
+401857107,401857107331,331,3,6:01,Courtney Williams makes 13-foot turnaround jump shot,Turnaround Jump Shot,73,61,11,3,2987891
+401857107,401857107332,332,3,5:38,Kelsey Mitchell misses driving layup,Driving Layup Shot,73,61,27,1,3142191
+401857107,401857107333,333,3,5:36,Napheesa Collier defensive rebound,Defensive Rebound,73,61,27,1,3917450
+401857107,401857107334,334,3,5:31,Aliyah Boston shooting foul,Shooting Foul,73,61,27,1,4432831
+401857107,401857107336,336,3,5:31,Olivia Miles makes free throw 1 of 2,Free Throw - 1 of 2,74,61,-214748340,-214748365,4433791
+401857107,401857107337,337,3,5:31,Dorka Juhasz enters the game for Courtney Williams,Substitution,74,61,-214748340,-214748365,4398938
+401857107,401857107338,338,3,5:31,Maya Caldwell enters the game for Napheesa Collier,Substitution,74,61,-214748340,-214748365,4280850
+401857107,401857107341,341,3,5:31,Olivia Miles makes free throw 2 of 2,Free Throw - 2 of 2,75,61,-214748340,-214748365,4433791
+401857107,401857107342,342,3,5:15,Lexie Hull makes 9-foot pullup jump shot (Aliyah Boston assists),Pullup Jump Shot,75,63,25,9,4398829
+401857107,401857107344,344,3,5:15,Olivia Miles shooting foul,Shooting Foul,75,63,25,9,4433791
+401857107,401857107346,346,3,5:15,Lexie Hull makes free throw 1 of 1,Free Throw - 1 of 1,75,64,-214748340,-214748365,4398829
+401857107,401857107347,347,3,5:01,Olivia Miles misses 25-foot three point step back jumpshot,Step Back Jump Shot,75,64,24,25,4433791
+401857107,401857107348,348,3,4:59,Fever defensive team rebound,Defensive Rebound,75,64,24,25,
+401857107,401857107349,349,3,4:59,Nia Coffey loose ball foul,Loose Ball Foul,75,64,28,2,3054590
+401857107,401857107351,351,3,4:59,Official timeout,Official Timeout,75,64,-214748340,-214748365,
+401857107,401857107352,352,3,4:59,Makayla Timpson enters the game for Monique Billings,Substitution,75,64,-214748340,-214748365,4433546
+401857107,401857107354,354,3,4:43,Kelsey Mitchell makes 24-foot three point jumper (Caitlin Clark assists),Jump Shot,75,67,12,20,3142191
+401857107,401857107356,356,3,4:28,Kayla McBride misses 27-foot three point jumper,Jump Shot,75,67,13,24,2529205
+401857107,401857107357,357,3,4:26,Fever defensive team rebound,Defensive Rebound,75,67,13,24,
+401857107,401857107359,359,3,4:13,Kelsey Mitchell makes driving layup (Aliyah Boston assists),Driving Layup Shot,75,69,23,-1,3142191
+401857107,401857107360,360,3,4:02,Maya Caldwell misses 20-foot pullup jump shot,Pullup Jump Shot,75,69,7,10,4280850
+401857107,401857107361,361,3,3:59,Lexie Hull defensive rebound,Defensive Rebound,75,69,7,10,4398829
+401857107,401857107362,362,3,3:54,"Caitlin Clark bad pass
+turnover (Dorka Juhasz steals)","Bad Pass
+Turnover",75,69,35,37,4433403
+401857107,401857107365,365,3,3:41,Courtney Williams enters the game for Olivia Miles,Substitution,75,69,-214748340,-214748365,2987891
+401857107,401857107366,366,3,3:41,Napheesa Collier enters the game for Dorka Juhasz,Substitution,75,69,-214748340,-214748365,3917450
+401857107,401857107369,369,3,3:36,Caitlin Clark shooting foul,Shooting Foul,75,69,23,1,4433403
+401857107,401857107372,372,3,3:36,Maya Caldwell makes free throw 1 of 2,Free Throw - 1 of 2,76,69,-214748340,-214748365,4280850
+401857107,401857107373,373,3,3:36,Maya Caldwell makes free throw 2 of 2,Free Throw - 2 of 2,77,69,-214748340,-214748365,4280850
+401857107,401857107374,374,3,3:16,Aliyah Boston misses layup,Layup Shot,77,69,29,4,4432831
+401857107,401857107375,375,3,3:14,Makayla Timpson offensive rebound,Offensive Rebound,77,69,29,4,4433546
+401857107,401857107376,376,3,3:13,Makayla Timpson makes two point shot,Layup Shot Putback,77,71,25,2,4433546
+401857107,401857107377,377,3,2:55,Napheesa Collier makes 1-foot layup (Courtney Williams assists),Cutting Layup Shot,79,71,26,1,3917450
+401857107,401857107379,379,3,2:33,Napheesa Collier blocks Makayla Timpson 's 2-foot driving layup,Driving Layup Shot,79,71,23,0,4433546
+401857107,401857107381,381,3,2:30,Kayla McBride defensive rebound,Defensive Rebound,79,71,23,0,2529205
+401857107,401857107382,382,3,2:28,Courtney Williams misses 7-foot running jump shot,Running Jump Shot,79,71,32,1,2987891
+401857107,401857107383,383,3,2:26,Fever defensive team rebound,Defensive Rebound,79,71,32,1,
+401857107,401857107385,385,3,2:26,Antonia Delaere enters the game for Kayla McBride,Substitution,79,71,-214748340,-214748365,4873358
+401857107,401857107386,386,3,2:26,Myisha Hines-Allen enters the game for Aliyah Boston,Substitution,79,71,-214748340,-214748365,3142055
+401857107,401857107387,387,3,2:26,Sophie Cunningham enters the game for Lexie Hull,Substitution,79,71,-214748340,-214748365,3907781
+401857107,401857107391,391,3,2:08,Caitlin Clark misses 25-foot three point step back jumpshot,Step Back Jump Shot,79,71,21,25,4433403
+401857107,401857107392,392,3,2:05,Nia Coffey defensive rebound,Defensive Rebound,79,71,21,25,3054590
+401857107,401857107393,393,3,1:53,Napheesa Collier makes 8-foot two point shot (Maya Caldwell assists),Turnaround Fade Away Jump Shot,81,71,17,3,3917450
+401857107,401857107395,395,3,1:41,Myisha Hines-Allen lost ball turnover (Nia Coffey steals),Lost Ball Turnover,81,71,17,27,3142055
+401857107,401857107397,397,3,1:36,Courtney Williams makes running layup (Antonia Delaere assists),Running Layup Shot,83,71,27,0,2987891
+401857107,401857107399,399,3,1:36,Fever Full timeout,Full Timeout,83,71,-214748340,-214748365,
+401857107,401857107403,403,3,1:36,Tyasha Harris enters the game for Caitlin Clark,Substitution,83,71,-214748340,-214748365,4065760
+401857107,401857107401,401,3,1:14,Maya Caldwell shooting foul,Shooting Foul,83,71,24,6,4280850
+401857107,401857107405,405,3,1:14,Tyasha Harris makes free throw 1 of 2,Free Throw - 1 of 2,83,72,-214748340,-214748365,4065760
+401857107,401857107406,406,3,1:14,Tyasha Harris makes free throw 2 of 2,Free Throw - 2 of 2,83,73,-214748340,-214748365,4065760
+401857107,401857107407,407,3,1:02,Makayla Timpson shooting foul,Shooting Foul,83,73,27,1,4433546
+401857107,401857107409,409,3,1:02,Napheesa Collier makes free throw 1 of 2,Free Throw - 1 of 2,84,73,-214748340,-214748365,3917450
+401857107,401857107411,411,3,1:02,Napheesa Collier misses free throw 2 of 2,Free Throw - 2 of 2,84,73,-214748340,-214748365,3917450
+401857107,401857107412,412,3,1:00,Makayla Timpson defensive rebound,Defensive Rebound,84,73,-214748340,-214748365,4433546
+401857107,401857107413,413,3,46.7,Kelsey Mitchell misses 23-foot three point jumper,Jump Shot,84,73,2,3,3142191
+401857107,401857107414,414,3,44.7,Myisha Hines-Allen offensive rebound,Offensive Rebound,84,73,2,3,3142055
+401857107,401857107415,415,3,43.1,Myisha Hines-Allen misses two point shot,Layup Shot Putback,84,73,26,2,3142055
+401857107,401857107416,416,3,38.6,Myisha Hines-Allen offensive rebound,Offensive Rebound,84,73,26,2,3142055
+401857107,401857107417,417,3,37.5,Sophie Cunningham makes 26-foot three point jumper (Myisha Hines-Allen assists),Jump Shot,84,76,34,25,3907781
+401857107,401857107419,419,3,20.9,Napheesa Collier makes 26-foot three point jumper (Courtney Williams assists),Jump Shot,87,76,10,21,3917450
+401857107,401857107421,421,3,1.1,"Tyasha Harris bad pass
+turnover (Napheesa Collier steals)","Bad Pass
+Turnover",87,76,23,8,4065760
+401857107,401857107425,425,3,0.0,End of the 3rd Quarter,End Period,87,76,-214748340,-214748365,
+401857107,401857107426,426,4,10:00,Aliyah Boston enters the game for Kelsey Mitchell,Substitution,87,76,-214748340,-214748365,4432831
+401857107,401857107427,427,4,10:00,Caitlin Clark enters the game for Makayla Timpson,Substitution,87,76,-214748340,-214748365,4433403
+401857107,401857107428,428,4,10:00,Monique Billings enters the game for Myisha Hines-Allen,Substitution,87,76,-214748340,-214748365,3142255
+401857107,401857107433,433,4,9:45,Aliyah Boston makes driving layup,Driving Layup Shot,87,78,26,2,4432831
+401857107,401857107434,434,4,9:31,Aliyah Boston personal foul,Personal Foul,87,78,26,4,4432831
+401857107,401857107437,437,4,9:22,Napheesa Collier misses 5-foot turnaround jump shot,Turnaround Jump Shot,87,78,28,4,3917450
+401857107,401857107438,438,4,9:20,Maya Caldwell offensive rebound,Offensive Rebound,87,78,28,4,4280850
+401857107,401857107439,439,4,9:17,shot clock turnover ,Shot Clock Turnover,87,78,1,2,
+401857107,401857107440,440,4,9:17,Natasha Howard enters the game for Nia Coffey,Substitution,87,78,-214748340,-214748365,2529130
+401857107,401857107442,442,4,9:07,"Caitlin Clark bad pass
+turnover (Natasha Howard steals)","Bad Pass
+Turnover",87,78,22,30,4433403
+401857107,401857107444,444,4,9:04,Natasha Howard makes running layup,Running Layup Shot,89,78,24,1,2529130
+401857107,401857107445,445,4,8:42,Caitlin Clark makes 20-foot pullup jump shot,Pullup Jump Shot,89,80,36,17,4433403
+401857107,401857107446,446,4,8:32,Courtney Williams makes 20-foot pullup jump shot,Pullup Jump Shot,91,80,11,15,2987891
+401857107,401857107447,447,4,8:20,Caitlin Clark misses 28-foot three point pullup jump shot,Pullup Jump Shot,91,80,28,28,4433403
+401857107,401857107448,448,4,8:15,Napheesa Collier defensive rebound,Defensive Rebound,91,80,28,28,3917450
+401857107,401857107449,449,4,8:06,Courtney Williams makes 22-foot pullup jump shot,Pullup Jump Shot,93,80,32,21,2987891
+401857107,401857107450,450,4,8:06,Fever Full timeout,Full Timeout,93,80,-214748340,-214748365,
+401857107,401857107451,451,4,8:06,Olivia Miles enters the game for Antonia Delaere,Substitution,93,80,-214748340,-214748365,4433791
+401857107,401857107452,452,4,8:06,Kelsey Mitchell enters the game for Tyasha Harris,Substitution,93,80,-214748340,-214748365,3142191
+401857107,401857107455,455,4,7:44,Caitlin Clark makes 15-foot step back jumpshot (Aliyah Boston assists),Step Back Jump Shot,93,82,13,9,4433403
+401857107,401857107457,457,4,7:22,Courtney Williams misses 17-foot pullup jump shot,Pullup Jump Shot,93,82,10,9,2987891
+401857107,401857107458,458,4,7:19,Maya Caldwell offensive rebound,Offensive Rebound,93,82,10,9,4280850
+401857107,401857107459,459,4,7:16,Courtney Williams misses 14-foot pullup jump shot,Pullup Jump Shot,93,82,26,14,2987891
+401857107,401857107460,460,4,7:12,Aliyah Boston defensive rebound,Defensive Rebound,93,82,26,14,4432831
+401857107,401857107461,461,4,7:00,Aliyah Boston misses layup,Cutting Layup Shot,93,82,24,0,4432831
+401857107,401857107462,462,4,6:58,Courtney Williams defensive rebound,Defensive Rebound,93,82,24,0,2987891
+401857107,401857107463,463,4,6:48,Napheesa Collier misses driving layup,Driving Layup Shot,93,82,23,1,3917450
+401857107,401857107464,464,4,6:45,Maya Caldwell offensive rebound,Offensive Rebound,93,82,23,1,4280850
+401857107,401857107465,465,4,6:41,Napheesa Collier makes 23-foot three point jumper (Maya Caldwell assists),Jump Shot,96,82,2,1,3917450
+401857107,401857107467,467,4,6:12,Caitlin Clark makes 1-foot two point shot,Driving Finger Roll Layup,96,84,27,0,4433403
+401857107,401857107468,468,4,5:59,Olivia Miles out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,96,84,15,8,4433791
+401857107,401857107469,469,4,5:59,Kayla McBride enters the game for Maya Caldwell,Substitution,96,84,-214748340,-214748365,2529205
+401857107,401857107470,470,4,5:59,Makayla Timpson enters the game for Monique Billings,Substitution,96,84,-214748340,-214748365,4433546
+401857107,401857107473,473,4,5:42,"Caitlin Clark bad pass
+turnover (Natasha Howard steals)","Bad Pass
+Turnover",96,84,13,9,4433403
+401857107,401857107475,475,4,5:39,Courtney Williams makes 18-foot running pullup jump shot,Running Pullup Jump Shot,98,84,26,18,2987891
+401857107,401857107476,476,4,5:17,Kelsey Mitchell makes 2-foot two point shot,Driving Finger Roll Layup,98,86,27,1,3142191
+401857107,401857107477,477,4,4:59,Napheesa Collier misses 9-foot fade away jump shot,Fade Away Jump Shot,98,86,24,9,3917450
+401857107,401857107478,478,4,4:55,Aliyah Boston defensive rebound,Defensive Rebound,98,86,24,9,4432831
+401857107,401857107479,479,4,4:44,Makayla Timpson makes alley oop layup (Aliyah Boston assists),Alley Oop Layup Shot,98,88,23,-1,4433546
+401857107,401857107481,481,4,4:44,Lynx Full timeout,Full Timeout,98,88,-214748340,-214748365,
+401857107,401857107482,482,4,4:21,Makayla Timpson blocks Natasha Howard 's 5-foot turnaround jump shot,Turnaround Jump Shot,98,88,22,4,2529130
+401857107,401857107484,484,4,4:20,Lynx offensive team rebound,Offensive Rebound,98,88,22,4,
+401857107,401857107485,485,4,4:20,shot clock turnover ,Shot Clock Turnover,98,88,13,1,
+401857107,401857107486,486,4,4:01,Aliyah Boston makes 24-foot three point jumper (Caitlin Clark assists),Jump Shot,98,91,33,23,4432831
+401857107,401857107488,488,4,3:42,Napheesa Collier misses 24-foot three point jumper,Jump Shot,98,91,25,24,3917450
+401857107,401857107489,489,4,3:40,Makayla Timpson defensive rebound,Defensive Rebound,98,91,25,24,4433546
+401857107,401857107490,490,4,3:33,Kelsey Mitchell makes two point shot (Caitlin Clark assists),Layup Driving Reverse,98,93,26,0,3142191
+401857107,401857107492,492,4,3:33,Lynx Full timeout,Full Timeout,98,93,-214748340,-214748365,
+401857107,401857107493,493,4,3:10,Courtney Williams misses 21-foot pullup jump shot,Pullup Jump Shot,98,93,12,16,2987891
+401857107,401857107494,494,4,3:06,Aliyah Boston defensive rebound,Defensive Rebound,98,93,12,16,4432831
+401857107,401857107495,495,4,3:01,Olivia Miles personal foul,Personal Foul,98,93,14,8,4433791
+401857107,401857107497,497,4,2:59,Kelsey Mitchell makes 24-foot three point jumper (Caitlin Clark assists),Jump Shot,98,96,12,20,3142191
+401857107,401857107499,499,4,2:48,Courtney Williams makes 14-foot jumper (Napheesa Collier assists),Jump Shot,100,96,11,1,2987891
+401857107,401857107501,501,4,2:37,Olivia Miles shooting foul,Shooting Foul,100,96,9,19,4433791
+401857107,401857107503,503,4,2:37,(02:37) [Fever] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL),Ref-Initiated Review (Supported),100,96,-214748340,-214748365,
+401857107,401857107504,504,4,2:37,Kelsey Mitchell makes free throw 1 of 3,Free Throw - 1 of 3,100,97,-214748340,-214748365,3142191
+401857107,401857107505,505,4,2:37,Kelsey Mitchell misses free throw 2 of 3,Free Throw - 2 of 3,100,97,-214748340,-214748365,3142191
+401857107,401857107506,506,4,2:37,Fever offensive team rebound,Offensive Rebound,100,97,-214748340,-214748365,
+401857107,401857107507,507,4,2:37,Kelsey Mitchell makes free throw 3 of 3,Free Throw - 3 of 3,100,98,-214748340,-214748365,3142191
+401857107,401857107509,509,4,2:15,"Natasha Howard bad pass
+turnover (Makayla Timpson steals)","Bad Pass
+Turnover",100,98,35,6,2529130
+401857107,401857107511,511,4,2:07,Aliyah Boston traveling turnover,Traveling,100,98,21,23,4432831
+401857107,401857107512,512,4,1:54,Kayla McBride misses driving layup,Driving Layup Shot,100,98,27,0,2529205
+401857107,401857107513,513,4,1:52,Natasha Howard offensive rebound,Offensive Rebound,100,98,27,0,2529130
+401857107,401857107514,514,4,1:52,Natasha Howard makes two point shot,Layup Shot Putback,102,98,25,1,2529130
+401857107,401857107515,515,4,1:43,Caitlin Clark misses 25-foot three point jumper,Jump Shot,102,98,13,22,4433403
+401857107,401857107516,516,4,1:40,Aliyah Boston offensive rebound,Offensive Rebound,102,98,13,22,4432831
+401857107,401857107517,517,4,1:37,Caitlin Clark misses 25-foot three point jumper,Jump Shot,102,98,9,20,4433403
+401857107,401857107518,518,4,1:34,Lynx defensive team rebound,Defensive Rebound,102,98,9,20,
+401857107,401857107519,519,4,1:34,Aliyah Boston loose ball foul,Loose Ball Foul,102,98,24,4,4432831
+401857107,401857107521,521,4,1:22,Kayla McBride misses two point shot,Driving Finger Roll Layup,102,98,23,2,2529205
+401857107,401857107522,522,4,1:19,Natasha Howard offensive rebound,Offensive Rebound,102,98,23,2,2529130
+401857107,401857107523,523,4,1:19,Makayla Timpson blocks Natasha Howard 's 2-foot two point shot,Layup Shot Putback,102,98,27,2,2529130
+401857107,401857107525,525,4,1:19,Aliyah Boston defensive rebound,Defensive Rebound,102,98,27,2,4432831
+401857107,401857107526,526,4,1:14,Kelsey Mitchell misses running pullup jump shot,Running Pullup Jump Shot,102,98,6,13,3142191
+401857107,401857107527,527,4,1:12,Napheesa Collier defensive rebound,Defensive Rebound,102,98,6,13,3917450
+401857107,401857107528,528,4,58.7,Olivia Miles makes 1-foot two point shot,Driving Finger Roll Layup,104,98,26,1,4433791
+401857107,401857107529,529,4,58.7,Kelsey Mitchell shooting foul,Shooting Foul,104,98,26,1,3142191
+401857107,401857107531,531,4,58.7,Olivia Miles makes free throw 1 of 1,Free Throw - 1 of 1,105,98,-214748340,-214748365,4433791
+401857107,401857107532,532,4,58.7,Fever Reset Timeout,Reset Timeout,105,98,-214748340,-214748365,
+401857107,401857107535,535,4,51.8,Makayla Timpson makes driving layup (Caitlin Clark assists),Driving Layup Shot,105,100,25,1,4433546
+401857107,401857107537,537,4,51.8,Napheesa Collier shooting foul,Shooting Foul,105,100,25,1,3917450
+401857107,401857107539,539,4,51.8,Lexie Hull enters the game for Caitlin Clark,Substitution,105,100,-214748340,-214748365,4398829
+401857107,401857107541,541,4,51.8,Makayla Timpson misses free throw 1 of 1,Free Throw - 1 of 1,105,100,-214748340,-214748365,4433546
+401857107,401857107542,542,4,50.8,Natasha Howard defensive rebound,Defensive Rebound,105,100,-214748340,-214748365,2529130
+401857107,401857107543,543,4,50.8,Lynx Reset Timeout,Reset Timeout,105,100,-214748340,-214748365,
+401857107,401857107544,544,4,32.7,Courtney Williams makes 5-foot driving floating jump shot (Kayla McBride assists),Driving Floating Jump Shot,107,100,27,4,2987891
+401857107,401857107546,546,4,32.3,Fever Full timeout,Full Timeout,107,100,-214748340,-214748365,
+401857107,401857107547,547,4,32.3,Caitlin Clark enters the game for Makayla Timpson,Substitution,107,100,-214748340,-214748365,4433403
+401857107,401857107549,549,4,27.2,Caitlin Clark out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,107,100,32,28,4433403
+401857107,401857107550,550,4,27.2,Makayla Timpson enters the game for Caitlin Clark,Substitution,107,100,-214748340,-214748365,4433546
+401857107,401857107552,552,4,25.6,Lexie Hull personal take foul,Personal Take Foul,107,100,11,6,4398829
+401857107,401857107554,554,4,25.6,Courtney Williams makes free throw 1 of 2,Free Throw - 1 of 2,108,100,-214748340,-214748365,2987891
+401857107,401857107555,555,4,25.6,Caitlin Clark enters the game for Lexie Hull,Substitution,108,100,-214748340,-214748365,4433403
+401857107,401857107557,557,4,25.6,Courtney Williams misses free throw 2 of 2,Free Throw - 2 of 2,108,100,-214748340,-214748365,2987891
+401857107,401857107558,558,4,23.6,Aliyah Boston defensive rebound,Defensive Rebound,108,100,-214748340,-214748365,4432831
+401857107,401857107559,559,4,16.1,Aliyah Boston misses 23-foot three point pullup jump shot,Pullup Jump Shot,108,100,23,23,4432831
+401857107,401857107560,560,4,13.3,Kayla McBride defensive rebound,Defensive Rebound,108,100,23,23,2529205
+401857107,401857107561,561,4,0.0,End of the 4th Quarter,End Period,108,100,-214748340,-214748365,
+401857107,401857107562,562,4,0.0,End of Game,End Game,108,100,-214748340,-214748365,

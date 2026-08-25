@@ -172,10 +172,12 @@ def get_all_game_dates():
 
 
 if __name__ == "__main__":
-    all_dates = get_all_game_dates()
-    print(f"Found {len(all_dates)} total game days in the season.")
+    from datetime import datetime, timedelta
+
+    today = datetime.now().strftime("%Y%m%d")
+    yesterday = (datetime.now() - timedelta(days=1)).strftime("%Y%m%d")
     
-    test_dates = all_dates[:3] 
-    print(f"\nTesting pipeline with dates: {test_dates}")
+    dates_to_scrape = [yesterday, today]
+    print(f"Running daily update for dates: {dates_to_scrape}")
     
-    save_data_to_csv(test_dates, "wnba_data.csv")
+    save_data_to_csv(dates_to_scrape, "wnba_data.csv")
