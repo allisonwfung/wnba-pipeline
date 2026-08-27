@@ -5304,6 +5304,878 @@ Turnover",62,False,4,7:37,64,82,Phoenix Mercury,Washington Mystics,4704180.0,Geo
 2026-08-25,401857175589,Valeriane Ayayi makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,20.0,84,94,Phoenix Mercury,Washington Mystics,3919496.0,Valeriane Ayayi,,,,,-214748340,-214748365
 2026-08-25,401857175590,End of the 4th Quarter,End Period,412,False,4,0.0,84,94,Phoenix Mercury,Washington Mystics,,,,,,,-214748340,-214748365
 2026-08-25,401857175591,End of Game,End Game,402,False,4,0.0,84,94,Phoenix Mercury,Washington Mystics,,,,,,,-214748340,-214748365
+2026-08-26,4018571764,Kiah Stokes vs. Aaliyah Edwards (Veronica Burton gains possession),Jumpball,615,False,1,10:00,0,0,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,4433408.0,Aaliyah Edwards,4398935.0,Veronica Burton,-214748340,-214748365
+2026-08-26,4018571767,Charlisse Leger-Walker personal foul,Personal Foul,45,False,1,9:48,0,0,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,28,2
+2026-08-26,4018571769,Gabby Williams makes 26-foot three point jumper (Cecilia Zandalasini assists),Jump Shot,92,True,1,9:33,0,3,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,4257500.0,Cecilia Zandalasini,,,41,21
+2026-08-26,40185717612,Diamond Miller misses 25-foot three point jumper,Jump Shot,92,False,1,9:09,0,3,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,39,21
+2026-08-26,40185717613,Sun offensive team rebound,Offensive Rebound,156,False,1,9:09,0,3,Connecticut Sun,Golden State Valkyries,,,,,,,39,21
+2026-08-26,40185717615,Saniya Rivers misses 17-foot jumper,Jump Shot,92,False,1,9:06,0,3,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,9,5
+2026-08-26,40185717616,Charlisse Leger-Walker offensive rebound,Offensive Rebound,156,False,1,9:03,0,3,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,9,5
+2026-08-26,40185717617,Diamond Miller makes layup,Layup Shot,95,True,1,8:56,2,3,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,22,5
+2026-08-26,40185717619,Charlisse Leger-Walker personal foul,Personal Foul,45,False,1,8:47,2,3,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,34,24
+2026-08-26,40185717621,Hailey Van Lith enters the game for Charlisse Leger-Walker,Substitution,584,False,1,8:47,2,3,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,4703609.0,Charlisse Leger-Walker,,,-214748340,-214748365
+2026-08-26,40185717623,Kiah Stokes lost ball turnover (Aaliyah Edwards steals),Lost Ball Turnover,63,False,1,8:40,2,3,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,4433408.0,Aaliyah Edwards,,,16,15
+2026-08-26,40185717625,Kennedy Burke misses 23-foot three point jumper,Jump Shot,92,False,1,8:29,2,3,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,2,6
+2026-08-26,40185717626,Kiah Stokes defensive rebound,Defensive Rebound,155,False,1,8:27,2,3,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,2,6
+2026-08-26,40185717627,Gabby Williams misses 10-foot pullup jump shot,Pullup Jump Shot,131,False,1,8:18,2,3,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,15,2
+2026-08-26,40185717628,Sun defensive team rebound,Defensive Rebound,155,False,1,8:18,2,3,Connecticut Sun,Golden State Valkyries,,,,,,,15,2
+2026-08-26,40185717630,Hailey Van Lith misses 27-foot three point jumper,Jump Shot,92,False,1,8:03,2,3,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,38,24
+2026-08-26,40185717631,Veronica Burton defensive rebound,Defensive Rebound,155,False,1,7:59,2,3,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,38,24
+2026-08-26,40185717632,Veronica Burton misses running layup,Running Layup Shot,109,False,1,7:56,2,3,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,27,3
+2026-08-26,40185717633,Veronica Burton offensive rebound,Offensive Rebound,156,False,1,7:53,2,3,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,27,3
+2026-08-26,40185717634,Cecilia Zandalasini misses 14-foot jumper,Jump Shot,92,False,1,7:45,2,3,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,17,12
+2026-08-26,40185717635,Hailey Van Lith defensive rebound,Defensive Rebound,155,False,1,7:41,2,3,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,17,12
+2026-08-26,40185717636,Diamond Miller misses 26-foot three point jumper,Jump Shot,92,False,1,7:26,2,3,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,13,24
+2026-08-26,40185717637,Kiah Stokes defensive rebound,Defensive Rebound,155,False,1,7:23,2,3,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,13,24
+2026-08-26,40185717638,Veronica Burton makes driving layup,Driving Layup Shot,110,True,1,7:16,2,5,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,24,1
+2026-08-26,40185717639,Diamond Miller misses 25-foot three point jumper,Jump Shot,92,False,1,6:56,2,5,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,4,15
+2026-08-26,40185717640,Gabby Williams defensive rebound,Defensive Rebound,155,False,1,6:53,2,5,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,4,15
+2026-08-26,40185717641,Cecilia Zandalasini misses 25-foot three point jumper,Jump Shot,92,False,1,6:35,2,5,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,27,25
+2026-08-26,40185717642,Aaliyah Edwards defensive rebound,Defensive Rebound,155,False,1,6:33,2,5,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,27,25
+2026-08-26,40185717643,Veronica Burton shooting foul,Shooting Foul,44,False,1,6:27,2,5,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,21,4
+2026-08-26,40185717645,Saniya Rivers misses free throw 1 of 2,Free Throw - 1 of 2,98,False,1,6:27,2,5,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,-214748340,-214748365
+2026-08-26,40185717646,Sun offensive team rebound,Offensive Rebound,156,False,1,6:27,2,5,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,40185717647,Saniya Rivers makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,6:27,3,5,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,-214748340,-214748365
+2026-08-26,40185717648,Gabby Williams misses 26-foot three point jumper,Jump Shot,92,False,1,6:08,3,5,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,39,22
+2026-08-26,40185717649,Aaliyah Edwards defensive rebound,Defensive Rebound,155,False,1,6:06,3,5,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,39,22
+2026-08-26,40185717650,Aaliyah Edwards makes layup,Layup Shot,95,True,1,5:56,5,5,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,26,1
+2026-08-26,40185717651,Hailey Van Lith personal foul,Personal Foul,45,False,1,5:45,5,5,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,22,8
+2026-08-26,40185717653,Janelle Salaun enters the game for Cecilia Zandalasini,Substitution,584,False,1,5:45,5,5,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,4257500.0,Cecilia Zandalasini,,,-214748340,-214748365
+2026-08-26,40185717654,Tiffany Hayes enters the game for Kiah Stokes,Substitution,584,False,1,5:45,5,5,Connecticut Sun,Golden State Valkyries,1054.0,Tiffany Hayes,2590093.0,Kiah Stokes,,,-214748340,-214748365
+2026-08-26,40185717657,Janelle Salaun misses 24-foot three point jumper,Jump Shot,92,False,1,5:33,5,5,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,38,21
+2026-08-26,40185717658,Diamond Miller defensive rebound,Defensive Rebound,155,False,1,5:31,5,5,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,38,21
+2026-08-26,40185717659,"Diamond Miller bad pass
+turnover (Tiffany Hayes steals)","Bad Pass
+Turnover",62,False,1,5:27,5,5,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,1054.0,Tiffany Hayes,,,23,27
+2026-08-26,40185717661,Tiffany Hayes makes 25-foot running pullup jump shot (Gabby Williams assists),Running Pullup Jump Shot,146,True,1,5:20,5,8,Connecticut Sun,Golden State Valkyries,1054.0,Tiffany Hayes,3142328.0,Gabby Williams,,,45,15
+2026-08-26,40185717663,Gabby Williams blocks Kennedy Burke 's 6-foot driving layup,Driving Layup Shot,110,False,1,5:02,5,8,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,3142328.0,Gabby Williams,,,20,4
+2026-08-26,40185717665,Sun offensive team rebound,Offensive Rebound,156,False,1,5:01,5,8,Connecticut Sun,Golden State Valkyries,,,,,,,20,4
+2026-08-26,40185717667,Kaitlyn Chen enters the game for Veronica Burton,Substitution,584,False,1,5:01,5,8,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,4398935.0,Veronica Burton,,,-214748340,-214748365
+2026-08-26,40185717669,Hailey Van Lith misses driving layup,Driving Layup Shot,110,False,1,4:54,5,8,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,21,5
+2026-08-26,40185717670,Janelle Salaun defensive rebound,Defensive Rebound,155,False,1,4:50,5,8,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,21,5
+2026-08-26,40185717671,Gabby Williams misses driving floating jump shot,Driving Floating Jump Shot,144,False,1,4:45,5,8,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,26,5
+2026-08-26,40185717672,Diamond Miller defensive rebound,Defensive Rebound,155,False,1,4:43,5,8,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,26,5
+2026-08-26,40185717673,Aaliyah Edwards makes running layup (Diamond Miller assists),Running Layup Shot,109,True,1,4:39,7,8,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,4433635.0,Diamond Miller,,,25,4
+2026-08-26,40185717675,Tiffany Hayes misses driving layup,Driving Layup Shot,110,False,1,4:20,7,8,Connecticut Sun,Golden State Valkyries,1054.0,Tiffany Hayes,,,,,25,3
+2026-08-26,40185717676,Aaliyah Edwards defensive rebound,Defensive Rebound,155,False,1,4:17,7,8,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,25,3
+2026-08-26,40185717677,Kaitlyn Chen shooting foul,Shooting Foul,44,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,25,5
+2026-08-26,40185717679,Official timeout,Official Timeout,19,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,40185717680,Kaila Charles enters the game for Gabby Williams,Substitution,584,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,3142328.0,Gabby Williams,,,-214748340,-214748365
+2026-08-26,40185717681,Laeticia Amihere enters the game for Kayla Thornton,Substitution,584,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-08-26,40185717684,Diamond Miller misses free throw 1 of 2,Free Throw - 1 of 2,98,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,-214748340,-214748365
+2026-08-26,40185717685,Sun offensive team rebound,Offensive Rebound,156,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,40185717686,Diamond Miller misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,-214748340,-214748365
+2026-08-26,40185717687,Kaila Charles defensive rebound,Defensive Rebound,155,False,1,4:14,7,8,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-08-26,40185717688,Saniya Rivers shooting foul,Shooting Foul,44,False,1,4:03,7,8,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,32,4
+2026-08-26,40185717690,Kaila Charles makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,4:03,7,9,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-08-26,40185717691,Nell Angloma enters the game for Kennedy Burke,Substitution,584,False,1,4:03,7,9,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,3922628.0,Kennedy Burke,,,-214748340,-214748365
+2026-08-26,40185717693,Kaila Charles makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,4:03,7,10,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-08-26,40185717694,Diamond Miller misses layup,Layup Shot,95,False,1,3:42,7,10,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,22,2
+2026-08-26,40185717695,Kaila Charles defensive rebound,Defensive Rebound,155,False,1,3:39,7,10,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,22,2
+2026-08-26,40185717696,Janelle Salaun misses 23-foot three point jumper,Jump Shot,92,False,1,3:32,7,10,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,47,7
+2026-08-26,40185717697,Laeticia Amihere offensive rebound,Offensive Rebound,156,False,1,3:29,7,10,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,47,7
+2026-08-26,40185717698,Laeticia Amihere makes two point shot,Layup Shot Putback,125,True,1,3:28,7,12,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,26,2
+2026-08-26,40185717699,"Hailey Van Lith bad pass
+turnover (Tiffany Hayes steals)","Bad Pass
+Turnover",62,False,1,3:13,7,12,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,1054.0,Tiffany Hayes,,,24,29
+2026-08-26,401857176101,Tiffany Hayes makes running layup,Running Layup Shot,109,True,1,3:10,7,14,Connecticut Sun,Golden State Valkyries,1054.0,Tiffany Hayes,,,,,24,5
+2026-08-26,401857176102,Laeticia Amihere blocks Aaliyah Edwards 's 7-foot turnaround jump shot,Turnaround Jump Shot,114,False,1,2:56,7,14,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,4432834.0,Laeticia Amihere,,,23,7
+2026-08-26,401857176104,Janelle Salaun defensive rebound,Defensive Rebound,155,False,1,2:53,7,14,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,23,7
+2026-08-26,401857176105,Diamond Miller personal foul,Personal Foul,45,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,28,8
+2026-08-26,401857176107,Janelle Salaun misses free throw 1 of 2,Free Throw - 1 of 2,98,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,-214748340,-214748365
+2026-08-26,401857176108,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176109,Ashlon Jackson enters the game for Diamond Miller,Substitution,584,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,4433635.0,Diamond Miller,,,-214748340,-214748365
+2026-08-26,401857176110,Raegan Beers enters the game for Hailey Van Lith,Substitution,584,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,4433412.0,Hailey Van Lith,,,-214748340,-214748365
+2026-08-26,401857176111,Veronica Burton enters the game for Tiffany Hayes,Substitution,584,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,1054.0,Tiffany Hayes,,,-214748340,-214748365
+2026-08-26,401857176115,Janelle Salaun misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,2:47,7,14,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,-214748340,-214748365
+2026-08-26,401857176116,Sun defensive team rebound,Defensive Rebound,155,False,1,2:46,7,14,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176117,Janelle Salaun loose ball foul,Loose Ball Foul,43,False,1,2:46,7,14,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,23,24
+2026-08-26,401857176119,Laeticia Amihere blocks Raegan Beers 's 5-foot layup,Layup Shot,95,False,1,2:29,7,14,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,4432834.0,Laeticia Amihere,,,25,5
+2026-08-26,401857176121,Raegan Beers offensive rebound,Offensive Rebound,156,False,1,2:29,7,14,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,25,5
+2026-08-26,401857176122,Kaila Charles vs. Raegan Beers (Saniya Rivers gains possession),Jumpball,615,False,1,2:25,7,14,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,4065780.0,Kaila Charles,4433514.0,Saniya Rivers,-214748340,-214748365
+2026-08-26,401857176127,shot clock turnover ,Shot Clock Turnover,70,False,1,2:21,7,14,Connecticut Sun,Golden State Valkyries,,,,,,,17,26
+2026-08-26,401857176128,Veronica Burton makes 27-foot three point jumper (Kaila Charles assists),Jump Shot,92,True,1,2:07,7,17,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,4065780.0,Kaila Charles,,,27,27
+2026-08-26,401857176130,Sun Full timeout,Full Timeout,16,False,1,2:07,7,17,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176131,Gianna Kneepkens enters the game for Aaliyah Edwards,Substitution,584,False,1,2:07,7,17,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,4433408.0,Aaliyah Edwards,,,-214748340,-214748365
+2026-08-26,401857176132,Kennedy Burke enters the game for Nell Angloma,Substitution,584,False,1,2:07,7,17,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,5345319.0,Nell Angloma,,,-214748340,-214748365
+2026-08-26,401857176135,"Gianna Kneepkens bad pass
+turnover (Kaitlyn Chen steals)","Bad Pass
+Turnover",62,False,1,1:46,7,17,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,4899328.0,Kaitlyn Chen,,,12,24
+2026-08-26,401857176137,Kaitlyn Chen makes running layup,Running Layup Shot,109,True,1,1:42,7,19,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,26,5
+2026-08-26,401857176138,Kennedy Burke makes 5-foot layup (Raegan Beers assists),Cutting Layup Shot,141,True,1,1:22,9,19,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,5105732.0,Raegan Beers,,,24,5
+2026-08-26,401857176140,Saniya Rivers personal foul,Personal Foul,45,False,1,1:11,9,19,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,28,12
+2026-08-26,401857176142,Kaila Charles makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,1:11,9,20,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-08-26,401857176143,Kaila Charles misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,1:11,9,20,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-08-26,401857176144,Gianna Kneepkens defensive rebound,Defensive Rebound,155,False,1,1:11,9,20,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,-214748340,-214748365
+2026-08-26,401857176145,Laeticia Amihere personal foul,Personal Foul,45,False,1,58.5,9,20,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,26,3
+2026-08-26,401857176147,Gianna Kneepkens misses 24-foot three point jumper,Jump Shot,92,False,1,50.0,9,20,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,45,13
+2026-08-26,401857176148,Janelle Salaun defensive rebound,Defensive Rebound,155,False,1,47.7,9,20,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,45,13
+2026-08-26,401857176149,Janelle Salaun makes 25-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,1,44.1,9,23,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,4398935.0,Veronica Burton,,,9,20
+2026-08-26,401857176151,Saniya Rivers flagrant foul type 1,Flagrant Foul Type 1,32,False,1,44.1,9,23,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,9,20
+2026-08-26,401857176153,(00:44.1) [Golden State Valkyries] REF-INITIATED REVIEW (CALL OVERTURNED),Ref-Initiated Review (Overturned),279,False,1,44.1,9,23,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176155,Janelle Salaun makes free throw flagrant 1 of 1,Free Throw - Flagrant 1 of 1,106,True,1,44.1,9,24,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,-214748340,-214748365
+2026-08-26,401857176156,Diamond Miller enters the game for Saniya Rivers,Substitution,584,False,1,44.1,9,24,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,4433514.0,Saniya Rivers,,,-214748340,-214748365
+2026-08-26,401857176158,Kaila Charles misses 5-foot jumper,Jump Shot,92,False,1,28.5,9,24,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,27,5
+2026-08-26,401857176159,Sun defensive team rebound,Defensive Rebound,155,False,1,28.5,9,24,Connecticut Sun,Golden State Valkyries,,,,,,,27,5
+2026-08-26,401857176162,Laeticia Amihere shooting foul,Shooting Foul,44,False,1,12.4,9,24,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,25,6
+2026-08-26,401857176164,Raegan Beers makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,12.4,10,24,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,-214748340,-214748365
+2026-08-26,401857176165,Raegan Beers makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,12.4,11,24,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,-214748340,-214748365
+2026-08-26,401857176166,Kaitlyn Chen makes layup (Kaila Charles assists),Layup Shot,95,True,1,2.3,11,26,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,4065780.0,Kaila Charles,,,27,3
+2026-08-26,401857176168,Ashlon Jackson misses 45-foot three point jumper,Jump Shot,92,False,1,1.0,11,26,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,43,41
+2026-08-26,401857176169,Sun offensive team rebound,Offensive Rebound,156,False,1,0.3,11,26,Connecticut Sun,Golden State Valkyries,,,,,,,43,41
+2026-08-26,401857176170,End of the 1st Quarter,End Period,412,False,1,0.0,11,26,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176171,Charlisse Leger-Walker enters the game for Ashlon Jackson,Substitution,584,False,2,10:00,11,26,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,5106232.0,Ashlon Jackson,,,-214748340,-214748365
+2026-08-26,401857176174,Gianna Kneepkens misses 24-foot three point jumper,Jump Shot,92,False,2,9:37,11,26,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,49,6
+2026-08-26,401857176175,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,2,9:34,11,26,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,49,6
+2026-08-26,401857176176,Veronica Burton makes 5-foot turnaround jump shot (Kaitlyn Chen assists),Turnaround Jump Shot,114,True,2,9:15,11,28,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,4899328.0,Kaitlyn Chen,,,24,5
+2026-08-26,401857176178,Charlisse Leger-Walker makes 24-foot three point jumper (Diamond Miller assists),Jump Shot,92,True,2,8:59,14,28,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,4433635.0,Diamond Miller,,,2,6
+2026-08-26,401857176180,Veronica Burton misses 9-foot pullup jump shot,Pullup Jump Shot,131,False,2,8:40,14,28,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,30,8
+2026-08-26,401857176181,Sun defensive team rebound,Defensive Rebound,155,False,2,8:40,14,28,Connecticut Sun,Golden State Valkyries,,,,,,,30,8
+2026-08-26,401857176182,Veronica Burton loose ball foul,Loose Ball Foul,43,False,2,8:40,14,28,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,22,12
+2026-08-26,401857176184,Aaliyah Edwards enters the game for Gianna Kneepkens,Substitution,584,False,2,8:40,14,28,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,4898898.0,Gianna Kneepkens,,,-214748340,-214748365
+2026-08-26,401857176185,Gabby Williams enters the game for Veronica Burton,Substitution,584,False,2,8:40,14,28,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,4398935.0,Veronica Burton,,,-214748340,-214748365
+2026-08-26,401857176188,Diamond Miller makes driving layup (Aaliyah Edwards assists),Driving Layup Shot,110,True,2,8:27,16,28,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,4433408.0,Aaliyah Edwards,,,23,6
+2026-08-26,401857176190,Kaila Charles shooting foul,Shooting Foul,44,False,2,8:27,16,28,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,24,3
+2026-08-26,401857176192,Diamond Miller makes free throw 1 of 1,Free Throw - 1 of 1,97,True,2,8:27,17,28,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,-214748340,-214748365
+2026-08-26,401857176193,Kaila Charles traveling turnover,Traveling,64,False,2,8:14,17,28,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,6,3
+2026-08-26,401857176194,Golden State Valkyries Full timeout,Full Timeout,16,False,2,8:14,17,28,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176196,Aaliyah Edwards misses 11-foot turnaround jump shot,Turnaround Jump Shot,114,False,2,8:00,17,28,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,30,10
+2026-08-26,401857176197,Kaila Charles defensive rebound,Defensive Rebound,155,False,2,7:57,17,28,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,30,10
+2026-08-26,401857176198,Gabby Williams makes 27-foot three point step back jumpshot (Laeticia Amihere assists),Step Back Jump Shot,132,True,2,7:39,17,31,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,4432834.0,Laeticia Amihere,,,9,22
+2026-08-26,401857176199,"Aaliyah Edwards bad pass
+turnover (Gabby Williams steals)","Bad Pass
+Turnover",62,False,2,7:18,17,31,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,3142328.0,Gabby Williams,,,30,8
+2026-08-26,401857176201,Laeticia Amihere makes running layup (Gabby Williams assists),Running Layup Shot,109,True,2,7:12,17,33,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,3142328.0,Gabby Williams,,,24,3
+2026-08-26,401857176203,Kaitlyn Chen shooting foul,Shooting Foul,44,False,2,7:02,17,33,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,27,6
+2026-08-26,401857176206,Charlisse Leger-Walker misses free throw 1 of 2,Free Throw - 1 of 2,98,False,2,7:02,17,33,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,-214748340,-214748365
+2026-08-26,401857176207,Sun offensive team rebound,Offensive Rebound,156,False,2,7:02,17,33,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176208,Nell Angloma enters the game for Raegan Beers,Substitution,584,False,2,7:02,17,33,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,5105732.0,Raegan Beers,,,-214748340,-214748365
+2026-08-26,401857176210,Charlisse Leger-Walker makes free throw 2 of 2,Free Throw - 2 of 2,99,True,2,7:02,18,33,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,-214748340,-214748365
+2026-08-26,401857176211,"Kaitlyn Chen bad pass
+turnover (Aaliyah Edwards steals)","Bad Pass
+Turnover",62,False,2,6:41,18,33,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,4433408.0,Aaliyah Edwards,,,16,17
+2026-08-26,401857176213,Nell Angloma makes running layup (Aaliyah Edwards assists),Running Layup Shot,109,True,2,6:36,20,33,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,4433408.0,Aaliyah Edwards,,,22,5
+2026-08-26,401857176215,Kaitlyn Chen misses 2-foot two point shot,Driving Jump Shot Bank,134,False,2,6:15,20,33,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,27,1
+2026-08-26,401857176216,Charlisse Leger-Walker defensive rebound,Defensive Rebound,155,False,2,6:12,20,33,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,27,1
+2026-08-26,401857176217,Diamond Miller makes running layup (Charlisse Leger-Walker assists),Running Layup Shot,109,True,2,6:09,22,33,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,4703609.0,Charlisse Leger-Walker,,,24,4
+2026-08-26,401857176219,Janelle Salaun makes 26-foot three point jumper (Kaitlyn Chen assists),Jump Shot,92,True,2,5:48,22,36,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,4899328.0,Kaitlyn Chen,,,15,24
+2026-08-26,401857176221,Diamond Miller misses 24-foot three point pullup jump shot,Pullup Jump Shot,131,False,2,5:29,22,36,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,38,21
+2026-08-26,401857176222,Aaliyah Edwards offensive rebound,Offensive Rebound,156,False,2,5:26,22,36,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,38,21
+2026-08-26,401857176223,Charlisse Leger-Walker makes 27-foot three point step back jumpshot,Step Back Jump Shot,132,True,2,5:15,25,36,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,46,17
+2026-08-26,401857176224,Janelle Salaun makes 25-foot three pointer,Pullup Jump Shot,131,True,2,4:53,25,39,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,19,25
+2026-08-26,401857176225,Diamond Miller misses driving layup,Driving Layup Shot,110,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,22,4
+2026-08-26,401857176226,Sun offensive team rebound,Offensive Rebound,156,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,,,,,,,22,4
+2026-08-26,401857176227,Kaila Charles personal foul,Personal Foul,45,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,22,4
+2026-08-26,401857176229,Cecilia Zandalasini enters the game for Gabby Williams,Substitution,584,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,3142328.0,Gabby Williams,,,-214748340,-214748365
+2026-08-26,401857176230,Kiah Stokes enters the game for Kaitlyn Chen,Substitution,584,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,4899328.0,Kaitlyn Chen,,,-214748340,-214748365
+2026-08-26,401857176231,Kayla Thornton enters the game for Laeticia Amihere,Substitution,584,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,4432834.0,Laeticia Amihere,,,-214748340,-214748365
+2026-08-26,401857176232,Veronica Burton enters the game for Kaila Charles,Substitution,584,False,2,4:37,25,39,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,4065780.0,Kaila Charles,,,-214748340,-214748365
+2026-08-26,401857176245,Kennedy Burke misses driving layup,Driving Layup Shot,110,False,2,4:33,25,39,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,27,2
+2026-08-26,401857176246,Kennedy Burke offensive rebound,Offensive Rebound,156,False,2,4:33,25,39,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,27,2
+2026-08-26,401857176237,Cecilia Zandalasini shooting foul,Shooting Foul,44,False,2,4:31,25,39,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,25,3
+2026-08-26,401857176239,Kennedy Burke misses free throw 1 of 2,Free Throw - 1 of 2,98,False,2,4:31,25,39,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,-214748340,-214748365
+2026-08-26,401857176240,Sun offensive team rebound,Offensive Rebound,156,False,2,4:31,25,39,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176241,Kennedy Burke misses free throw 2 of 2,Free Throw - 2 of 2,99,False,2,4:31,25,39,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,-214748340,-214748365
+2026-08-26,401857176242,Kiah Stokes defensive rebound,Defensive Rebound,155,False,2,4:28,25,39,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,-214748340,-214748365
+2026-08-26,401857176244,Aaliyah Edwards kicked ball violation,Kicked Ball,12,False,2,4:08,25,39,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,-214748340,-214748365
+2026-08-26,401857176247,Veronica Burton makes driving layup,Driving Layup Shot,110,True,2,4:00,25,41,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,27,3
+2026-08-26,401857176248,Veronica Burton shooting foul,Shooting Foul,44,False,2,3:52,25,41,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,27,4
+2026-08-26,401857176250,Charlisse Leger-Walker makes free throw 1 of 2,Free Throw - 1 of 2,98,True,2,3:52,26,41,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,-214748340,-214748365
+2026-08-26,401857176251,Gianna Kneepkens enters the game for Kennedy Burke,Substitution,584,False,2,3:52,26,41,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,3922628.0,Kennedy Burke,,,-214748340,-214748365
+2026-08-26,401857176253,Charlisse Leger-Walker makes free throw 2 of 2,Free Throw - 2 of 2,99,True,2,3:52,27,41,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,-214748340,-214748365
+2026-08-26,401857176254,Gianna Kneepkens shooting foul,Shooting Foul,44,False,2,3:36,27,41,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,29,5
+2026-08-26,401857176256,Cecilia Zandalasini makes free throw 1 of 2,Free Throw - 1 of 2,98,True,2,3:36,27,42,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-08-26,401857176257,Gabby Williams enters the game for Janelle Salaun,Substitution,584,False,2,3:36,27,42,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,4790264.0,Janelle Salaun,,,-214748340,-214748365
+2026-08-26,401857176259,Cecilia Zandalasini makes free throw 2 of 2,Free Throw - 2 of 2,99,True,2,3:36,27,43,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-08-26,401857176260,"Charlisse Leger-Walker bad pass
+turnover (Cecilia Zandalasini steals)","Bad Pass
+Turnover",62,False,2,3:29,27,43,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,4257500.0,Cecilia Zandalasini,,,23,34
+2026-08-26,401857176262,Cecilia Zandalasini makes running layup (Veronica Burton assists),Running Layup Shot,109,True,2,3:28,27,45,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,4398935.0,Veronica Burton,,,28,3
+2026-08-26,401857176264,Charlisse Leger-Walker shooting foul,Shooting Foul,44,False,2,3:28,27,45,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,28,3
+2026-08-26,401857176266,Hailey Van Lith enters the game for Charlisse Leger-Walker,Substitution,584,False,2,3:28,27,45,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,4703609.0,Charlisse Leger-Walker,,,-214748340,-214748365
+2026-08-26,401857176268,Cecilia Zandalasini makes free throw 1 of 1,Free Throw - 1 of 1,97,True,2,3:28,27,46,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-08-26,401857176269,Aaliyah Edwards misses 14-foot fade away jump shot,Fade Away Jump Shot,121,False,2,3:05,27,46,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,19,13
+2026-08-26,401857176270,Cecilia Zandalasini defensive rebound,Defensive Rebound,155,False,2,3:03,27,46,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,19,13
+2026-08-26,401857176271,Cecilia Zandalasini makes 17-foot step back jumpshot (Veronica Burton assists),Step Back Jump Shot,132,True,2,2:41,27,48,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,4398935.0,Veronica Burton,,,24,17
+2026-08-26,401857176273,Diamond Miller misses driving layup,Driving Layup Shot,110,False,2,2:20,27,48,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,21,6
+2026-08-26,401857176274,Hailey Van Lith offensive rebound,Offensive Rebound,156,False,2,2:18,27,48,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,21,6
+2026-08-26,401857176275,Kiah Stokes blocks Diamond Miller 's 7-foot driving layup,Driving Layup Shot,110,False,2,2:11,27,48,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,2590093.0,Kiah Stokes,,,24,7
+2026-08-26,401857176277,Cecilia Zandalasini defensive rebound,Defensive Rebound,155,False,2,2:10,27,48,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,24,7
+2026-08-26,401857176278,Kiah Stokes misses 22-foot three point jumper,Jump Shot,92,False,2,1:54,27,48,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,2,4
+2026-08-26,401857176279,Veronica Burton offensive rebound,Offensive Rebound,156,False,2,1:52,27,48,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,2,4
+2026-08-26,401857176280,Kiah Stokes makes 4-foot layup (Gabby Williams assists),Cutting Layup Shot,141,True,2,1:48,27,50,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,3142328.0,Gabby Williams,,,22,3
+2026-08-26,401857176282,Aaliyah Edwards misses 9-foot turnaround jump shot,Turnaround Jump Shot,114,False,2,1:26,27,50,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,25,10
+2026-08-26,401857176283,Kayla Thornton defensive rebound,Defensive Rebound,155,False,2,1:24,27,50,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,,,,,25,10
+2026-08-26,401857176284,Kiah Stokes makes 23-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,2,1:14,27,53,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,4398935.0,Veronica Burton,,,48,6
+2026-08-26,401857176286,Kiah Stokes blocks Diamond Miller 's 5-foot driving layup,Driving Layup Shot,110,False,2,56.3,27,53,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,2590093.0,Kiah Stokes,,,29,4
+2026-08-26,401857176288,Kiah Stokes defensive rebound,Defensive Rebound,155,False,2,53.3,27,53,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,29,4
+2026-08-26,401857176289,Gabby Williams makes driving layup (Cecilia Zandalasini assists),Driving Layup Shot,110,True,2,49.3,27,55,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,4257500.0,Cecilia Zandalasini,,,27,2
+2026-08-26,401857176292,Nell Angloma misses 25-foot three point jumper,Jump Shot,92,False,2,25.5,27,55,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,37,22
+2026-08-26,401857176293,Kiah Stokes defensive rebound,Defensive Rebound,155,False,2,23.1,27,55,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,37,22
+2026-08-26,401857176294,Hailey Van Lith blocks Veronica Burton 's 17-foot two point shot,Turnaround Fade Away Jump Shot,137,False,2,1.6,27,55,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,4433412.0,Hailey Van Lith,,,19,16
+2026-08-26,401857176296,Aaliyah Edwards defensive rebound,Defensive Rebound,155,False,2,0.5,27,55,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,19,16
+2026-08-26,401857176297,Aaliyah Edwards double dribble turnover,Double Dribble Turnover,65,False,2,0.5,27,55,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,18,24
+2026-08-26,401857176298,Sun Full timeout,Full Timeout,16,False,2,0.5,27,55,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176301,Gabby Williams misses alley oop layup,Alley Oop Layup Shot,111,False,2,0.3,27,55,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,30,7
+2026-08-26,401857176302,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,2,0.1,27,55,Connecticut Sun,Golden State Valkyries,,,,,,,30,7
+2026-08-26,401857176303,End of the 2nd Quarter,End Period,412,False,2,0.0,27,55,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176304,Charlisse Leger-Walker enters the game for Gianna Kneepkens,Substitution,584,False,3,10:00,27,55,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,4898898.0,Gianna Kneepkens,,,-214748340,-214748365
+2026-08-26,401857176305,Kennedy Burke enters the game for Nell Angloma,Substitution,584,False,3,10:00,27,55,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,5345319.0,Nell Angloma,,,-214748340,-214748365
+2026-08-26,401857176306,Saniya Rivers enters the game for Hailey Van Lith,Substitution,584,False,3,10:00,27,55,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,4433412.0,Hailey Van Lith,,,-214748340,-214748365
+2026-08-26,401857176311,Charlisse Leger-Walker makes 27-foot three point jumper (Saniya Rivers assists),Jump Shot,92,True,3,9:43,30,55,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,4433514.0,Saniya Rivers,,,39,23
+2026-08-26,401857176313,Cecilia Zandalasini misses driving layup,Driving Layup Shot,110,False,3,9:22,30,55,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,27,6
+2026-08-26,401857176314,Charlisse Leger-Walker defensive rebound,Defensive Rebound,155,False,3,9:19,30,55,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,27,6
+2026-08-26,401857176315,Saniya Rivers makes running layup (Charlisse Leger-Walker assists),Running Layup Shot,109,True,3,9:16,32,55,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,4703609.0,Charlisse Leger-Walker,,,28,4
+2026-08-26,401857176317,Diamond Miller shooting foul,Shooting Foul,44,False,3,9:04,32,55,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,23,6
+2026-08-26,401857176319,Gabby Williams misses free throw 1 of 2,Free Throw - 1 of 2,98,False,3,9:04,32,55,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-08-26,401857176320,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,3,9:04,32,55,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176321,Gabby Williams makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,9:04,32,56,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-08-26,401857176323,Kiah Stokes shooting foul,Shooting Foul,44,False,3,8:41,32,56,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,20,5
+2026-08-26,401857176325,Diamond Miller makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,8:41,33,56,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,-214748340,-214748365
+2026-08-26,401857176326,Diamond Miller misses free throw 2 of 2,Free Throw - 2 of 2,99,False,3,8:41,33,56,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,-214748340,-214748365
+2026-08-26,401857176327,Kayla Thornton defensive rebound,Defensive Rebound,155,False,3,8:41,33,56,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,,,,,-214748340,-214748365
+2026-08-26,401857176328,Cecilia Zandalasini misses 26-foot three point jumper,Jump Shot,92,False,3,8:25,33,56,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,11,22
+2026-08-26,401857176329,Diamond Miller defensive rebound,Defensive Rebound,155,False,3,8:23,33,56,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,11,22
+2026-08-26,401857176330,Diamond Miller offensive foul,Offensive Foul,42,False,3,8:23,33,56,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,28,29
+2026-08-26,401857176332,Diamond Miller offensive foul turnover,Offensive Foul Turnover,84,False,3,8:23,33,56,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,28,29
+2026-08-26,401857176333,Kiah Stokes makes 5-foot layup (Cecilia Zandalasini assists),Cutting Layup Shot,141,True,3,8:08,33,58,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,4257500.0,Cecilia Zandalasini,,,23,5
+2026-08-26,401857176335,Charlisse Leger-Walker misses 24-foot running jump shot,Running Jump Shot,113,False,3,8:01,33,58,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,13,21
+2026-08-26,401857176336,Gabby Williams defensive rebound,Defensive Rebound,155,False,3,7:58,33,58,Connecticut Sun,Golden State Valkyries,3142328.0,Gabby Williams,,,,,13,21
+2026-08-26,401857176337,Cecilia Zandalasini traveling turnover,Traveling,64,False,3,7:40,33,58,Connecticut Sun,Golden State Valkyries,4257500.0,Cecilia Zandalasini,,,,,32,25
+2026-08-26,401857176338,Kaitlyn Chen enters the game for Gabby Williams,Substitution,584,False,3,7:40,33,58,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,3142328.0,Gabby Williams,,,-214748340,-214748365
+2026-08-26,401857176339,Kaila Charles enters the game for Cecilia Zandalasini,Substitution,584,False,3,7:40,33,58,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,4257500.0,Cecilia Zandalasini,,,-214748340,-214748365
+2026-08-26,401857176342,"Diamond Miller bad pass
+turnover","Bad Pass
+Turnover",62,False,3,7:33,33,58,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,12,23
+2026-08-26,401857176344,Kiah Stokes misses 23-foot three point jumper,Jump Shot,92,False,3,7:16,33,58,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,2,6
+2026-08-26,401857176345,Diamond Miller defensive rebound,Defensive Rebound,155,False,3,7:13,33,58,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,2,6
+2026-08-26,401857176346,Aaliyah Edwards misses running layup,Running Layup Shot,109,False,3,7:08,33,58,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,,,,,24,2
+2026-08-26,401857176347,Kiah Stokes defensive rebound,Defensive Rebound,155,False,3,7:06,33,58,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,24,2
+2026-08-26,401857176348,Kiah Stokes out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,3,7:05,33,58,Connecticut Sun,Golden State Valkyries,2590093.0,Kiah Stokes,,,,,27,6
+2026-08-26,401857176349,Aaliyah Edwards makes 19-foot jumper (Charlisse Leger-Walker assists),Jump Shot,92,True,3,7:02,35,58,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,4703609.0,Charlisse Leger-Walker,,,29,19
+2026-08-26,401857176351,Kaila Charles makes 6-foot two point shot,Driving Finger Roll Layup,128,True,3,6:41,35,60,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,22,5
+2026-08-26,401857176352,Kiah Stokes blocks Kennedy Burke 's 5-foot driving layup,Driving Layup Shot,110,False,3,6:19,35,60,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,2590093.0,Kiah Stokes,,,26,5
+2026-08-26,401857176354,Kennedy Burke offensive rebound,Offensive Rebound,156,False,3,6:15,35,60,Connecticut Sun,Golden State Valkyries,3922628.0,Kennedy Burke,,,,,26,5
+2026-08-26,401857176355,Saniya Rivers makes 27-foot three point jumper (Kennedy Burke assists),Jump Shot,92,True,3,6:14,38,60,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,3922628.0,Kennedy Burke,,,9,22
+2026-08-26,401857176357,Veronica Burton makes driving layup,Driving Layup Shot,110,True,3,5:53,38,62,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,23,2
+2026-08-26,401857176358,Diamond Miller shooting foul,Shooting Foul,44,False,3,5:53,38,62,Connecticut Sun,Golden State Valkyries,4433635.0,Diamond Miller,,,,,25,4
+2026-08-26,401857176360,Ashlon Jackson enters the game for Diamond Miller,Substitution,584,False,3,5:53,38,62,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,4433635.0,Diamond Miller,,,-214748340,-214748365
+2026-08-26,401857176361,Janelle Salaun enters the game for Kiah Stokes,Substitution,584,False,3,5:53,38,62,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,2590093.0,Kiah Stokes,,,-214748340,-214748365
+2026-08-26,401857176364,Veronica Burton makes free throw 1 of 1,Free Throw - 1 of 1,97,True,3,5:53,38,63,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,-214748340,-214748365
+2026-08-26,401857176365,Ashlon Jackson misses 25-foot three point jumper,Jump Shot,92,False,3,5:41,38,63,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,48,10
+2026-08-26,401857176366,Kaitlyn Chen defensive rebound,Defensive Rebound,155,False,3,5:38,38,63,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,48,10
+2026-08-26,401857176367,Kaitlyn Chen makes 6-foot two point shot (Veronica Burton assists),Driving Finger Roll Layup,128,True,3,5:25,38,65,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,4398935.0,Veronica Burton,,,23,6
+2026-08-26,401857176369,Aaliyah Edwards makes driving layup (Kennedy Burke assists),Driving Layup Shot,110,True,3,5:10,40,65,Connecticut Sun,Golden State Valkyries,4433408.0,Aaliyah Edwards,3922628.0,Kennedy Burke,,,25,3
+2026-08-26,401857176371,Janelle Salaun makes 26-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,3,4:55,40,68,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,4398935.0,Veronica Burton,,,40,22
+2026-08-26,401857176373,Ashlon Jackson makes driving layup (Charlisse Leger-Walker assists),Driving Layup Shot,110,True,3,4:41,42,68,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,4703609.0,Charlisse Leger-Walker,,,23,4
+2026-08-26,401857176375,Veronica Burton misses 26-foot three point pullup jump shot,Pullup Jump Shot,131,False,3,4:27,42,68,Connecticut Sun,Golden State Valkyries,4398935.0,Veronica Burton,,,,,34,24
+2026-08-26,401857176376,Ashlon Jackson defensive rebound,Defensive Rebound,155,False,3,4:25,42,68,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,34,24
+2026-08-26,401857176377,Kaila Charles blocks Ashlon Jackson 's 4-foot running layup,Running Layup Shot,109,False,3,4:19,42,68,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,4065780.0,Kaila Charles,,,26,4
+2026-08-26,401857176379,Kaila Charles defensive rebound,Defensive Rebound,155,False,3,4:17,42,68,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,26,4
+2026-08-26,401857176380,Janelle Salaun makes 19-foot step back jumpshot (Veronica Burton assists),Step Back Jump Shot,132,True,3,4:09,42,70,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,4398935.0,Veronica Burton,,,37,15
+2026-08-26,401857176382,Sun Full timeout,Full Timeout,16,False,3,4:07,42,70,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176383,Nell Angloma enters the game for Aaliyah Edwards,Substitution,584,False,3,4:07,42,70,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,4433408.0,Aaliyah Edwards,,,-214748340,-214748365
+2026-08-26,401857176384,Juste Jocyte enters the game for Veronica Burton,Substitution,584,False,3,4:07,42,70,Connecticut Sun,Golden State Valkyries,5277552.0,Juste Jocyte,4398935.0,Veronica Burton,,,-214748340,-214748365
+2026-08-26,401857176387,Charlisse Leger-Walker makes 2-foot two point shot (Kennedy Burke assists),Driving Finger Roll Layup,128,True,3,3:46,44,70,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,3922628.0,Kennedy Burke,,,25,3
+2026-08-26,401857176389,Kaila Charles makes 19-foot pullup jump shot (Janelle Salaun assists),Pullup Jump Shot,131,True,3,3:23,44,72,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,4790264.0,Janelle Salaun,,,14,16
+2026-08-26,401857176391,Kayla Thornton shooting foul,Shooting Foul,44,False,3,3:09,44,72,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,,,,,20,7
+2026-08-26,401857176393,Saniya Rivers makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,3:09,45,72,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,-214748340,-214748365
+2026-08-26,401857176394,Saniya Rivers misses free throw 2 of 2,Free Throw - 2 of 2,99,False,3,3:09,45,72,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,-214748340,-214748365
+2026-08-26,401857176395,Kayla Thornton defensive rebound,Defensive Rebound,155,False,3,3:06,45,72,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,,,,,-214748340,-214748365
+2026-08-26,401857176396,Kaila Charles makes 3-foot layup (Juste Jocyte assists),Cutting Layup Shot,141,True,3,2:52,45,74,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,5277552.0,Juste Jocyte,,,24,3
+2026-08-26,401857176398,Charlisse Leger-Walker makes 3-foot two point shot,Driving Finger Roll Layup,128,True,3,2:45,47,74,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,25,3
+2026-08-26,401857176399,Janelle Salaun shooting foul,Shooting Foul,44,False,3,2:45,47,74,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,25,3
+2026-08-26,401857176401,Rayah Marshall enters the game for Kennedy Burke,Substitution,584,False,3,2:45,47,74,Connecticut Sun,Golden State Valkyries,4433792.0,Rayah Marshall,3922628.0,Kennedy Burke,,,-214748340,-214748365
+2026-08-26,401857176403,Charlisse Leger-Walker makes free throw 1 of 1,Free Throw - 1 of 1,97,True,3,2:45,48,74,Connecticut Sun,Golden State Valkyries,4703609.0,Charlisse Leger-Walker,,,,,-214748340,-214748365
+2026-08-26,401857176404,Nell Angloma personal foul,Personal Foul,45,False,3,2:29,48,74,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,19,22
+2026-08-26,401857176407,Janelle Salaun misses two point shot,Turnaround Fadeaway Bank Jump Shot,148,False,3,2:16,48,74,Connecticut Sun,Golden State Valkyries,4790264.0,Janelle Salaun,,,,,12,8
+2026-08-26,401857176408,Kayla Thornton offensive rebound,Offensive Rebound,156,False,3,2:14,48,74,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,,,,,12,8
+2026-08-26,401857176409,Rayah Marshall blocks Kayla Thornton 's 7-foot two point shot,Layup Shot Putback,125,False,3,2:13,48,74,Connecticut Sun,Golden State Valkyries,2529622.0,Kayla Thornton,4433792.0,Rayah Marshall,,,22,6
+2026-08-26,401857176411,Kaitlyn Chen offensive rebound,Offensive Rebound,156,False,3,2:09,48,74,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,22,6
+2026-08-26,401857176412,Kaila Charles makes layup (Juste Jocyte assists),Layup Shot,95,True,3,2:06,48,76,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,5277552.0,Juste Jocyte,,,21,4
+2026-08-26,401857176414,Saniya Rivers misses 25-foot three point step back jumpshot,Step Back Jump Shot,132,False,3,1:43,48,76,Connecticut Sun,Golden State Valkyries,4433514.0,Saniya Rivers,,,,,40,21
+2026-08-26,401857176415,Kaila Charles defensive rebound,Defensive Rebound,155,False,3,1:43,48,76,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,40,21
+2026-08-26,401857176416,Ashlon Jackson personal foul,Personal Foul,45,False,3,1:32,48,76,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,34,9
+2026-08-26,401857176418,Kaitlyn Chen misses 24-foot three point jumper,Jump Shot,92,False,3,1:19,48,76,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,39,20
+2026-08-26,401857176419,Nell Angloma defensive rebound,Defensive Rebound,155,False,3,1:17,48,76,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,39,20
+2026-08-26,401857176420,Kaila Charles personal foul,Personal Foul,45,False,3,1:13,48,76,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,13,26
+2026-08-26,401857176422,Hailey Van Lith enters the game for Charlisse Leger-Walker,Substitution,584,False,3,1:13,48,76,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,4703609.0,Charlisse Leger-Walker,,,-214748340,-214748365
+2026-08-26,401857176424,Kaila Charles shooting foul,Shooting Foul,44,False,3,1:03,48,76,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,23,4
+2026-08-26,401857176426,Nell Angloma makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,1:03,49,76,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,-214748340,-214748365
+2026-08-26,401857176427,Nell Angloma makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,1:03,50,76,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,-214748340,-214748365
+2026-08-26,401857176428,Kaitlyn Chen makes 10-foot driving floating jump shot,Driving Floating Jump Shot,144,True,3,49.7,50,78,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,22,10
+2026-08-26,401857176429,Rayah Marshall makes 6-foot turnaround jump shot (Hailey Van Lith assists),Turnaround Jump Shot,114,True,3,33.6,52,78,Connecticut Sun,Golden State Valkyries,4433792.0,Rayah Marshall,4433412.0,Hailey Van Lith,,,25,6
+2026-08-26,401857176431,Hailey Van Lith shooting foul,Shooting Foul,44,False,3,20.5,52,78,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,25,7
+2026-08-26,401857176433,Kaitlyn Chen makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,20.5,52,79,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,-214748340,-214748365
+2026-08-26,401857176434,Kaitlyn Chen makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,20.5,52,80,Connecticut Sun,Golden State Valkyries,4899328.0,Kaitlyn Chen,,,,,-214748340,-214748365
+2026-08-26,401857176435,Nell Angloma misses driving layup,Driving Layup Shot,110,False,3,3.3,52,80,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,25,2
+2026-08-26,401857176436,Kaila Charles defensive rebound,Defensive Rebound,155,False,3,0.9,52,80,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,25,2
+2026-08-26,401857176437,End of the 3rd Quarter,End Period,412,False,3,0.0,52,80,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176438,Nadia Fingall enters the game for Kayla Thornton,Substitution,584,False,4,10:00,52,80,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-08-26,401857176439,Ashten Prechtel enters the game for Janelle Salaun,Substitution,584,False,4,10:00,52,80,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,4790264.0,Janelle Salaun,,,-214748340,-214748365
+2026-08-26,401857176443,Nadia Fingall makes 3-foot layup (Juste Jocyte assists),Cutting Layup Shot,141,True,4,9:38,52,82,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,5277552.0,Juste Jocyte,,,25,3
+2026-08-26,401857176445,Hailey Van Lith misses 11-foot pullup jump shot,Pullup Jump Shot,131,False,4,9:17,52,82,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,20,10
+2026-08-26,401857176446,Kaila Charles defensive rebound,Defensive Rebound,155,False,4,9:14,52,82,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,20,10
+2026-08-26,401857176447,Kaila Charles makes 26-foot three point jumper (Nadia Fingall assists),Jump Shot,92,True,4,9:01,52,85,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,4066546.0,Nadia Fingall,,,37,24
+2026-08-26,401857176449,Ashlon Jackson misses 24-foot three point jumper,Jump Shot,92,False,4,8:43,52,85,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,47,10
+2026-08-26,401857176450,Kaila Charles defensive rebound,Defensive Rebound,155,False,4,8:40,52,85,Connecticut Sun,Golden State Valkyries,4065780.0,Kaila Charles,,,,,47,10
+2026-08-26,401857176451,Juste Jocyte makes 12-foot step back jumpshot (Ashten Prechtel assists),Step Back Jump Shot,132,True,4,8:29,52,87,Connecticut Sun,Golden State Valkyries,5277552.0,Juste Jocyte,4433634.0,Ashten Prechtel,,,25,13
+2026-08-26,401857176453,"Nadia Fingall defensive 3-seconds (technical foul)
+",Defensive 3-Seconds Technical,29,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,,,,,23,14
+2026-08-26,401857176454,Gianna Kneepkens enters the game for Saniya Rivers,Substitution,584,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,4433514.0,Saniya Rivers,,,-214748340,-214748365
+2026-08-26,401857176456,Hailey Van Lith misses technical free throw,Free Throw - Technical,103,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,-214748340,-214748365
+2026-08-26,401857176457,Sun offensive team rebound,Offensive Rebound,156,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176458,Laeticia Amihere enters the game for Kaitlyn Chen,Substitution,584,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,4899328.0,Kaitlyn Chen,,,-214748340,-214748365
+2026-08-26,401857176459,Miela Sowah enters the game for Kaila Charles,Substitution,584,False,4,8:13,52,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,4065780.0,Kaila Charles,,,-214748340,-214748365
+2026-08-26,401857176462,Nell Angloma makes 26-foot three point jumper (Ashlon Jackson assists),Jump Shot,92,True,4,8:04,55,87,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,5106232.0,Ashlon Jackson,,,10,22
+2026-08-26,401857176464,Ashten Prechtel misses 25-foot three point jumper,Jump Shot,92,False,4,7:44,55,87,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,44,17
+2026-08-26,401857176465,Gianna Kneepkens defensive rebound,Defensive Rebound,155,False,4,7:39,55,87,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,44,17
+2026-08-26,401857176466,Nell Angloma misses 25-foot three point jumper,Jump Shot,92,False,4,7:32,55,87,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,46,15
+2026-08-26,401857176467,Miela Sowah defensive rebound,Defensive Rebound,155,False,4,7:30,55,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,46,15
+2026-08-26,401857176468,Miela Sowah out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,4,7:26,55,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,13,38
+2026-08-26,401857176469,Ashlon Jackson misses 27-foot three point step back jumpshot,Step Back Jump Shot,132,False,4,7:08,55,87,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,29,27
+2026-08-26,401857176470,Hailey Van Lith offensive rebound,Offensive Rebound,156,False,4,7:05,55,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,29,27
+2026-08-26,401857176471,Hailey Van Lith misses 27-foot three point jumper,Jump Shot,92,False,4,7:05,55,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,8,21
+2026-08-26,401857176472,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,4,7:03,55,87,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,8,21
+2026-08-26,401857176473,shot clock turnover ,Shot Clock Turnover,70,False,4,6:39,55,87,Connecticut Sun,Golden State Valkyries,,,,,,,29,20
+2026-08-26,401857176474,Raegan Beers enters the game for Rayah Marshall,Substitution,584,False,4,6:39,55,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,4433792.0,Rayah Marshall,,,-214748340,-214748365
+2026-08-26,401857176476,Gianna Kneepkens misses 26-foot three point jumper,Jump Shot,92,False,4,6:25,55,87,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,8,21
+2026-08-26,401857176477,Miela Sowah defensive rebound,Defensive Rebound,155,False,4,6:23,55,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,8,21
+2026-08-26,401857176478,Raegan Beers personal foul,Personal Foul,45,False,4,6:23,55,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,22,10
+2026-08-26,401857176480,Laeticia Amihere offensive foul,Offensive Foul,42,False,4,6:07,55,87,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,17,24
+2026-08-26,401857176482,Laeticia Amihere offensive foul turnover,Offensive Foul Turnover,84,False,4,6:07,55,87,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,17,24
+2026-08-26,401857176483,Ashlon Jackson makes 16-foot pullup jump shot (Hailey Van Lith assists),Pullup Jump Shot,131,True,4,5:48,57,87,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,4433412.0,Hailey Van Lith,,,33,14
+2026-08-26,401857176485,Miela Sowah traveling turnover,Traveling,64,False,4,5:33,57,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,13,28
+2026-08-26,401857176486,Official timeout,Official Timeout,19,False,4,5:33,57,87,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176487,Raegan Beers offensive foul,Offensive Foul,42,False,4,5:21,57,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,37,15
+2026-08-26,401857176489,Raegan Beers offensive foul turnover,Offensive Foul Turnover,84,False,4,5:21,57,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,37,15
+2026-08-26,401857176490,Ashten Prechtel offensive foul,Offensive Foul,42,False,4,5:12,57,87,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,14,19
+2026-08-26,401857176492,Ashten Prechtel offensive foul turnover,Offensive Foul Turnover,84,False,4,5:12,57,87,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,14,19
+2026-08-26,401857176493,Gianna Kneepkens misses 6-foot floating jump shot,Floating Jump Shot,130,False,4,4:49,57,87,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,29,5
+2026-08-26,401857176494,Raegan Beers offensive rebound,Offensive Rebound,156,False,4,4:46,57,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,29,5
+2026-08-26,401857176495,Hailey Van Lith misses 23-foot three point jumper,Jump Shot,92,False,4,4:45,57,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,47,7
+2026-08-26,401857176496,Miela Sowah defensive rebound,Defensive Rebound,155,False,4,4:41,57,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,47,7
+2026-08-26,401857176497,Miela Sowah misses driving floating jump shot,Driving Floating Jump Shot,144,False,4,4:36,57,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,29,10
+2026-08-26,401857176498,Raegan Beers defensive rebound,Defensive Rebound,155,False,4,4:34,57,87,Connecticut Sun,Golden State Valkyries,5105732.0,Raegan Beers,,,,,29,10
+2026-08-26,401857176499,Ashten Prechtel personal foul,Personal Foul,45,False,4,4:34,57,87,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,27,14
+2026-08-26,401857176501,Ashlon Jackson misses two point shot,Driving Finger Roll Layup,128,False,4,4:21,57,87,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,24,5
+2026-08-26,401857176502,Sun offensive team rebound,Offensive Rebound,156,False,4,4:20,57,87,Connecticut Sun,Golden State Valkyries,,,,,,,24,5
+2026-08-26,401857176503,Ashten Prechtel loose ball foul,Loose Ball Foul,43,False,4,4:20,57,87,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,32,10
+2026-08-26,401857176505,Nell Angloma out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,4,4:13,57,87,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,28,28
+2026-08-26,401857176506,Hailey Van Lith personal foul,Personal Foul,45,False,4,4:02,57,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,21,18
+2026-08-26,401857176508,Rayah Marshall enters the game for Raegan Beers,Substitution,584,False,4,4:02,57,87,Connecticut Sun,Golden State Valkyries,4433792.0,Rayah Marshall,5105732.0,Raegan Beers,,,-214748340,-214748365
+2026-08-26,401857176510,Gianna Kneepkens blocks Miela Sowah 's 27-foot three point step back jumpshot,Step Back Jump Shot,132,False,4,3:47,57,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,4898898.0,Gianna Kneepkens,,,32,27
+2026-08-26,401857176512,Rayah Marshall defensive rebound,Defensive Rebound,155,False,4,3:44,57,87,Connecticut Sun,Golden State Valkyries,4433792.0,Rayah Marshall,,,,,32,27
+2026-08-26,401857176514,Hailey Van Lith makes 26-foot three point jumper (Gianna Kneepkens assists),Jump Shot,92,True,4,3:32,60,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,4898898.0,Gianna Kneepkens,,,43,18
+2026-08-26,401857176516,Ashlon Jackson personal foul,Personal Foul,45,False,4,3:22,60,87,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,27,14
+2026-08-26,401857176518,Laeticia Amihere misses 24-foot three point jumper,Jump Shot,92,False,4,3:07,60,87,Connecticut Sun,Golden State Valkyries,4432834.0,Laeticia Amihere,,,,,2,8
+2026-08-26,401857176519,Gianna Kneepkens defensive rebound,Defensive Rebound,155,False,4,3:03,60,87,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,2,8
+2026-08-26,401857176520,Hailey Van Lith misses 27-foot three point jumper,Jump Shot,92,False,4,2:57,60,87,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,18,26
+2026-08-26,401857176521,Nadia Fingall defensive rebound,Defensive Rebound,155,False,4,2:55,60,87,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,,,,,18,26
+2026-08-26,401857176522,Miela Sowah misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,4,2:40,60,87,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,2,9
+2026-08-26,401857176523,Nadia Fingall offensive rebound,Offensive Rebound,156,False,4,2:35,60,87,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,,,,,2,9
+2026-08-26,401857176524,Nadia Fingall makes two point shot,Layup Shot Putback,125,True,4,2:35,60,89,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,,,,,25,0
+2026-08-26,401857176525,Ashten Prechtel blocks Hailey Van Lith 's 6-foot driving layup,Driving Layup Shot,110,False,4,2:25,60,89,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,4433634.0,Ashten Prechtel,,,26,6
+2026-08-26,401857176527,Sun offensive team rebound,Offensive Rebound,156,False,4,2:25,60,89,Connecticut Sun,Golden State Valkyries,,,,,,,26,6
+2026-08-26,401857176528,Golden State Valkyries Full timeout,Full Timeout,16,False,4,2:25,60,89,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176529,Ashlon Jackson misses 24-foot three point jumper,Jump Shot,92,False,4,2:16,60,89,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,2,8
+2026-08-26,401857176530,Ashten Prechtel defensive rebound,Defensive Rebound,155,False,4,2:14,60,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,2,8
+2026-08-26,401857176531,"Juste Jocyte bad pass
+turnover (Gianna Kneepkens steals)","Bad Pass
+Turnover",62,False,4,2:12,60,89,Connecticut Sun,Golden State Valkyries,5277552.0,Juste Jocyte,4898898.0,Gianna Kneepkens,,,35,23
+2026-08-26,401857176533,Ashten Prechtel blocks Gianna Kneepkens 's 3-foot running layup,Running Layup Shot,109,False,4,2:11,60,89,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,4433634.0,Ashten Prechtel,,,24,3
+2026-08-26,401857176535,Sun offensive team rebound,Offensive Rebound,156,False,4,2:09,60,89,Connecticut Sun,Golden State Valkyries,,,,,,,24,3
+2026-08-26,401857176537,Ashten Prechtel blocks Rayah Marshall 's 14-foot fade away jump shot,Fade Away Jump Shot,121,False,4,1:59,60,89,Connecticut Sun,Golden State Valkyries,4433792.0,Rayah Marshall,4433634.0,Ashten Prechtel,,,15,10
+2026-08-26,401857176539,Ashten Prechtel defensive rebound,Defensive Rebound,155,False,4,1:57,60,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,15,10
+2026-08-26,401857176540,Ashten Prechtel offensive foul,Offensive Foul,42,False,4,1:50,60,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,25,20
+2026-08-26,401857176542,Ashten Prechtel offensive foul turnover,Offensive Foul Turnover,84,False,4,1:50,60,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,25,20
+2026-08-26,401857176543,Gianna Kneepkens misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,4,1:35,60,89,Connecticut Sun,Golden State Valkyries,4898898.0,Gianna Kneepkens,,,,,40,21
+2026-08-26,401857176544,Ashlon Jackson offensive rebound,Offensive Rebound,156,False,4,1:32,60,89,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,40,21
+2026-08-26,401857176545,Nell Angloma misses 24-foot three point jumper,Jump Shot,92,False,4,1:22,60,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,1,4
+2026-08-26,401857176546,Ashten Prechtel defensive rebound,Defensive Rebound,155,False,4,1:19,60,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,1,4
+2026-08-26,401857176547,Miela Sowah misses 28-foot three point step back jumpshot,Step Back Jump Shot,132,False,4,1:00,60,89,Connecticut Sun,Golden State Valkyries,4398577.0,Miela Sowah,,,,,8,23
+2026-08-26,401857176548,Nell Angloma defensive rebound,Defensive Rebound,155,False,4,58.5,60,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,8,23
+2026-08-26,401857176549,Nell Angloma makes running layup,Running Layup Shot,109,True,4,56.5,62,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,27,4
+2026-08-26,401857176550,Juste Jocyte shooting foul,Shooting Foul,44,False,4,56.5,62,89,Connecticut Sun,Golden State Valkyries,5277552.0,Juste Jocyte,,,,,27,4
+2026-08-26,401857176552,Nell Angloma makes free throw 1 of 1,Free Throw - 1 of 1,97,True,4,56.5,63,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,-214748340,-214748365
+2026-08-26,401857176553,"Ashten Prechtel bad pass
+turnover (Nell Angloma steals)","Bad Pass
+Turnover",62,False,4,44.7,63,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,5345319.0,Nell Angloma,,,39,32
+2026-08-26,401857176555,Ashten Prechtel shooting foul,Shooting Foul,44,False,4,39.8,63,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,25,4
+2026-08-26,401857176557,Nell Angloma misses free throw 1 of 2,Free Throw - 1 of 2,98,False,4,39.8,63,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,-214748340,-214748365
+2026-08-26,401857176558,Sun offensive team rebound,Offensive Rebound,156,False,4,39.8,63,89,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176559,Nell Angloma makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,39.8,64,89,Connecticut Sun,Golden State Valkyries,5345319.0,Nell Angloma,,,,,-214748340,-214748365
+2026-08-26,401857176560,Nadia Fingall misses 28-foot three point jumper,Jump Shot,92,False,4,23.0,64,89,Connecticut Sun,Golden State Valkyries,4066546.0,Nadia Fingall,,,,,42,23
+2026-08-26,401857176561,Hailey Van Lith defensive rebound,Defensive Rebound,155,False,4,20.3,64,89,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,42,23
+2026-08-26,401857176562,Ashlon Jackson misses 26-foot running jump shot,Running Jump Shot,113,False,4,15.1,64,89,Connecticut Sun,Golden State Valkyries,5106232.0,Ashlon Jackson,,,,,9,21
+2026-08-26,401857176563,Hailey Van Lith offensive rebound,Offensive Rebound,156,False,4,13.1,64,89,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,9,21
+2026-08-26,401857176564,Hailey Van Lith misses 25-foot three point jumper,Jump Shot,92,False,4,2.4,64,89,Connecticut Sun,Golden State Valkyries,4433412.0,Hailey Van Lith,,,,,44,16
+2026-08-26,401857176565,Ashten Prechtel defensive rebound,Defensive Rebound,155,False,4,2.1,64,89,Connecticut Sun,Golden State Valkyries,4433634.0,Ashten Prechtel,,,,,44,16
+2026-08-26,401857176566,End of the 4th Quarter,End Period,412,False,4,0.0,64,89,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,401857176567,End of Game,End Game,402,False,4,0.0,64,89,Connecticut Sun,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-08-26,4018571774,Isabelle Harrison vs. Dominique Malonga (Laura Juskaite gains possession),Jumpball,615,False,1,10:00,0,0,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,5220150.0,Dominique Malonga,5345444.0,Laura Juskaite,-214748340,-214748365
+2026-08-26,4018571777,Laura Juskaite makes running layup,Running Layup Shot,109,True,1,9:55,0,2,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,28,1
+2026-08-26,4018571778,Flau'jae Johnson misses 13-foot fade away jump shot,Fade Away Jump Shot,121,False,1,9:38,0,2,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,22,13
+2026-08-26,4018571779,Maria Conde defensive rebound,Defensive Rebound,155,False,1,9:33,0,2,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,22,13
+2026-08-26,40185717710,Maria Conde misses 24-foot three point jumper,Jump Shot,92,False,1,9:21,0,2,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,8,17
+2026-08-26,40185717711,Jade Melbourne defensive rebound,Defensive Rebound,155,False,1,9:16,0,2,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,8,17
+2026-08-26,40185717712,Flau'jae Johnson makes 16-foot pullup jump shot (Jade Melbourne assists),Pullup Jump Shot,131,True,1,9:14,2,2,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,5017726.0,Jade Melbourne,,,39,8
+2026-08-26,40185717714,Maria Conde makes 2-foot layup (Laura Juskaite assists),Cutting Layup Shot,141,True,1,9:03,2,4,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,5345444.0,Laura Juskaite,,,26,2
+2026-08-26,40185717716,Laura Juskaite shooting foul,Shooting Foul,44,False,1,8:47,2,4,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,26,1
+2026-08-26,40185717718,Flau'jae Johnson makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,8:47,3,4,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,-214748340,-214748365
+2026-08-26,40185717719,Flau'jae Johnson misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,8:47,3,4,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,-214748340,-214748365
+2026-08-26,40185717720,Temi Fagbenle defensive rebound,Defensive Rebound,155,False,1,8:44,3,4,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,-214748340,-214748365
+2026-08-26,40185717721,Kiki Rice makes driving layup,Driving Layup Shot,110,True,1,8:28,3,6,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,23,1
+2026-08-26,40185717722,Dominique Malonga misses 9-foot two point shot,Turnaround Fade Away Jump Shot,137,False,1,8:12,3,6,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,22,8
+2026-08-26,40185717723,Laura Juskaite defensive rebound,Defensive Rebound,155,False,1,8:08,3,6,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,22,8
+2026-08-26,40185717724,"Maria Conde bad pass
+turnover (Jade Melbourne steals)","Bad Pass
+Turnover",62,False,1,8:00,3,6,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,5017726.0,Jade Melbourne,,,20,17
+2026-08-26,40185717726,Flau'jae Johnson makes running layup (Jade Melbourne assists),Running Layup Shot,109,True,1,7:54,5,6,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,5017726.0,Jade Melbourne,,,22,2
+2026-08-26,40185717728,Kiki Rice misses 9-foot two point shot,Turnaround Fade Away Jump Shot,137,False,1,7:35,5,6,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,34,3
+2026-08-26,40185717729,Dominique Malonga defensive rebound,Defensive Rebound,155,False,1,7:31,5,6,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,34,3
+2026-08-26,40185717730,Kiki Rice shooting foul,Shooting Foul,44,False,1,7:26,5,6,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,29,5
+2026-08-26,40185717732,Jade Melbourne makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,7:26,6,6,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,40185717733,Kia Nurse enters the game for Maria Conde,Substitution,584,False,1,7:26,6,6,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,3910470.0,Maria Conde,,,-214748340,-214748365
+2026-08-26,40185717735,Jade Melbourne makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,7:26,7,6,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,40185717736,Isabelle Harrison misses 23-foot three point jumper,Jump Shot,92,False,1,7:13,7,6,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,2,5
+2026-08-26,40185717737,Laura Juskaite offensive rebound,Offensive Rebound,156,False,1,7:09,7,6,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,2,5
+2026-08-26,40185717738,Kia Nurse misses 25-foot three point jumper,Jump Shot,92,False,1,7:07,7,6,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,39,21
+2026-08-26,40185717739,Isabelle Harrison offensive rebound,Offensive Rebound,156,False,1,7:03,7,6,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,39,21
+2026-08-26,40185717740,Dominique Malonga blocks Laura Juskaite 's 3-foot driving layup,Driving Layup Shot,110,False,1,6:59,7,6,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,5220150.0,Dominique Malonga,,,28,1
+2026-08-26,40185717742,Storm defensive team rebound,Defensive Rebound,155,False,1,6:57,7,6,Seattle Storm,Toronto Tempo,,,,,,,28,1
+2026-08-26,40185717743,Ezi Magbegor misses 24-foot three point jumper,Jump Shot,92,False,1,6:44,7,6,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,,,,,27,24
+2026-08-26,40185717744,Storm offensive team rebound,Offensive Rebound,156,False,1,6:40,7,6,Seattle Storm,Toronto Tempo,,,,,,,27,24
+2026-08-26,40185717745,Jade Melbourne makes 25-foot three point jumper (Flau'jae Johnson assists),Jump Shot,92,True,1,6:32,10,6,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,4698736.0,Flau'jae Johnson,,,11,21
+2026-08-26,40185717747,Laura Juskaite makes running layup (Kiki Rice assists),Running Layup Shot,109,True,1,6:24,10,8,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,4565505.0,Kiki Rice,,,28,1
+2026-08-26,40185717749,Jade Melbourne makes driving layup,Driving Layup Shot,110,True,1,6:13,12,8,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,21,2
+2026-08-26,40185717750,Laura Juskaite makes 24-foot three point jumper (Kia Nurse assists),Jump Shot,92,True,1,5:57,12,11,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,3142327.0,Kia Nurse,,,41,18
+2026-08-26,40185717752,Flau'jae Johnson misses 25-foot three point jumper,Jump Shot,92,False,1,5:45,12,11,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,27,25
+2026-08-26,40185717753,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,1,5:42,12,11,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,27,25
+2026-08-26,40185717754,Isabelle Harrison misses 25-foot three point jumper,Jump Shot,92,False,1,5:35,12,11,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,42,19
+2026-08-26,40185717755,Temi Fagbenle offensive rebound,Offensive Rebound,156,False,1,5:31,12,11,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,42,19
+2026-08-26,40185717756,Kia Nurse misses 26-foot three point jumper,Jump Shot,92,False,1,5:29,12,11,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,19,26
+2026-08-26,40185717757,Isabelle Harrison offensive rebound,Offensive Rebound,156,False,1,5:28,12,11,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,19,26
+2026-08-26,40185717758,Ezi Magbegor personal foul,Personal Foul,45,False,1,5:28,12,11,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,,,,,27,1
+2026-08-26,40185717763,Awa Fam enters the game for Ezi Magbegor,Substitution,584,False,1,5:28,12,11,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,40185717764,Katie Lou Samuelson enters the game for Jordan Horston,Substitution,584,False,1,5:28,12,11,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,4432830.0,Jordan Horston,,,-214748340,-214748365
+2026-08-26,40185717760,Temi Fagbenle misses 22-foot three point jumper,Jump Shot,92,False,1,5:16,12,11,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,48,3
+2026-08-26,40185717761,Tempo offensive team rebound,Offensive Rebound,156,False,1,5:14,12,11,Seattle Storm,Toronto Tempo,,,,,,,48,3
+2026-08-26,40185717762,shot clock turnover ,Shot Clock Turnover,70,False,1,5:14,12,11,Seattle Storm,Toronto Tempo,,,,,,,11,-1
+2026-08-26,40185717767,Dominique Malonga misses layup,Layup Shot,95,False,1,4:57,12,11,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,31,4
+2026-08-26,40185717768,Dominique Malonga offensive rebound,Offensive Rebound,156,False,1,4:55,12,11,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,31,4
+2026-08-26,40185717769,Dominique Malonga makes two point shot,Layup Shot Putback,125,True,1,4:53,14,11,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,21,0
+2026-08-26,40185717770,Dominique Malonga shooting foul,Shooting Foul,44,False,1,4:43,14,11,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,27,1
+2026-08-26,40185717772,Official timeout,Official Timeout,19,False,1,4:43,14,11,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,40185717773,Teonni Key enters the game for Temi Fagbenle,Substitution,584,False,1,4:43,14,11,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,40185717775,Isabelle Harrison makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,4:43,14,12,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,40185717776,Isabelle Harrison makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,4:43,14,13,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,40185717777,Katie Lou Samuelson misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,1,4:32,14,13,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,4,12
+2026-08-26,40185717778,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,1,4:29,14,13,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,4,12
+2026-08-26,40185717779,Laura Juskaite misses 25-foot three point jumper,Jump Shot,92,False,1,4:10,14,13,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,12,21
+2026-08-26,40185717780,Tempo offensive team rebound,Offensive Rebound,156,False,1,4:07,14,13,Seattle Storm,Toronto Tempo,,,,,,,12,21
+2026-08-26,40185717781,Ornella Bankole enters the game for Laura Juskaite,Substitution,584,False,1,4:07,14,13,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,5345444.0,Laura Juskaite,,,-214748340,-214748365
+2026-08-26,40185717783,Stefanie Dolson enters the game for Dominique Malonga,Substitution,584,False,1,4:07,14,13,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,5220150.0,Dominique Malonga,,,-214748340,-214748365
+2026-08-26,40185717785,Flau'jae Johnson blocks Kia Nurse 's 28-foot three point jumper,Jump Shot,92,False,1,3:54,14,13,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,4698736.0,Flau'jae Johnson,,,7,21
+2026-08-26,40185717787,Kia Nurse offensive rebound,Offensive Rebound,156,False,1,3:49,14,13,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,7,21
+2026-08-26,40185717788,Kia Nurse misses 25-foot three point jumper,Jump Shot,92,False,1,3:48,14,13,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,10,20
+2026-08-26,40185717789,Isabelle Harrison offensive rebound,Offensive Rebound,156,False,1,3:45,14,13,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,10,20
+2026-08-26,40185717790,Isabelle Harrison makes two point shot,Layup Shot Putback,125,True,1,3:44,14,15,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,25,3
+2026-08-26,40185717791,"Jade Melbourne bad pass
+turnover (Kia Nurse steals)","Bad Pass
+Turnover",62,False,1,3:37,14,15,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,3142327.0,Kia Nurse,,,28,2
+2026-08-26,40185717793,Stefanie Dolson shooting foul,Shooting Foul,44,False,1,3:32,14,15,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,19,7
+2026-08-26,40185717795,Isabelle Harrison misses free throw 1 of 2,Free Throw - 1 of 2,98,False,1,3:32,14,15,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,40185717796,Tempo offensive team rebound,Offensive Rebound,156,False,1,3:32,14,15,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,40185717797,Isabelle Harrison makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,3:32,14,16,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,40185717798,Kiki Rice shooting foul,Shooting Foul,44,False,1,3:16,14,16,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,22,1
+2026-08-26,401857177100,Jade Melbourne makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,3:16,15,16,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,401857177101,Kiana Williams enters the game for Kiki Rice,Substitution,584,False,1,3:16,15,16,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,4565505.0,Kiki Rice,,,-214748340,-214748365
+2026-08-26,401857177102,Temi Fagbenle enters the game for Isabelle Harrison,Substitution,584,False,1,3:16,15,16,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,2566453.0,Isabelle Harrison,,,-214748340,-214748365
+2026-08-26,401857177105,Jade Melbourne makes free throw 2 of 2,Free Throw - 2 of 2,99,True,1,3:16,16,16,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,401857177106,Teonni Key misses layup,Layup Shot,95,False,1,2:58,16,16,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,23,2
+2026-08-26,401857177107,Stefanie Dolson defensive rebound,Defensive Rebound,155,False,1,2:53,16,16,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,23,2
+2026-08-26,401857177108,Awa Fam misses 25-foot three point jumper,Jump Shot,92,False,1,2:42,16,16,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,41,20
+2026-08-26,401857177109,Flau'jae Johnson offensive rebound,Offensive Rebound,156,False,1,2:36,16,16,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,41,20
+2026-08-26,401857177110,Jade Melbourne misses 28-foot three point jumper,Jump Shot,92,False,1,2:34,16,16,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,10,24
+2026-08-26,401857177111,Kia Nurse defensive rebound,Defensive Rebound,155,False,1,2:30,16,16,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,10,24
+2026-08-26,401857177112,Flau'jae Johnson personal foul,Personal Foul,45,False,1,2:26,16,16,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,9,24
+2026-08-26,401857177114,Zia Cooke enters the game for Flau'jae Johnson,Substitution,584,False,1,2:26,16,16,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,4698736.0,Flau'jae Johnson,,,-214748340,-214748365
+2026-08-26,401857177115,Taina Mair enters the game for Jade Melbourne,Substitution,584,False,1,2:26,16,16,Seattle Storm,Toronto Tempo,5106222.0,Taina Mair,5017726.0,Jade Melbourne,,,-214748340,-214748365
+2026-08-26,401857177118,Temi Fagbenle out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,1,2:20,16,16,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,23,7
+2026-08-26,401857177119,Ornella Bankole shooting foul,Shooting Foul,44,False,1,2:09,16,16,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,27,1
+2026-08-26,401857177121,Zia Cooke makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,2:09,17,16,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177122,Maria Conde enters the game for Kia Nurse,Substitution,584,False,1,2:09,17,16,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,3142327.0,Kia Nurse,,,-214748340,-214748365
+2026-08-26,401857177124,Zia Cooke misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,2:09,17,16,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177125,Temi Fagbenle defensive rebound,Defensive Rebound,155,False,1,2:06,17,16,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,-214748340,-214748365
+2026-08-26,401857177127,Taina Mair blocks Ornella Bankole 's 7-foot driving layup,Driving Layup Shot,110,False,1,2:00,17,16,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,5106222.0,Taina Mair,,,26,7
+2026-08-26,401857177129,Tempo offensive team rebound,Offensive Rebound,156,False,1,2:00,17,16,Seattle Storm,Toronto Tempo,,,,,,,26,7
+2026-08-26,401857177130,Maria Conde lost ball turnover (Zia Cooke steals),Lost Ball Turnover,63,False,1,1:53,17,16,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,4432832.0,Zia Cooke,,,25,12
+2026-08-26,401857177132,Zia Cooke makes 24-foot three point jumper (Stefanie Dolson assists),Jump Shot,92,True,1,1:37,20,16,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,2529183.0,Stefanie Dolson,,,5,15
+2026-08-26,401857177134,Kiana Williams misses 25-foot three point jumper,Jump Shot,92,False,1,1:18,20,16,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,9,20
+2026-08-26,401857177135,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,1,1:14,20,16,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,9,20
+2026-08-26,401857177136,Zia Cooke misses 23-foot three point jumper,Jump Shot,92,False,1,1:01,20,16,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,3,7
+2026-08-26,401857177137,Storm offensive team rebound,Offensive Rebound,156,False,1,59.5,20,16,Seattle Storm,Toronto Tempo,,,,,,,3,7
+2026-08-26,401857177138,Laura Juskaite enters the game for Teonni Key,Substitution,584,False,1,59.5,20,16,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,4434020.0,Teonni Key,,,-214748340,-214748365
+2026-08-26,401857177140,Stefanie Dolson misses 24-foot three point jumper,Jump Shot,92,False,1,51.8,20,16,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,30,24
+2026-08-26,401857177141,Ornella Bankole defensive rebound,Defensive Rebound,155,False,1,48.0,20,16,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,30,24
+2026-08-26,401857177142,Kiana Williams makes driving layup,Driving Layup Shot,110,True,1,39.1,20,18,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,23,0
+2026-08-26,401857177143,Katie Lou Samuelson makes layup (Stefanie Dolson assists),Layup Shot,95,True,1,30.2,22,18,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,2529183.0,Stefanie Dolson,,,22,1
+2026-08-26,401857177145,Temi Fagbenle shooting foul,Shooting Foul,44,False,1,30.2,22,18,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,22,1
+2026-08-26,401857177147,Katie Lou Samuelson makes free throw 1 of 1,Free Throw - 1 of 1,97,True,1,30.2,23,18,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,-214748340,-214748365
+2026-08-26,401857177148,Kiana Williams misses 27-foot three point jumper,Jump Shot,92,False,1,12.0,23,18,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,32,26
+2026-08-26,401857177149,Temi Fagbenle offensive rebound,Offensive Rebound,156,False,1,7.7,23,18,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,32,26
+2026-08-26,401857177150,Stefanie Dolson shooting foul,Shooting Foul,44,False,1,6.7,23,18,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,25,8
+2026-08-26,401857177152,Temi Fagbenle makes free throw 1 of 2,Free Throw - 1 of 2,98,True,1,6.7,23,19,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,-214748340,-214748365
+2026-08-26,401857177153,Temi Fagbenle misses free throw 2 of 2,Free Throw - 2 of 2,99,False,1,6.7,23,19,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,-214748340,-214748365
+2026-08-26,401857177154,Stefanie Dolson defensive rebound,Defensive Rebound,155,False,1,5.1,23,19,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,-214748340,-214748365
+2026-08-26,401857177155,Zia Cooke misses 27-foot three point pullup jump shot,Pullup Jump Shot,131,False,1,0.8,23,19,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,30,27
+2026-08-26,401857177156,Storm offensive team rebound,Offensive Rebound,156,False,1,0.8,23,19,Seattle Storm,Toronto Tempo,,,,,,,30,27
+2026-08-26,401857177157,End of the 1st Quarter,End Period,412,False,1,0.0,23,19,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177158,Ezi Magbegor enters the game for Awa Fam,Substitution,584,False,2,10:00,23,19,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,5345325.0,Awa Fam,,,-214748340,-214748365
+2026-08-26,401857177159,Kiki Rice enters the game for Temi Fagbenle,Substitution,584,False,2,10:00,23,19,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,401857177160,Isabelle Harrison enters the game for Ornella Bankole,Substitution,584,False,2,10:00,23,19,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,5364343.0,Ornella Bankole,,,-214748340,-214748365
+2026-08-26,401857177165,Zia Cooke out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,2,9:44,23,19,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,25,10
+2026-08-26,401857177166,Isabelle Harrison makes layup (Maria Conde assists),Layup Shot,95,True,2,9:28,23,21,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,3910470.0,Maria Conde,,,28,2
+2026-08-26,401857177168,Stefanie Dolson misses 10-foot floating jump shot,Floating Jump Shot,130,False,2,9:06,23,21,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,14,1
+2026-08-26,401857177169,Taina Mair offensive rebound,Offensive Rebound,156,False,2,9:01,23,21,Seattle Storm,Toronto Tempo,5106222.0,Taina Mair,,,,,14,1
+2026-08-26,401857177170,Zia Cooke misses two point shot,Driving Floating Bank Jump Shot,145,False,2,8:59,23,21,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,25,7
+2026-08-26,401857177171,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,2,8:55,23,21,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,25,7
+2026-08-26,401857177172,"Maria Conde bad pass
+turnover (Katie Lou Samuelson steals)","Bad Pass
+Turnover",62,False,2,8:45,23,21,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,3917453.0,Katie Lou Samuelson,,,24,9
+2026-08-26,401857177174,Katie Lou Samuelson misses 24-foot three point jumper,Jump Shot,92,False,2,8:33,23,21,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,7,15
+2026-08-26,401857177175,Maria Conde defensive rebound,Defensive Rebound,155,False,2,8:30,23,21,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,7,15
+2026-08-26,401857177176,Katie Lou Samuelson shooting foul,Shooting Foul,44,False,2,8:28,23,21,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,28,2
+2026-08-26,401857177178,Kiki Rice makes free throw 1 of 2,Free Throw - 1 of 2,98,True,2,8:28,23,22,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177179,Flau'jae Johnson enters the game for Zia Cooke,Substitution,584,False,2,8:28,23,22,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,4432832.0,Zia Cooke,,,-214748340,-214748365
+2026-08-26,401857177180,Dominique Malonga enters the game for Stefanie Dolson,Substitution,584,False,2,8:28,23,22,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,2529183.0,Stefanie Dolson,,,-214748340,-214748365
+2026-08-26,401857177183,Jade Melbourne enters the game for Taina Mair,Substitution,584,False,2,8:28,23,22,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,5106222.0,Taina Mair,,,-214748340,-214748365
+2026-08-26,401857177185,Kiki Rice makes free throw 2 of 2,Free Throw - 2 of 2,99,True,2,8:28,23,23,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177186,Ezi Magbegor misses 23-foot three point jumper,Jump Shot,92,False,2,8:11,23,23,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,,,,,10,18
+2026-08-26,401857177187,Maria Conde defensive rebound,Defensive Rebound,155,False,2,8:07,23,23,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,10,18
+2026-08-26,401857177188,Isabelle Harrison makes layup (Maria Conde assists),Cutting Finger Roll Layup Shot,142,True,2,7:58,23,25,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,3910470.0,Maria Conde,,,25,7
+2026-08-26,401857177190,Dominique Malonga makes layup (Katie Lou Samuelson assists),Layup Shot,95,True,2,7:42,25,25,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,3917453.0,Katie Lou Samuelson,,,26,3
+2026-08-26,401857177192,"Maria Conde bad pass
+turnover (Dominique Malonga steals)","Bad Pass
+Turnover",62,False,2,7:31,25,25,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,5220150.0,Dominique Malonga,,,30,25
+2026-08-26,401857177194,Ezi Magbegor makes layup (Flau'jae Johnson assists),Layup Shot,95,True,2,7:19,27,25,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,4698736.0,Flau'jae Johnson,,,22,1
+2026-08-26,401857177196,Laura Juskaite makes driving layup,Driving Layup Shot,110,True,2,7:07,27,27,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,28,1
+2026-08-26,401857177197,Dominique Malonga misses layup,Cutting Layup Shot,141,False,2,6:54,27,27,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,21,1
+2026-08-26,401857177198,Laura Juskaite defensive rebound,Defensive Rebound,155,False,2,6:51,27,27,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,21,1
+2026-08-26,401857177199,Maria Conde misses 24-foot running jump shot,Running Jump Shot,113,False,2,6:48,27,27,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,46,13
+2026-08-26,401857177200,Kiki Rice offensive rebound,Offensive Rebound,156,False,2,6:46,27,27,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,46,13
+2026-08-26,401857177201,Kiki Rice makes two point shot,Layup Shot Putback,125,True,2,6:46,27,29,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,23,2
+2026-08-26,401857177203,Jade Melbourne shooting foul,Shooting Foul,44,False,2,6:46,27,29,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,23,2
+2026-08-26,401857177205,Jordan Horston enters the game for Katie Lou Samuelson,Substitution,584,False,2,6:46,27,29,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,3917453.0,Katie Lou Samuelson,,,-214748340,-214748365
+2026-08-26,401857177206,Temi Fagbenle enters the game for Maria Conde,Substitution,584,False,2,6:46,27,29,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,3910470.0,Maria Conde,,,-214748340,-214748365
+2026-08-26,401857177207,Ornella Bankole enters the game for Kiana Williams,Substitution,584,False,2,6:46,27,29,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,4282168.0,Kiana Williams,,,-214748340,-214748365
+2026-08-26,401857177211,Kiki Rice makes free throw 1 of 1,Free Throw - 1 of 1,97,True,2,6:46,27,30,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177212,Flau'jae Johnson makes 17-foot pullup jump shot (Jade Melbourne assists),Pullup Jump Shot,131,True,2,6:35,29,30,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,5017726.0,Jade Melbourne,,,36,13
+2026-08-26,401857177214,Kiki Rice makes 25-foot running pullup jump shot,Running Pullup Jump Shot,146,True,2,6:26,29,33,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,38,21
+2026-08-26,401857177215,Flau'jae Johnson misses two point shot,Layup Running Reverse,127,False,2,6:15,29,33,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,21,4
+2026-08-26,401857177216,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,2,6:13,29,33,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,21,4
+2026-08-26,401857177217,Kiki Rice makes driving layup,Driving Layup Shot,110,True,2,6:03,29,35,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,22,1
+2026-08-26,401857177218,Storm Full timeout,Full Timeout,16,False,2,6:02,29,35,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177219,Jordan Horston misses 24-foot three point jumper,Jump Shot,92,False,2,5:47,29,35,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,45,13
+2026-08-26,401857177220,Ornella Bankole defensive rebound,Defensive Rebound,155,False,2,5:43,29,35,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,45,13
+2026-08-26,401857177221,Temi Fagbenle misses layup,Layup Shot,95,False,2,5:27,29,35,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,22,1
+2026-08-26,401857177222,Ornella Bankole offensive rebound,Offensive Rebound,156,False,2,5:24,29,35,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,22,1
+2026-08-26,401857177223,"Temi Fagbenle bad pass
+turnover (Jordan Horston steals)","Bad Pass
+Turnover",62,False,2,5:17,29,35,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,4432830.0,Jordan Horston,,,30,2
+2026-08-26,401857177225,Ezi Magbegor makes running layup (Jordan Horston assists),Running Layup Shot,109,True,2,5:11,31,35,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,4432830.0,Jordan Horston,,,28,1
+2026-08-26,401857177227,Laura Juskaite misses 13-foot two point shot,Turnaround Fade Away Jump Shot,137,False,2,4:50,31,35,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,20,12
+2026-08-26,401857177228,Storm defensive team rebound,Defensive Rebound,155,False,2,4:48,31,35,Seattle Storm,Toronto Tempo,,,,,,,20,12
+2026-08-26,401857177229,Teonni Key enters the game for Temi Fagbenle,Substitution,584,False,2,4:48,31,35,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,401857177231,Dominique Malonga makes 4-foot two point shot (Jade Melbourne assists),Driving Finger Roll Layup,128,True,2,4:38,33,35,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,5017726.0,Jade Melbourne,,,21,1
+2026-08-26,401857177232,Kiki Rice misses 18-foot pullup jump shot,Pullup Jump Shot,131,False,2,4:28,33,35,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,28,18
+2026-08-26,401857177233,Jade Melbourne defensive rebound,Defensive Rebound,155,False,2,4:25,33,35,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,28,18
+2026-08-26,401857177235,Flau'jae Johnson makes 27-foot running jump shot (Jade Melbourne assists),Running Jump Shot,113,True,2,4:20,36,35,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,5017726.0,Jade Melbourne,,,25,27
+2026-08-26,401857177237,Tempo Full timeout,Full Timeout,16,False,2,4:18,36,35,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177238,Kia Nurse enters the game for Ornella Bankole,Substitution,584,False,2,4:18,36,35,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,5364343.0,Ornella Bankole,,,-214748340,-214748365
+2026-08-26,401857177240,Teonni Key makes 3-foot layup (Kiki Rice assists),Cutting Layup Shot,141,True,2,4:05,36,37,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,4565505.0,Kiki Rice,,,23,2
+2026-08-26,401857177242,Dominique Malonga misses 23-foot three point jumper,Jump Shot,92,False,2,3:46,36,37,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,2,1
+2026-08-26,401857177243,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,2,3:43,36,37,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,2,1
+2026-08-26,401857177244,Jordan Horston blocks Isabelle Harrison 's 7-foot layup,Layup Shot,95,False,2,3:39,36,37,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,4432830.0,Jordan Horston,,,22,7
+2026-08-26,401857177246,Jordan Horston defensive rebound,Defensive Rebound,155,False,2,3:36,36,37,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,22,7
+2026-08-26,401857177247,Jade Melbourne misses running layup,Running Layup Shot,109,False,2,3:34,36,37,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,27,1
+2026-08-26,401857177248,Jordan Horston offensive rebound,Offensive Rebound,156,False,2,3:29,36,37,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,27,1
+2026-08-26,401857177249,Jordan Horston misses tip shot,Tip Shot,94,False,2,3:29,36,37,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,25,0
+2026-08-26,401857177250,Jordan Horston offensive rebound,Offensive Rebound,156,False,2,3:27,36,37,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,25,0
+2026-08-26,401857177251,Jade Melbourne makes 2-foot layup (Dominique Malonga assists),Cutting Layup Shot,141,True,2,3:24,38,37,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,5220150.0,Dominique Malonga,,,23,1
+2026-08-26,401857177253,Kia Nurse makes 24-foot three point jumper (Laura Juskaite assists),Jump Shot,92,True,2,3:05,38,40,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,5345444.0,Laura Juskaite,,,45,13
+2026-08-26,401857177255,Teonni Key blocks Ezi Magbegor 's 2-foot layup,Cutting Layup Shot,141,False,2,2:47,38,40,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,4434020.0,Teonni Key,,,27,1
+2026-08-26,401857177257,Laura Juskaite defensive rebound,Defensive Rebound,155,False,2,2:43,38,40,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,27,1
+2026-08-26,401857177258,Jordan Horston blocks Kiki Rice 's 7-foot running layup,Running Layup Shot,109,False,2,2:42,38,40,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,4432830.0,Jordan Horston,,,21,6
+2026-08-26,401857177260,Tempo offensive team rebound,Offensive Rebound,156,False,2,2:42,38,40,Seattle Storm,Toronto Tempo,,,,,,,21,6
+2026-08-26,401857177261,Awa Fam enters the game for Ezi Magbegor,Substitution,584,False,2,2:42,38,40,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,401857177262,Maria Conde enters the game for Laura Juskaite,Substitution,584,False,2,2:42,38,40,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,5345444.0,Laura Juskaite,,,-214748340,-214748365
+2026-08-26,401857177263,Temi Fagbenle enters the game for Isabelle Harrison,Substitution,584,False,2,2:42,38,40,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,2566453.0,Isabelle Harrison,,,-214748340,-214748365
+2026-08-26,401857177267,Maria Conde misses 26-foot three point pullup jump shot,Pullup Jump Shot,131,False,2,2:26,38,40,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,39,22
+2026-08-26,401857177268,Teonni Key offensive rebound,Offensive Rebound,156,False,2,2:18,38,40,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,39,22
+2026-08-26,401857177269,Teonni Key lost ball turnover (Dominique Malonga steals),Lost Ball Turnover,63,False,2,2:17,38,40,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,5220150.0,Dominique Malonga,,,25,4
+2026-08-26,401857177271,Awa Fam misses 24-foot running jump shot,Running Jump Shot,113,False,2,2:14,38,40,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,42,18
+2026-08-26,401857177272,Kiki Rice defensive rebound,Defensive Rebound,155,False,2,2:09,38,40,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,42,18
+2026-08-26,401857177273,"Kia Nurse bad pass
+turnover (Jordan Horston steals)","Bad Pass
+Turnover",62,False,2,2:06,38,40,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,4432830.0,Jordan Horston,,,10,17
+2026-08-26,401857177275,"Jordan Horston bad pass
+turnover (Kia Nurse steals)","Bad Pass
+Turnover",62,False,2,2:02,38,40,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,3142327.0,Kia Nurse,,,20,15
+2026-08-26,401857177277,Kiki Rice makes driving layup,Driving Layup Shot,110,True,2,1:52,38,42,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,27,2
+2026-08-26,401857177278,Flau'jae Johnson out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,2,1:28,38,42,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,37,22
+2026-08-26,401857177279,Kia Nurse misses 24-foot three point jumper,Jump Shot,92,False,2,1:11,38,42,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,46,12
+2026-08-26,401857177280,Jade Melbourne defensive rebound,Defensive Rebound,155,False,2,1:09,38,42,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,46,12
+2026-08-26,401857177281,Dominique Malonga misses layup,Layup Shot,95,False,2,59.9,38,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,22,1
+2026-08-26,401857177282,Dominique Malonga offensive rebound,Offensive Rebound,156,False,2,58.1,38,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,22,1
+2026-08-26,401857177283,Dominique Malonga makes two point shot,Layup Shot Putback,125,True,2,57.5,40,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,27,1
+2026-08-26,401857177284,Kiki Rice misses 28-foot three point step back jumpshot,Step Back Jump Shot,132,False,2,51.1,40,42,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,13,25
+2026-08-26,401857177285,Jordan Horston defensive rebound,Defensive Rebound,155,False,2,47.3,40,42,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,13,25
+2026-08-26,401857177286,Dominique Malonga lost ball turnover (Temi Fagbenle steals),Lost Ball Turnover,63,False,2,42.4,40,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,2569044.0,Temi Fagbenle,,,31,6
+2026-08-26,401857177288,Kiki Rice misses 15-foot two point shot,Turnaround Fade Away Jump Shot,137,False,2,20.2,40,42,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,18,14
+2026-08-26,401857177289,Dominique Malonga defensive rebound,Defensive Rebound,155,False,2,16.5,40,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,18,14
+2026-08-26,401857177290,Awa Fam makes 23-foot three point jumper (Jade Melbourne assists),Jump Shot,92,True,2,3.9,43,42,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,5017726.0,Jade Melbourne,,,48,6
+2026-08-26,401857177292,End of the 2nd Quarter,End Period,412,False,2,0.0,43,42,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177293,Ezi Magbegor enters the game for Awa Fam,Substitution,584,False,3,10:00,43,42,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,5345325.0,Awa Fam,,,-214748340,-214748365
+2026-08-26,401857177294,Laura Juskaite enters the game for Teonni Key,Substitution,584,False,3,10:00,43,42,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,4434020.0,Teonni Key,,,-214748340,-214748365
+2026-08-26,401857177295,Isabelle Harrison enters the game for Kia Nurse,Substitution,584,False,3,10:00,43,42,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,3142327.0,Kia Nurse,,,-214748340,-214748365
+2026-08-26,401857177300,Dominique Malonga misses 12-foot step back jumpshot,Step Back Jump Shot,132,False,3,9:44,43,42,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,20,11
+2026-08-26,401857177301,Laura Juskaite defensive rebound,Defensive Rebound,155,False,3,9:40,43,42,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,20,11
+2026-08-26,401857177302,Temi Fagbenle makes 3-foot layup (Kiki Rice assists),Cutting Layup Shot,141,True,3,9:19,43,44,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,4565505.0,Kiki Rice,,,27,2
+2026-08-26,401857177304,Jordan Horston misses 23-foot three point jumper,Jump Shot,92,False,3,9:01,43,44,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,2,4
+2026-08-26,401857177305,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,3,8:57,43,44,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,2,4
+2026-08-26,401857177306,Jordan Horston shooting foul,Shooting Foul,44,False,3,8:49,43,44,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,,,,,22,1
+2026-08-26,401857177308,Kiki Rice makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,8:49,43,45,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177309,Kiki Rice makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,8:49,43,46,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177310,Flau'jae Johnson misses 27-foot three point jumper,Jump Shot,92,False,3,8:41,43,46,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,15,26
+2026-08-26,401857177311,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,3,8:37,43,46,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,15,26
+2026-08-26,401857177312,Maria Conde makes 6-foot two point shot (Laura Juskaite assists),Driving Jump Shot Bank,134,True,3,8:31,43,48,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,5345444.0,Laura Juskaite,,,21,4
+2026-08-26,401857177314,Dominique Malonga makes 3-foot two point shot (Jordan Horston assists),Turnaround Bank Jump Shot,136,True,3,8:14,45,48,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,4432830.0,Jordan Horston,,,28,2
+2026-08-26,401857177316,Isabelle Harrison misses 17-foot turnaround jump shot,Turnaround Jump Shot,114,False,3,7:53,45,48,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,7,2
+2026-08-26,401857177317,Dominique Malonga defensive rebound,Defensive Rebound,155,False,3,7:49,45,48,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,7,2
+2026-08-26,401857177318,Ezi Magbegor makes 8-foot two point shot (Jordan Horston assists),Driving Hook Shot,119,True,3,7:40,47,48,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,4432830.0,Jordan Horston,,,22,8
+2026-08-26,401857177319,Temi Fagbenle makes 1-foot layup (Maria Conde assists),Cutting Layup Shot,141,True,3,7:23,47,50,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,3910470.0,Maria Conde,,,26,1
+2026-08-26,401857177322,Flau'jae Johnson makes 13-foot pullup jump shot (Dominique Malonga assists),Pullup Jump Shot,131,True,3,7:08,49,50,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,5220150.0,Dominique Malonga,,,25,14
+2026-08-26,401857177324,Isabelle Harrison makes layup (Kiki Rice assists),Layup Shot,95,True,3,6:56,49,52,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,4565505.0,Kiki Rice,,,28,1
+2026-08-26,401857177326,"Jordan Horston bad pass
+turnover (Isabelle Harrison steals)","Bad Pass
+Turnover",62,False,3,6:37,49,52,Seattle Storm,Toronto Tempo,4432830.0,Jordan Horston,2566453.0,Isabelle Harrison,,,18,19
+2026-08-26,401857177328,Dominique Malonga shooting foul,Shooting Foul,44,False,3,6:32,49,52,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,27,4
+2026-08-26,401857177330,Kiki Rice makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,6:32,49,53,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177331,Awa Fam enters the game for Jordan Horston,Substitution,584,False,3,6:32,49,53,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,4432830.0,Jordan Horston,,,-214748340,-214748365
+2026-08-26,401857177332,Katie Lou Samuelson enters the game for Ezi Magbegor,Substitution,584,False,3,6:32,49,53,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,401857177333,Kia Nurse enters the game for Maria Conde,Substitution,584,False,3,6:32,49,53,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,3910470.0,Maria Conde,,,-214748340,-214748365
+2026-08-26,401857177334,Teonni Key enters the game for Temi Fagbenle,Substitution,584,False,3,6:32,49,53,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,401857177339,Kiki Rice makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,6:32,49,54,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177340,Dominique Malonga misses 25-foot three point jumper,Jump Shot,92,False,3,6:17,49,54,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,24,25
+2026-08-26,401857177341,Jade Melbourne offensive rebound,Offensive Rebound,156,False,3,6:10,49,54,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,24,25
+2026-08-26,401857177342,Awa Fam misses 25-foot three point jumper,Jump Shot,92,False,3,6:09,49,54,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,6,17
+2026-08-26,401857177343,Kiki Rice defensive rebound,Defensive Rebound,155,False,3,6:05,49,54,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,6,17
+2026-08-26,401857177344,Teonni Key misses driving layup,Driving Layup Shot,110,False,3,5:55,49,54,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,22,2
+2026-08-26,401857177345,Isabelle Harrison offensive rebound,Offensive Rebound,156,False,3,5:52,49,54,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,22,2
+2026-08-26,401857177346,Isabelle Harrison misses two point shot,Layup Shot Putback,125,False,3,5:51,49,54,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,26,2
+2026-08-26,401857177347,Awa Fam defensive rebound,Defensive Rebound,155,False,3,5:51,49,54,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,26,2
+2026-08-26,401857177348,Dominique Malonga misses running layup,Running Layup Shot,109,False,3,5:46,49,54,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,28,2
+2026-08-26,401857177349,Awa Fam offensive rebound,Offensive Rebound,156,False,3,5:42,49,54,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,28,2
+2026-08-26,401857177350,Awa Fam makes two point shot,Layup Shot Putback,125,True,3,5:42,51,54,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,23,2
+2026-08-26,401857177351,Kiki Rice misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,3,5:29,51,54,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,7,17
+2026-08-26,401857177352,Storm defensive team rebound,Defensive Rebound,155,False,3,5:28,51,54,Seattle Storm,Toronto Tempo,,,,,,,7,17
+2026-08-26,401857177353,Teonni Key loose ball foul,Loose Ball Foul,43,False,3,5:28,51,54,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,24,7
+2026-08-26,401857177355,Flau'jae Johnson makes driving layup,Driving Layup Shot,110,True,3,5:14,53,54,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,23,1
+2026-08-26,401857177356,"Kia Nurse bad pass
+turnover (Awa Fam steals)","Bad Pass
+Turnover",62,False,3,5:02,53,54,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,5345325.0,Awa Fam,,,26,6
+2026-08-26,401857177358,"Flau'jae Johnson bad pass
+turnover (Teonni Key steals)","Bad Pass
+Turnover",62,False,3,4:54,53,54,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,4434020.0,Teonni Key,,,35,19
+2026-08-26,401857177360,Laura Juskaite makes running layup (Kiki Rice assists),Running Layup Shot,109,True,3,4:50,53,56,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,4565505.0,Kiki Rice,,,22,2
+2026-08-26,401857177362,Jade Melbourne shooting foul,Shooting Foul,44,False,3,4:50,53,56,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,22,2
+2026-08-26,401857177364,Official timeout,Official Timeout,19,False,3,4:50,53,56,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177365,Stefanie Dolson enters the game for Flau'jae Johnson,Substitution,584,False,3,4:50,53,56,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,4698736.0,Flau'jae Johnson,,,-214748340,-214748365
+2026-08-26,401857177366,Zia Cooke enters the game for Dominique Malonga,Substitution,584,False,3,4:50,53,56,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,5220150.0,Dominique Malonga,,,-214748340,-214748365
+2026-08-26,401857177369,Laura Juskaite makes free throw 1 of 1,Free Throw - 1 of 1,97,True,3,4:50,53,57,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,-214748340,-214748365
+2026-08-26,401857177370,"Stefanie Dolson bad pass
+turnover (Isabelle Harrison steals)","Bad Pass
+Turnover",62,False,3,4:38,53,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,2566453.0,Isabelle Harrison,,,9,8
+2026-08-26,401857177372,Isabelle Harrison misses running layup,Running Layup Shot,109,False,3,4:33,53,57,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,28,1
+2026-08-26,401857177373,Tempo offensive team rebound,Offensive Rebound,156,False,3,4:33,53,57,Seattle Storm,Toronto Tempo,,,,,,,28,1
+2026-08-26,401857177374,Teonni Key misses layup,Layup Shot,95,False,3,4:30,53,57,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,27,2
+2026-08-26,401857177375,Awa Fam defensive rebound,Defensive Rebound,155,False,3,4:27,53,57,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,27,2
+2026-08-26,401857177376,Awa Fam misses 4-foot two point shot,Turnaround Bank Jump Shot,136,False,3,4:07,53,57,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,29,3
+2026-08-26,401857177377,Laura Juskaite defensive rebound,Defensive Rebound,155,False,3,4:02,53,57,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,29,3
+2026-08-26,401857177378,Laura Juskaite lost ball turnover (Katie Lou Samuelson steals),Lost Ball Turnover,63,False,3,3:58,53,57,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,3917453.0,Katie Lou Samuelson,,,27,4
+2026-08-26,401857177380,Zia Cooke makes 4-foot two point shot,Driving Finger Roll Layup,128,True,3,3:48,55,57,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,22,4
+2026-08-26,401857177381,Isabelle Harrison misses 24-foot three point jumper,Jump Shot,92,False,3,3:35,55,57,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,15,22
+2026-08-26,401857177382,Stefanie Dolson defensive rebound,Defensive Rebound,155,False,3,3:30,55,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,15,22
+2026-08-26,401857177383,Isabelle Harrison shooting foul,Shooting Foul,44,False,3,3:28,55,57,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,28,2
+2026-08-26,401857177385,Awa Fam makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,3:28,56,57,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,-214748340,-214748365
+2026-08-26,401857177386,Temi Fagbenle enters the game for Kiki Rice,Substitution,584,False,3,3:28,56,57,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,4565505.0,Kiki Rice,,,-214748340,-214748365
+2026-08-26,401857177387,Kiana Williams enters the game for Laura Juskaite,Substitution,584,False,3,3:28,56,57,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,5345444.0,Laura Juskaite,,,-214748340,-214748365
+2026-08-26,401857177388,Ornella Bankole enters the game for Isabelle Harrison,Substitution,584,False,3,3:28,56,57,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,2566453.0,Isabelle Harrison,,,-214748340,-214748365
+2026-08-26,401857177392,Awa Fam makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,3:28,57,57,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,-214748340,-214748365
+2026-08-26,401857177393,Kiana Williams misses 25-foot three point jumper,Jump Shot,92,False,3,3:16,57,57,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,23,25
+2026-08-26,401857177394,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,3,3:12,57,57,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,23,25
+2026-08-26,401857177395,Stefanie Dolson makes 5-foot floating jump shot (Zia Cooke assists),Floating Jump Shot,130,True,3,3:05,59,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,4432832.0,Zia Cooke,,,24,5
+2026-08-26,401857177397,Tempo Full timeout,Full Timeout,16,False,3,3:00,59,57,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177398,Teonni Key misses two point shot,Turnaround Fadeaway Bank Jump Shot,148,False,3,2:40,59,57,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,32,6
+2026-08-26,401857177399,Jade Melbourne defensive rebound,Defensive Rebound,155,False,3,2:36,59,57,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,32,6
+2026-08-26,401857177400,Katie Lou Samuelson misses 23-foot three point jumper,Jump Shot,92,False,3,2:25,59,57,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,47,6
+2026-08-26,401857177401,Stefanie Dolson offensive rebound,Offensive Rebound,156,False,3,2:22,59,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,47,6
+2026-08-26,401857177402,Stefanie Dolson out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,3,2:15,59,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,3,18
+2026-08-26,401857177403,Zia Cooke personal foul,Personal Foul,45,False,3,2:05,59,57,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,41,25
+2026-08-26,401857177405,Stefanie Dolson shooting foul,Shooting Foul,44,False,3,1:52,59,57,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,10,8
+2026-08-26,401857177407,Kia Nurse makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,1:52,59,58,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,-214748340,-214748365
+2026-08-26,401857177408,Isabelle Harrison enters the game for Teonni Key,Substitution,584,False,3,1:52,59,58,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,4434020.0,Teonni Key,,,-214748340,-214748365
+2026-08-26,401857177410,Kia Nurse misses free throw 2 of 2,Free Throw - 2 of 2,99,False,3,1:52,59,58,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,-214748340,-214748365
+2026-08-26,401857177411,Stefanie Dolson defensive rebound,Defensive Rebound,155,False,3,1:49,59,58,Seattle Storm,Toronto Tempo,2529183.0,Stefanie Dolson,,,,,-214748340,-214748365
+2026-08-26,401857177412,Kiana Williams personal foul,Personal Foul,45,False,3,1:43,59,58,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,19,5
+2026-08-26,401857177414,Kiki Rice enters the game for Kia Nurse,Substitution,584,False,3,1:43,59,58,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,3142327.0,Kia Nurse,,,-214748340,-214748365
+2026-08-26,401857177416,Zia Cooke misses 26-foot three point jumper,Jump Shot,92,False,3,1:38,59,58,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,34,24
+2026-08-26,401857177417,Ornella Bankole defensive rebound,Defensive Rebound,155,False,3,1:34,59,58,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,34,24
+2026-08-26,401857177418,Temi Fagbenle lost ball turnover (Zia Cooke steals),Lost Ball Turnover,63,False,3,1:19,59,58,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,4432832.0,Zia Cooke,,,23,9
+2026-08-26,401857177420,Ornella Bankole personal foul,Personal Foul,45,False,3,1:18,59,58,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,14,30
+2026-08-26,401857177422,Zia Cooke makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,1:18,60,58,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177423,Taina Mair enters the game for Jade Melbourne,Substitution,584,False,3,1:18,60,58,Seattle Storm,Toronto Tempo,5106222.0,Taina Mair,5017726.0,Jade Melbourne,,,-214748340,-214748365
+2026-08-26,401857177425,Zia Cooke makes free throw 2 of 2,Free Throw - 2 of 2,99,True,3,1:18,61,58,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177426,"Kiana Williams bad pass
+turnover (Katie Lou Samuelson steals)","Bad Pass
+Turnover",62,False,3,58.6,61,58,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,3917453.0,Katie Lou Samuelson,,,43,6
+2026-08-26,401857177428,Awa Fam makes 26-foot three point jumper (Katie Lou Samuelson assists),Jump Shot,92,True,3,47.7,64,58,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,3917453.0,Katie Lou Samuelson,,,10,21
+2026-08-26,401857177430,Isabelle Harrison makes 3-foot two point shot,Turnaround Bank Jump Shot,136,True,3,30.7,64,60,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,24,3
+2026-08-26,401857177431,Katie Lou Samuelson misses 17-foot pullup jump shot,Pullup Jump Shot,131,False,3,6.9,64,60,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,32,16
+2026-08-26,401857177432,Tempo defensive team rebound,Defensive Rebound,155,False,3,4.9,64,60,Seattle Storm,Toronto Tempo,,,,,,,32,16
+2026-08-26,401857177433,Katie Lou Samuelson loose ball foul,Loose Ball Foul,43,False,3,4.9,64,60,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,30,4
+2026-08-26,401857177435,Ornella Bankole makes free throw 1 of 2,Free Throw - 1 of 2,98,True,3,4.9,64,61,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,-214748340,-214748365
+2026-08-26,401857177436,Ornella Bankole misses free throw 2 of 2,Free Throw - 2 of 2,99,False,3,4.9,64,61,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,-214748340,-214748365
+2026-08-26,401857177437,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,3,2.8,64,61,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,-214748340,-214748365
+2026-08-26,401857177438,Taina Mair misses driving layup,Driving Layup Shot,110,False,3,0.2,64,61,Seattle Storm,Toronto Tempo,5106222.0,Taina Mair,,,,,27,1
+2026-08-26,401857177439,Storm offensive team rebound,Offensive Rebound,156,False,3,0.1,64,61,Seattle Storm,Toronto Tempo,,,,,,,27,1
+2026-08-26,401857177440,End of the 3rd Quarter,End Period,412,False,3,0.0,64,61,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177441,Ezi Magbegor enters the game for Awa Fam,Substitution,584,False,4,10:00,64,61,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,5345325.0,Awa Fam,,,-214748340,-214748365
+2026-08-26,401857177442,Dominique Malonga enters the game for Stefanie Dolson,Substitution,584,False,4,10:00,64,61,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,2529183.0,Stefanie Dolson,,,-214748340,-214748365
+2026-08-26,401857177443,Laura Juskaite enters the game for Temi Fagbenle,Substitution,584,False,4,10:00,64,61,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,401857177448,Zia Cooke personal foul,Personal Foul,45,False,4,9:39,64,61,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,8,22
+2026-08-26,401857177450,Ezi Magbegor blocks Isabelle Harrison 's 5-foot driving layup,Driving Layup Shot,110,False,4,9:29,64,61,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,4420318.0,Ezi Magbegor,,,21,3
+2026-08-26,401857177452,Ezi Magbegor defensive rebound,Defensive Rebound,155,False,4,9:26,64,61,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,,,,,21,3
+2026-08-26,401857177453,Kiki Rice shooting foul,Shooting Foul,44,False,4,9:22,64,61,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,28,7
+2026-08-26,401857177455,Zia Cooke makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,9:22,65,61,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177456,Maria Conde enters the game for Kiana Williams,Substitution,584,False,4,9:22,65,61,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,4282168.0,Kiana Williams,,,-214748340,-214748365
+2026-08-26,401857177458,Zia Cooke makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,9:22,66,61,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,-214748340,-214748365
+2026-08-26,401857177459,Ornella Bankole makes driving layup,Driving Layup Shot,110,True,4,9:04,66,63,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,26,1
+2026-08-26,401857177460,Dominique Malonga makes layup (Zia Cooke assists),Layup Shot,95,True,4,8:44,68,63,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,4432832.0,Zia Cooke,,,27,2
+2026-08-26,401857177462,Ornella Bankole misses layup,Cutting Layup Shot,141,False,4,8:28,68,63,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,26,1
+2026-08-26,401857177463,Dominique Malonga defensive rebound,Defensive Rebound,155,False,4,8:27,68,63,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,26,1
+2026-08-26,401857177464,Katie Lou Samuelson makes 24-foot three point jumper (Zia Cooke assists),Jump Shot,92,True,4,8:20,71,63,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,4432832.0,Zia Cooke,,,3,10
+2026-08-26,401857177466,Tempo Full timeout,Full Timeout,16,False,4,8:19,71,63,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177467,Jade Melbourne enters the game for Taina Mair,Substitution,584,False,4,8:19,71,63,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,5106222.0,Taina Mair,,,-214748340,-214748365
+2026-08-26,401857177468,Temi Fagbenle enters the game for Ornella Bankole,Substitution,584,False,4,8:19,71,63,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,5364343.0,Ornella Bankole,,,-214748340,-214748365
+2026-08-26,401857177471,Isabelle Harrison misses 24-foot three point jumper,Jump Shot,92,False,4,8:02,71,63,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,20,24
+2026-08-26,401857177472,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,4,7:57,71,63,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,20,24
+2026-08-26,401857177473,Dominique Malonga misses driving floating jump shot,Driving Floating Jump Shot,144,False,4,7:36,71,63,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,22,8
+2026-08-26,401857177474,Laura Juskaite defensive rebound,Defensive Rebound,155,False,4,7:33,71,63,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,22,8
+2026-08-26,401857177475,Katie Lou Samuelson blocks Isabelle Harrison 's 4-foot layup,Cutting Layup Shot,141,False,4,7:12,71,63,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,3917453.0,Katie Lou Samuelson,,,22,3
+2026-08-26,401857177477,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,4,7:08,71,63,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,22,3
+2026-08-26,401857177478,Jade Melbourne makes 7-foot two point shot,Driving Finger Roll Layup,128,True,4,6:53,73,63,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,26,7
+2026-08-26,401857177479,Kiki Rice shooting foul,Shooting Foul,44,False,4,6:53,73,63,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,26,7
+2026-08-26,401857177481,Kiana Williams enters the game for Kiki Rice,Substitution,584,False,4,6:53,73,63,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,4565505.0,Kiki Rice,,,-214748340,-214748365
+2026-08-26,401857177483,Jade Melbourne misses free throw 1 of 1,Free Throw - 1 of 1,97,False,4,6:53,73,63,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,401857177484,Temi Fagbenle defensive rebound,Defensive Rebound,155,False,4,6:49,73,63,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,-214748340,-214748365
+2026-08-26,401857177485,Temi Fagbenle makes 24-foot three point jumper (Isabelle Harrison assists),Jump Shot,92,True,4,6:35,73,66,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,2566453.0,Isabelle Harrison,,,7,17
+2026-08-26,401857177487,Dominique Malonga makes 21-foot jumper (Zia Cooke assists),Jump Shot,92,True,4,6:14,75,66,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,4432832.0,Zia Cooke,,,16,18
+2026-08-26,401857177489,Temi Fagbenle offensive foul,Offensive Foul,42,False,4,6:04,75,66,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,42,14
+2026-08-26,401857177491,Temi Fagbenle offensive foul turnover,Offensive Foul Turnover,84,False,4,6:04,75,66,Seattle Storm,Toronto Tempo,2569044.0,Temi Fagbenle,,,,,42,14
+2026-08-26,401857177492,Jade Melbourne makes 9-foot two point shot,Driving Finger Roll Layup,128,True,4,5:51,77,66,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,19,7
+2026-08-26,401857177493,"Kiana Williams bad pass
+turnover (Dominique Malonga steals)","Bad Pass
+Turnover",62,False,4,5:38,77,66,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,5220150.0,Dominique Malonga,,,32,4
+2026-08-26,401857177495,Zia Cooke misses running layup,Running Layup Shot,109,False,4,5:33,77,66,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,28,2
+2026-08-26,401857177496,Maria Conde defensive rebound,Defensive Rebound,155,False,4,5:30,77,66,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,,,,,28,2
+2026-08-26,401857177497,Laura Juskaite makes running layup (Maria Conde assists),Running Layup Shot,109,True,4,5:26,77,68,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,3910470.0,Maria Conde,,,22,1
+2026-08-26,401857177499,Jade Melbourne misses two point shot,Driving Finger Roll Layup,128,False,4,5:09,77,68,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,25,4
+2026-08-26,401857177500,Laura Juskaite defensive rebound,Defensive Rebound,155,False,4,5:06,77,68,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,25,4
+2026-08-26,401857177501,Laura Juskaite misses running layup,Running Layup Shot,109,False,4,5:02,77,68,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,28,3
+2026-08-26,401857177502,Katie Lou Samuelson defensive rebound,Defensive Rebound,155,False,4,5:00,77,68,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,,,,,28,3
+2026-08-26,401857177503,Storm Full timeout,Full Timeout,16,False,4,4:59,77,68,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177504,Flau'jae Johnson enters the game for Zia Cooke,Substitution,584,False,4,4:59,77,68,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,4432832.0,Zia Cooke,,,-214748340,-214748365
+2026-08-26,401857177505,Kiki Rice enters the game for Maria Conde,Substitution,584,False,4,4:59,77,68,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,3910470.0,Maria Conde,,,-214748340,-214748365
+2026-08-26,401857177508,Laura Juskaite kicked ball violation,Kicked Ball,12,False,4,4:39,77,68,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,-214748340,-214748365
+2026-08-26,401857177509,Flau'jae Johnson misses 14-foot pullup jump shot,Pullup Jump Shot,131,False,4,4:34,77,68,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,25,14
+2026-08-26,401857177510,Flau'jae Johnson offensive rebound,Offensive Rebound,156,False,4,4:30,77,68,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,25,14
+2026-08-26,401857177511,Flau'jae Johnson makes 3-foot driving floating jump shot,Driving Floating Jump Shot,144,True,4,4:28,79,68,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,27,3
+2026-08-26,401857177512,"Kiki Rice bad pass
+turnover (Ezi Magbegor steals)","Bad Pass
+Turnover",62,False,4,4:17,79,68,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,4420318.0,Ezi Magbegor,,,27,38
+2026-08-26,401857177514,Jade Melbourne misses running layup,Running Layup Shot,109,False,4,4:10,79,68,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,23,2
+2026-08-26,401857177515,Storm offensive team rebound,Offensive Rebound,156,False,4,4:10,79,68,Seattle Storm,Toronto Tempo,,,,,,,23,2
+2026-08-26,401857177516,Teonni Key enters the game for Temi Fagbenle,Substitution,584,False,4,4:10,79,68,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,2569044.0,Temi Fagbenle,,,-214748340,-214748365
+2026-08-26,401857177518,Dominique Malonga makes 10-foot two point shot (Katie Lou Samuelson assists),Turnaround Fade Away Jump Shot,137,True,4,4:06,81,68,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,3917453.0,Katie Lou Samuelson,,,25,10
+2026-08-26,401857177520,Laura Juskaite misses 24-foot three point jumper,Jump Shot,92,False,4,3:50,81,68,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,5,14
+2026-08-26,401857177521,Isabelle Harrison offensive rebound,Offensive Rebound,156,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,5,14
+2026-08-26,401857177522,Dominique Malonga shooting foul,Shooting Foul,44,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,27,1
+2026-08-26,401857177524,Isabelle Harrison misses free throw 1 of 2,Free Throw - 1 of 2,98,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177525,Tempo offensive team rebound,Offensive Rebound,156,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177526,Kia Nurse enters the game for Laura Juskaite,Substitution,584,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,5345444.0,Laura Juskaite,,,-214748340,-214748365
+2026-08-26,401857177527,Maria Conde enters the game for Kiana Williams,Substitution,584,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,3910470.0,Maria Conde,4282168.0,Kiana Williams,,,-214748340,-214748365
+2026-08-26,401857177530,Storm Full timeout,Full Timeout,16,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177531,Awa Fam enters the game for Ezi Magbegor,Substitution,584,False,4,3:47,81,68,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,401857177533,Isabelle Harrison makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,3:47,81,69,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177534,Dominique Malonga misses 23-foot three point jumper,Jump Shot,92,False,4,3:36,81,69,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,2,3
+2026-08-26,401857177535,Kia Nurse defensive rebound,Defensive Rebound,155,False,4,3:33,81,69,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,2,3
+2026-08-26,401857177536,Teonni Key misses 22-foot three point jumper,Jump Shot,92,False,4,3:16,81,69,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,48,2
+2026-08-26,401857177537,Flau'jae Johnson defensive rebound,Defensive Rebound,155,False,4,3:13,81,69,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,48,2
+2026-08-26,401857177538,Flau'jae Johnson makes running layup,Running Layup Shot,109,True,4,3:09,83,69,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,28,2
+2026-08-26,401857177539,Kiki Rice makes running layup,Running Layup Shot,109,True,4,3:01,83,71,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,22,1
+2026-08-26,401857177540,Flau'jae Johnson misses 10-foot step back jumpshot,Step Back Jump Shot,132,False,4,2:42,83,71,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,,,,,23,10
+2026-08-26,401857177541,Tempo defensive team rebound,Defensive Rebound,155,False,4,2:41,83,71,Seattle Storm,Toronto Tempo,,,,,,,23,10
+2026-08-26,401857177542,Awa Fam shooting foul,Shooting Foul,44,False,4,2:27,83,71,Seattle Storm,Toronto Tempo,5345325.0,Awa Fam,,,,,22,2
+2026-08-26,401857177544,Isabelle Harrison makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,2:27,83,72,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177545,Laura Juskaite enters the game for Maria Conde,Substitution,584,False,4,2:27,83,72,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,3910470.0,Maria Conde,,,-214748340,-214748365
+2026-08-26,401857177547,Isabelle Harrison misses free throw 2 of 2,Free Throw - 2 of 2,99,False,4,2:27,83,72,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177548,Dominique Malonga defensive rebound,Defensive Rebound,155,False,4,2:24,83,72,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,-214748340,-214748365
+2026-08-26,401857177551,shot clock turnover ,Shot Clock Turnover,70,False,4,2:03,83,72,Seattle Storm,Toronto Tempo,,,,,,,4,37
+2026-08-26,401857177552,Kia Nurse misses 23-foot three point jumper,Jump Shot,92,False,4,1:54,83,72,Seattle Storm,Toronto Tempo,3142327.0,Kia Nurse,,,,,22,23
+2026-08-26,401857177553,Laura Juskaite offensive rebound,Offensive Rebound,156,False,4,1:48,83,72,Seattle Storm,Toronto Tempo,5345444.0,Laura Juskaite,,,,,22,23
+2026-08-26,401857177554,Jade Melbourne shooting foul,Shooting Foul,44,False,4,1:44,83,72,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,31,9
+2026-08-26,401857177556,Isabelle Harrison makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,1:44,83,73,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177557,Ezi Magbegor enters the game for Awa Fam,Substitution,584,False,4,1:44,83,73,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,5345325.0,Awa Fam,,,-214748340,-214748365
+2026-08-26,401857177559,Isabelle Harrison makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,1:44,83,74,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177560,Katie Lou Samuelson makes 2-foot reverse layup (Ezi Magbegor assists),Reverse Layup Shot,112,True,4,1:28,85,74,Seattle Storm,Toronto Tempo,3917453.0,Katie Lou Samuelson,4420318.0,Ezi Magbegor,,,23,1
+2026-08-26,401857177562,Tempo Full timeout,Full Timeout,16,False,4,1:28,85,74,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177563,Jade Melbourne personal foul,Personal Foul,45,False,4,1:24,85,74,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,25,26
+2026-08-26,401857177565,Kiki Rice makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,1:24,85,75,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177566,Ornella Bankole enters the game for Kia Nurse,Substitution,584,False,4,1:24,85,75,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,3142327.0,Kia Nurse,,,-214748340,-214748365
+2026-08-26,401857177568,Kiki Rice makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,1:24,85,76,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177569,Ornella Bankole personal foul,Personal Foul,45,False,4,1:18,85,76,Seattle Storm,Toronto Tempo,5364343.0,Ornella Bankole,,,,,38,27
+2026-08-26,401857177571,Jade Melbourne misses 22-foot three point jumper,Jump Shot,92,False,4,1:09,85,76,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,48,2
+2026-08-26,401857177572,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,4,1:05,85,76,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,48,2
+2026-08-26,401857177573,Katie Lou Samuelson blocks Isabelle Harrison 's 8-foot running layup,Running Layup Shot,109,False,4,1:02,85,76,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,3917453.0,Katie Lou Samuelson,,,30,7
+2026-08-26,401857177575,Jade Melbourne defensive rebound,Defensive Rebound,155,False,4,56.8,85,76,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,30,7
+2026-08-26,401857177577,Jade Melbourne lost ball turnover (Kiki Rice steals),Lost Ball Turnover,63,False,4,56.1,85,76,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,4565505.0,Kiki Rice,,,27,12
+2026-08-26,401857177579,Dominique Malonga personal foul,Personal Foul,45,False,4,54.7,85,76,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,,,,,25,9
+2026-08-26,401857177581,Kiki Rice makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,54.7,85,77,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177582,Kiki Rice makes free throw 2 of 2,Free Throw - 2 of 2,99,True,4,54.7,85,78,Seattle Storm,Toronto Tempo,4565505.0,Kiki Rice,,,,,-214748340,-214748365
+2026-08-26,401857177583,Storm Full timeout,Full Timeout,16,False,4,54.7,85,78,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177584,Zia Cooke enters the game for Ezi Magbegor,Substitution,584,False,4,54.7,85,78,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,401857177586,Teonni Key personal foul,Personal Foul,45,False,4,51.0,85,78,Seattle Storm,Toronto Tempo,4434020.0,Teonni Key,,,,,35,28
+2026-08-26,401857177588,Jade Melbourne makes free throw 1 of 2,Free Throw - 1 of 2,98,True,4,51.0,86,78,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,401857177589,Ezi Magbegor enters the game for Zia Cooke,Substitution,584,False,4,51.0,86,78,Seattle Storm,Toronto Tempo,4420318.0,Ezi Magbegor,4432832.0,Zia Cooke,,,-214748340,-214748365
+2026-08-26,401857177591,Jade Melbourne misses free throw 2 of 2,Free Throw - 2 of 2,99,False,4,51.0,86,78,Seattle Storm,Toronto Tempo,5017726.0,Jade Melbourne,,,,,-214748340,-214748365
+2026-08-26,401857177592,Isabelle Harrison defensive rebound,Defensive Rebound,155,False,4,50.0,86,78,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,-214748340,-214748365
+2026-08-26,401857177593,Tempo Reset Timeout,Reset Timeout,283,False,4,50.0,86,78,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177594,Isabelle Harrison offensive foul,Offensive Foul,42,False,4,46.8,86,78,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,10,11
+2026-08-26,401857177596,Isabelle Harrison offensive foul turnover,Offensive Foul Turnover,84,False,4,46.8,86,78,Seattle Storm,Toronto Tempo,2566453.0,Isabelle Harrison,,,,,10,11
+2026-08-26,401857177597,Zia Cooke enters the game for Ezi Magbegor,Substitution,584,False,4,46.8,86,78,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,4420318.0,Ezi Magbegor,,,-214748340,-214748365
+2026-08-26,401857177599,Zia Cooke misses 2-foot jump bank shot,Jump Shot Bank,122,False,4,34.7,86,78,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,27,1
+2026-08-26,401857177600,Storm offensive team rebound,Offensive Rebound,156,False,4,32.3,86,78,Seattle Storm,Toronto Tempo,,,,,,,27,1
+2026-08-26,401857177603,Kiana Williams enters the game for Kiki Rice,Substitution,584,False,4,32.3,86,78,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,4565505.0,Kiki Rice,,,-214748340,-214748365
+2026-08-26,401857177604,Flau'jae Johnson makes 20-foot jumper (Zia Cooke assists),Jump Shot,92,True,4,26.7,88,78,Seattle Storm,Toronto Tempo,4698736.0,Flau'jae Johnson,4432832.0,Zia Cooke,,,5,3
+2026-08-26,401857177606,Kiana Williams misses driving floating jump shot,Driving Floating Jump Shot,144,False,4,16.0,88,78,Seattle Storm,Toronto Tempo,4282168.0,Kiana Williams,,,,,17,2
+2026-08-26,401857177607,Zia Cooke defensive rebound,Defensive Rebound,155,False,4,12.4,88,78,Seattle Storm,Toronto Tempo,4432832.0,Zia Cooke,,,,,17,2
+2026-08-26,401857177608,Storm Reset Timeout,Reset Timeout,283,False,4,12.4,88,78,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177609,Dominique Malonga makes driving layup (Jade Melbourne assists),Driving Layup Shot,110,True,4,8.4,90,78,Seattle Storm,Toronto Tempo,5220150.0,Dominique Malonga,5017726.0,Jade Melbourne,,,23,2
+2026-08-26,401857177611,End of the 4th Quarter,End Period,412,False,4,0.0,90,78,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
+2026-08-26,401857177612,End of Game,End Game,402,False,4,0.0,90,78,Seattle Storm,Toronto Tempo,,,,,,,-214748340,-214748365
 2026-08-26,4018571764,Kiah Stokes vs. Aaliyah Edwards (Veronica Burton gains possession),Jumpball,615,False,1,10:00,0,0,Connecticut Sun,Golden State Valkyries,2590093,Kiah Stokes,4433408,Aaliyah Edwards,4398935,Veronica Burton,-214748340,-214748365
 2026-08-26,4018571767,Charlisse Leger-Walker personal foul,Personal Foul,45,False,1,9:48,0,0,Connecticut Sun,Golden State Valkyries,4703609,Charlisse Leger-Walker,,,,,28,2
 2026-08-26,4018571769,Gabby Williams makes 26-foot three point jumper (Cecilia Zandalasini assists),Jump Shot,92,True,1,9:33,0,3,Connecticut Sun,Golden State Valkyries,3142328,Gabby Williams,4257500,Cecilia Zandalasini,,,41,21
