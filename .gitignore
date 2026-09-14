@@ -2,3 +2,4 @@ venv/
 __pycache__/
 .ipynb_checkpoints/01_wnba_data_exploration.ipynb
 *.ipynb
+my_espn_wnba_pbp.csv
