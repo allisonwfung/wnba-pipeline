@@ -98,6 +98,7 @@ def parse_plays(summary_data, game_date="Unknown"):
             "type_text": play.get("type", {}).get("text"),
             "type_id": play.get("type", {}).get("id"),
             "scoring_play": play.get("scoringPlay", False),
+            "shooting_play": play.get("shootingPlay", False),
             "period": play.get("period", {}).get("number"),
             "clock_display": play.get("clock", {}).get("displayValue"),
             "home_score": play.get("homeScore"),
