@@ -1,3 +1,4 @@
 venv/
 __pycache__/
-.ipynb_checkpoints/
+.ipynb_checkpoints/01_wnba_data_exploration.ipynb
+*.ipynb
