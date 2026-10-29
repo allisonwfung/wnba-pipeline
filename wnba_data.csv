@@ -159403,389 +159403,623 @@ turnover (Veronica Burton steals)","Bad Pass
 Turnover",62,False,False,4,9.8,62,67,Atlanta Dream,Golden State Valkyries,4433402.0,Angel Reese,4398935.0,Veronica Burton,,,37,17
 2026-10-24,401918308594,End of the 4th Quarter,End Period,412,False,False,4,0.0,62,67,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
 2026-10-24,401918308595,End of Game,End Game,402,False,False,4,0.0,62,67,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
-2026-10-26,4019183094,Angel Reese vs. Kiah Stokes (Naz Hillmon gains possession),Jumpball,615,False,False,1,10:00,0,0,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,2590093,Kiah Stokes,4398915,Naz Hillmon,-214748340,-214748365
-2026-10-26,4019183097,Jordin Canada misses 12-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,9:33,0,0,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,30,11
-2026-10-26,4019183098,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,9:31,0,0,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,30,11
-2026-10-26,4019183099,Gabby Williams misses 33-foot three point jumper,Jump Shot,92,False,True,1,9:07,0,0,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,5,27
-2026-10-26,40191830910,Kaila Charles offensive rebound,Offensive Rebound,156,False,False,1,9:05,0,0,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,5,27
-2026-10-26,40191830911,Kiah Stokes makes layup (Kaila Charles assists),Layup Shot,95,True,True,1,8:59,2,0,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,4065780,Kaila Charles,,,24,4
-2026-10-26,40191830913,Rhyne Howard misses 25-foot three point jumper,Jump Shot,92,False,True,1,8:36,2,0,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,10,21
-2026-10-26,40191830914,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,8:28,2,0,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,10,21
-2026-10-26,40191830915,Veronica Burton makes 7-foot two point shot,Driving Finger Roll Layup,128,True,True,1,8:13,4,0,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,19,3
-2026-10-26,40191830916,Kaila Charles blocks Naz Hillmon 's 6-foot two point shot,Driving Finger Roll Layup,128,False,True,1,7:53,4,0,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,4065780,Kaila Charles,,,25,6
+2026-10-26,4019183094,Angel Reese vs. Kiah Stokes (Naz Hillmon gains possession),Jumpball,615,False,False,1,10:00,0,0,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,2590093.0,Kiah Stokes,4398915.0,Naz Hillmon,-214748340,-214748365
+2026-10-26,4019183097,Jordin Canada misses 12-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,9:33,0,0,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,30,11
+2026-10-26,4019183098,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,9:31,0,0,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,30,11
+2026-10-26,4019183099,Gabby Williams misses 33-foot three point jumper,Jump Shot,92,False,True,1,9:07,0,0,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,5,27
+2026-10-26,40191830910,Kaila Charles offensive rebound,Offensive Rebound,156,False,False,1,9:05,0,0,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,5,27
+2026-10-26,40191830911,Kiah Stokes makes layup (Kaila Charles assists),Layup Shot,95,True,True,1,8:59,2,0,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,4065780.0,Kaila Charles,,,24,4
+2026-10-26,40191830913,Rhyne Howard misses 25-foot three point jumper,Jump Shot,92,False,True,1,8:36,2,0,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,10,21
+2026-10-26,40191830914,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,8:28,2,0,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,10,21
+2026-10-26,40191830915,Veronica Burton makes 7-foot two point shot,Driving Finger Roll Layup,128,True,True,1,8:13,4,0,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,19,3
+2026-10-26,40191830916,Kaila Charles blocks Naz Hillmon 's 6-foot two point shot,Driving Finger Roll Layup,128,False,True,1,7:53,4,0,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,4065780.0,Kaila Charles,,,25,6
 2026-10-26,40191830918,Dream offensive team rebound,Offensive Rebound,156,False,False,1,7:53,4,0,Golden State Valkyries,Atlanta Dream,,,,,,,25,6
-2026-10-26,40191830920,Allisha Gray makes 6-foot layup (Jordin Canada assists),Cutting Layup Shot,141,True,True,1,7:50,4,2,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,3142250,Jordin Canada,,,31,3
-2026-10-26,40191830922,Rhyne Howard blocks Tiffany Hayes 's 6-foot driving layup,Driving Layup Shot,110,False,True,1,7:26,4,2,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,4398674,Rhyne Howard,,,20,3
-2026-10-26,40191830924,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,7:24,4,2,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,20,3
+2026-10-26,40191830920,Allisha Gray makes 6-foot layup (Jordin Canada assists),Cutting Layup Shot,141,True,True,1,7:50,4,2,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,3142250.0,Jordin Canada,,,31,3
+2026-10-26,40191830922,Rhyne Howard blocks Tiffany Hayes 's 6-foot driving layup,Driving Layup Shot,110,False,True,1,7:26,4,2,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,4398674.0,Rhyne Howard,,,20,3
+2026-10-26,40191830924,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,7:24,4,2,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,20,3
 2026-10-26,40191830925,"Jordin Canada bad pass
 turnover (Tiffany Hayes steals)","Bad Pass
-Turnover",62,False,False,1,7:17,4,2,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,1054,Tiffany Hayes,,,30,5
-2026-10-26,40191830927,Gabby Williams misses running layup,Running Layup Shot,109,False,True,1,7:12,4,2,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,21,3
-2026-10-26,40191830928,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,7:10,4,2,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,21,3
-2026-10-26,40191830929,Allisha Gray misses 11-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,1,7:02,4,2,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,19,10
-2026-10-26,40191830930,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,7:00,4,2,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,19,10
-2026-10-26,40191830932,Gabby Williams misses 10-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,6:40,4,2,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,26,10
-2026-10-26,40191830933,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,6:37,4,2,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,26,10
-2026-10-26,40191830934,Angel Reese makes running layup (Jordin Canada assists),Running Layup Shot,109,True,True,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,3142250,Jordin Canada,,,30,3
-2026-10-26,40191830936,Kaila Charles shooting foul,Shooting Foul,44,False,False,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,30,4
-2026-10-26,40191830938,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,4398915,Naz Hillmon,,,-214748340,-214748365
-2026-10-26,40191830940,Angel Reese misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,-214748340,-214748365
-2026-10-26,40191830941,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,1,6:33,4,4,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,-214748340,-214748365
-2026-10-26,40191830942,Tiffany Hayes misses 23-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,1,6:25,4,4,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,2,3
-2026-10-26,40191830943,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,6:23,4,4,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,2,3
-2026-10-26,40191830944,Tiffany Hayes personal foul,Personal Foul,45,False,False,1,6:20,4,4,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,31,4
-2026-10-26,40191830948,Veronica Burton blocks Jordin Canada 's 7-foot two point shot,Layup Driving Reverse,126,False,True,1,6:12,4,4,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,4398935,Veronica Burton,,,30,4
-2026-10-26,40191830950,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,6:10,4,4,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,30,4
-2026-10-26,40191830951,Jordin Canada personal foul,Personal Foul,45,False,False,1,6:09,4,4,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,31,15
-2026-10-26,40191830954,Angel Reese vs. Gabby Williams (Veronica Burton gains possession),Jumpball,615,False,False,1,5:57,4,4,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,4433402,Angel Reese,4398935,Veronica Burton,-214748340,-214748365
-2026-10-26,40191830957,Veronica Burton misses 26-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,1,5:44,4,4,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,5,17
+Turnover",62,False,False,1,7:17,4,2,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,1054.0,Tiffany Hayes,,,30,5
+2026-10-26,40191830927,Gabby Williams misses running layup,Running Layup Shot,109,False,True,1,7:12,4,2,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,21,3
+2026-10-26,40191830928,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,7:10,4,2,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,21,3
+2026-10-26,40191830929,Allisha Gray misses 11-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,1,7:02,4,2,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,19,10
+2026-10-26,40191830930,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,7:00,4,2,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,19,10
+2026-10-26,40191830932,Gabby Williams misses 10-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,6:40,4,2,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,26,10
+2026-10-26,40191830933,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,6:37,4,2,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,26,10
+2026-10-26,40191830934,Angel Reese makes running layup (Jordin Canada assists),Running Layup Shot,109,True,True,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,3142250.0,Jordin Canada,,,30,3
+2026-10-26,40191830936,Kaila Charles shooting foul,Shooting Foul,44,False,False,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,30,4
+2026-10-26,40191830938,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,4398915.0,Naz Hillmon,,,-214748340,-214748365
+2026-10-26,40191830940,Angel Reese misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,6:35,4,4,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,-214748340,-214748365
+2026-10-26,40191830941,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,1,6:33,4,4,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,-214748340,-214748365
+2026-10-26,40191830942,Tiffany Hayes misses 23-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,1,6:25,4,4,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,2,3
+2026-10-26,40191830943,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,1,6:23,4,4,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,2,3
+2026-10-26,40191830944,Tiffany Hayes personal foul,Personal Foul,45,False,False,1,6:20,4,4,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,31,4
+2026-10-26,40191830948,Veronica Burton blocks Jordin Canada 's 7-foot two point shot,Layup Driving Reverse,126,False,True,1,6:12,4,4,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,4398935.0,Veronica Burton,,,30,4
+2026-10-26,40191830950,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,6:10,4,4,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,30,4
+2026-10-26,40191830951,Jordin Canada personal foul,Personal Foul,45,False,False,1,6:09,4,4,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,31,15
+2026-10-26,40191830954,Angel Reese vs. Gabby Williams (Veronica Burton gains possession),Jumpball,615,False,False,1,5:57,4,4,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,4433402.0,Angel Reese,4398935.0,Veronica Burton,-214748340,-214748365
+2026-10-26,40191830957,Veronica Burton misses 26-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,1,5:44,4,4,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,5,17
 2026-10-26,40191830958,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,1,5:43,4,4,Golden State Valkyries,Atlanta Dream,,,,,,,5,17
 2026-10-26,40191830959,shot clock turnover ,Shot Clock Turnover,70,False,False,1,5:43,4,4,Golden State Valkyries,Atlanta Dream,,,,,,,30,-2
-2026-10-26,40191830960,Allisha Gray misses 7-foot reverse layup,Reverse Layup Shot,112,False,True,1,5:31,4,4,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,31,5
-2026-10-26,40191830961,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,5:29,4,4,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,31,5
-2026-10-26,40191830962,Kiah Stokes misses 23-foot three point jumper,Jump Shot,92,False,True,1,5:11,4,4,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,48,6
-2026-10-26,40191830963,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,1,5:09,4,4,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,48,6
-2026-10-26,40191830964,Kiah Stokes makes 5-foot layup (Gabby Williams assists),Cutting Layup Shot,141,True,True,1,5:01,6,4,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,3142328,Gabby Williams,,,29,3
-2026-10-26,40191830966,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,1,4:49,6,4,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,3,9
-2026-10-26,40191830967,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,4:46,6,4,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,3,9
-2026-10-26,40191830968,Gabby Williams makes 13-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,26,13
-2026-10-26,40191830969,Jordin Canada shooting foul,Shooting Foul,44,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,25,12
+2026-10-26,40191830960,Allisha Gray misses 7-foot reverse layup,Reverse Layup Shot,112,False,True,1,5:31,4,4,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,31,5
+2026-10-26,40191830961,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,5:29,4,4,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,31,5
+2026-10-26,40191830962,Kiah Stokes misses 23-foot three point jumper,Jump Shot,92,False,True,1,5:11,4,4,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,48,6
+2026-10-26,40191830963,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,1,5:09,4,4,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,48,6
+2026-10-26,40191830964,Kiah Stokes makes 5-foot layup (Gabby Williams assists),Cutting Layup Shot,141,True,True,1,5:01,6,4,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,3142328.0,Gabby Williams,,,29,3
+2026-10-26,40191830966,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,1,4:49,6,4,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,3,9
+2026-10-26,40191830967,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,4:46,6,4,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,3,9
+2026-10-26,40191830968,Gabby Williams makes 13-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,26,13
+2026-10-26,40191830969,Jordin Canada shooting foul,Shooting Foul,44,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,25,12
 2026-10-26,40191830971,Official timeout,Official Timeout,19,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,40191830972,Naz Hillmon enters the game for Angel Reese,Substitution,584,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,4433402,Angel Reese,,,-214748340,-214748365
-2026-10-26,40191830973,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,40191830976,Gabby Williams misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,-214748340,-214748365
-2026-10-26,40191830977,DeWanna Bonner defensive rebound,Defensive Rebound,155,False,False,1,4:37,8,4,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,,,,,-214748340,-214748365
-2026-10-26,40191830978,DeWanna Bonner misses 23-foot three point jumper,Jump Shot,92,False,True,1,4:21,8,4,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,,,,,2,3
-2026-10-26,40191830979,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,4:18,8,4,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,2,3
-2026-10-26,40191830980,Tiffany Hayes misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,1,3:55,8,4,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,8,17
-2026-10-26,40191830981,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,1,3:53,8,4,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,8,17
-2026-10-26,40191830982,Jordin Canada makes driving layup,Driving Layup Shot,110,True,True,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,28,7
-2026-10-26,40191830984,Kiah Stokes shooting foul,Shooting Foul,44,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,29,7
-2026-10-26,40191830986,Kayla Thornton enters the game for Tiffany Hayes,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,1054,Tiffany Hayes,,,-214748340,-214748365
-2026-10-26,40191830987,Cecilia Zandalasini enters the game for Kiah Stokes,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,2590093,Kiah Stokes,,,-214748340,-214748365
-2026-10-26,40191830988,Angel Reese enters the game for Rhyne Howard,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,4398674,Rhyne Howard,,,-214748340,-214748365
-2026-10-26,40191830989,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,869,DeWanna Bonner,,,-214748340,-214748365
-2026-10-26,40191830994,Jordin Canada misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,-214748340,-214748365
-2026-10-26,40191830995,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,3:36,8,6,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,-214748340,-214748365
-2026-10-26,40191830996,Cecilia Zandalasini misses 24-foot three point jumper,Jump Shot,92,False,True,1,3:15,8,6,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,10,19
-2026-10-26,40191830997,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,3:12,8,6,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,10,19
-2026-10-26,40191830998,Angel Reese misses 8-foot floating jump shot,Floating Jump Shot,130,False,True,1,3:04,8,6,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,28,7
-2026-10-26,40191830999,Isobel Borlase offensive rebound,Offensive Rebound,156,False,False,1,3:02,8,6,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,28,7
-2026-10-26,401918309100,Veronica Burton shooting foul,Shooting Foul,44,False,False,1,2:59,8,6,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,21,3
-2026-10-26,401918309102,Isobel Borlase makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,2:59,8,7,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,-214748340,-214748365
-2026-10-26,401918309103,Te-Hina Paopao enters the game for Jordin Canada,Substitution,584,False,False,1,2:59,8,7,Golden State Valkyries,Atlanta Dream,4433431,Te-Hina Paopao,3142250,Jordin Canada,,,-214748340,-214748365
-2026-10-26,401918309105,Isobel Borlase makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,2:59,8,8,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,-214748340,-214748365
-2026-10-26,401918309106,Te-Hina Paopao shooting foul,Shooting Foul,44,False,False,1,2:50,8,8,Golden State Valkyries,Atlanta Dream,4433431,Te-Hina Paopao,,,,,16,5
-2026-10-26,401918309108,Veronica Burton makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,2:50,9,8,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,-214748340,-214748365
-2026-10-26,401918309109,Veronica Burton makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,2:50,10,8,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,-214748340,-214748365
-2026-10-26,401918309110,Te-Hina Paopao misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,1,2:35,10,8,Golden State Valkyries,Atlanta Dream,4433431,Te-Hina Paopao,,,,,16,24
-2026-10-26,401918309111,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,2:33,10,8,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,16,24
-2026-10-26,401918309112,Cecilia Zandalasini misses driving layup,Driving Layup Shot,110,False,True,1,2:25,10,8,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,20,5
-2026-10-26,401918309114,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,1,2:23,10,8,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,20,5
-2026-10-26,401918309115,Isobel Borlase misses 25-foot three point jumper,Jump Shot,92,False,True,1,2:15,10,8,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,13,22
-2026-10-26,401918309116,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,2:13,10,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,13,22
-2026-10-26,401918309117,Angel Reese offensive foul,Offensive Foul,42,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,31,7
-2026-10-26,401918309119,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,31,7
-2026-10-26,401918309120,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,4398915,Naz Hillmon,,,-214748340,-214748365
-2026-10-26,401918309121,Rhyne Howard enters the game for Isobel Borlase,Substitution,584,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,5208983,Isobel Borlase,,,-214748340,-214748365
-2026-10-26,401918309124,Kayla Thornton makes 24-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,True,1,1:58,13,8,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,4398935,Veronica Burton,,,35,22
-2026-10-26,401918309126,Rhyne Howard misses driving layup,Driving Layup Shot,110,False,True,1,1:43,13,8,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,21,4
-2026-10-26,401918309127,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,1:42,13,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,21,4
-2026-10-26,401918309128,Cecilia Zandalasini blocks Angel Reese 's 6-foot two point shot,Layup Shot Putback,125,False,True,1,1:41,13,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,4257500,Cecilia Zandalasini,,,21,5
-2026-10-26,401918309130,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,1:40,13,8,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,21,5
-2026-10-26,401918309131,Angel Reese makes two point shot,Layup Shot Putback,125,True,True,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,21,4
-2026-10-26,401918309132,Kaila Charles shooting foul,Shooting Foul,44,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,21,5
-2026-10-26,401918309134,Kiah Stokes enters the game for Kayla Thornton,Substitution,584,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,2529622,Kayla Thornton,,,-214748340,-214748365
-2026-10-26,401918309135,Jordin Canada enters the game for Te-Hina Paopao,Substitution,584,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,4433431,Te-Hina Paopao,,,-214748340,-214748365
-2026-10-26,401918309138,Angel Reese makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,1,1:39,13,11,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,-214748340,-214748365
-2026-10-26,401918309139,Gabby Williams misses 13-foot two point shot,Pullup Bank Jump Shot,133,False,True,1,1:22,13,11,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,16,10
-2026-10-26,401918309140,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,1:20,13,11,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,16,10
-2026-10-26,401918309141,Allisha Gray misses 11-foot two point shot,Turnaround Fade Away Jump Shot,137,False,True,1,1:06,13,11,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,30,10
-2026-10-26,401918309142,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,1:03,13,11,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,30,10
-2026-10-26,401918309143,Angel Reese personal foul,Personal Foul,45,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,28,35
-2026-10-26,401918309145,Tiffany Hayes enters the game for Gabby Williams,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,3142328,Gabby Williams,,,-214748340,-214748365
-2026-10-26,401918309146,Naz Hillmon enters the game for Angel Reese,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,4433402,Angel Reese,,,-214748340,-214748365
-2026-10-26,401918309147,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,401918309151,Kaila Charles misses 7-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,1,43.1,13,11,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,29,6
-2026-10-26,401918309155,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,1,40.7,13,11,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,29,6
-2026-10-26,401918309152,Rhyne Howard vs. Cecilia Zandalasini (Kaila Charles gains possession),Jumpball,615,False,False,1,39.1,13,11,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,4398674,Rhyne Howard,4065780,Kaila Charles,-214748340,-214748365
-2026-10-26,401918309156,DeWanna Bonner vs. Kaila Charles,Jumpball,615,False,False,1,34.7,13,11,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,4065780,Kaila Charles,,,-214748340,-214748365
-2026-10-26,401918309161,Rhyne Howard makes 26-foot three point jumper (Jordin Canada assists),Jump Shot,92,True,True,1,21.5,13,14,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,3142250,Jordin Canada,,,35,24
-2026-10-26,401918309163,Veronica Burton out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,False,1,0.9,13,14,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,14,7
+2026-10-26,40191830972,Naz Hillmon enters the game for Angel Reese,Substitution,584,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,4433402.0,Angel Reese,,,-214748340,-214748365
+2026-10-26,40191830973,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,40191830976,Gabby Williams misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,4:39,8,4,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-10-26,40191830977,DeWanna Bonner defensive rebound,Defensive Rebound,155,False,False,1,4:37,8,4,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,,,,,-214748340,-214748365
+2026-10-26,40191830978,DeWanna Bonner misses 23-foot three point jumper,Jump Shot,92,False,True,1,4:21,8,4,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,,,,,2,3
+2026-10-26,40191830979,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,4:18,8,4,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,2,3
+2026-10-26,40191830980,Tiffany Hayes misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,1,3:55,8,4,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,8,17
+2026-10-26,40191830981,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,1,3:53,8,4,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,8,17
+2026-10-26,40191830982,Jordin Canada makes driving layup,Driving Layup Shot,110,True,True,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,28,7
+2026-10-26,40191830984,Kiah Stokes shooting foul,Shooting Foul,44,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,29,7
+2026-10-26,40191830986,Kayla Thornton enters the game for Tiffany Hayes,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,1054.0,Tiffany Hayes,,,-214748340,-214748365
+2026-10-26,40191830987,Cecilia Zandalasini enters the game for Kiah Stokes,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,2590093.0,Kiah Stokes,,,-214748340,-214748365
+2026-10-26,40191830988,Angel Reese enters the game for Rhyne Howard,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,4398674.0,Rhyne Howard,,,-214748340,-214748365
+2026-10-26,40191830989,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,869.0,DeWanna Bonner,,,-214748340,-214748365
+2026-10-26,40191830994,Jordin Canada misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,1,3:38,8,6,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,-214748340,-214748365
+2026-10-26,40191830995,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,3:36,8,6,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-10-26,40191830996,Cecilia Zandalasini misses 24-foot three point jumper,Jump Shot,92,False,True,1,3:15,8,6,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,10,19
+2026-10-26,40191830997,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,3:12,8,6,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,10,19
+2026-10-26,40191830998,Angel Reese misses 8-foot floating jump shot,Floating Jump Shot,130,False,True,1,3:04,8,6,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,28,7
+2026-10-26,40191830999,Isobel Borlase offensive rebound,Offensive Rebound,156,False,False,1,3:02,8,6,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,28,7
+2026-10-26,401918309100,Veronica Burton shooting foul,Shooting Foul,44,False,False,1,2:59,8,6,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,21,3
+2026-10-26,401918309102,Isobel Borlase makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,2:59,8,7,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-26,401918309103,Te-Hina Paopao enters the game for Jordin Canada,Substitution,584,False,False,1,2:59,8,7,Golden State Valkyries,Atlanta Dream,4433431.0,Te-Hina Paopao,3142250.0,Jordin Canada,,,-214748340,-214748365
+2026-10-26,401918309105,Isobel Borlase makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,2:59,8,8,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-26,401918309106,Te-Hina Paopao shooting foul,Shooting Foul,44,False,False,1,2:50,8,8,Golden State Valkyries,Atlanta Dream,4433431.0,Te-Hina Paopao,,,,,16,5
+2026-10-26,401918309108,Veronica Burton makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,2:50,9,8,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,-214748340,-214748365
+2026-10-26,401918309109,Veronica Burton makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,2:50,10,8,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,-214748340,-214748365
+2026-10-26,401918309110,Te-Hina Paopao misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,1,2:35,10,8,Golden State Valkyries,Atlanta Dream,4433431.0,Te-Hina Paopao,,,,,16,24
+2026-10-26,401918309111,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,1,2:33,10,8,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,16,24
+2026-10-26,401918309112,Cecilia Zandalasini misses driving layup,Driving Layup Shot,110,False,True,1,2:25,10,8,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,20,5
+2026-10-26,401918309114,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,1,2:23,10,8,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,20,5
+2026-10-26,401918309115,Isobel Borlase misses 25-foot three point jumper,Jump Shot,92,False,True,1,2:15,10,8,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,13,22
+2026-10-26,401918309116,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,2:13,10,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,13,22
+2026-10-26,401918309117,Angel Reese offensive foul,Offensive Foul,42,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,31,7
+2026-10-26,401918309119,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,31,7
+2026-10-26,401918309120,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,4398915.0,Naz Hillmon,,,-214748340,-214748365
+2026-10-26,401918309121,Rhyne Howard enters the game for Isobel Borlase,Substitution,584,False,False,1,2:08,10,8,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,5208983.0,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309124,Kayla Thornton makes 24-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,True,1,1:58,13,8,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,4398935.0,Veronica Burton,,,35,22
+2026-10-26,401918309126,Rhyne Howard misses driving layup,Driving Layup Shot,110,False,True,1,1:43,13,8,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,21,4
+2026-10-26,401918309127,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,1:42,13,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,21,4
+2026-10-26,401918309128,Cecilia Zandalasini blocks Angel Reese 's 6-foot two point shot,Layup Shot Putback,125,False,True,1,1:41,13,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,4257500.0,Cecilia Zandalasini,,,21,5
+2026-10-26,401918309130,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,1:40,13,8,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,21,5
+2026-10-26,401918309131,Angel Reese makes two point shot,Layup Shot Putback,125,True,True,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,21,4
+2026-10-26,401918309132,Kaila Charles shooting foul,Shooting Foul,44,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,21,5
+2026-10-26,401918309134,Kiah Stokes enters the game for Kayla Thornton,Substitution,584,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-10-26,401918309135,Jordin Canada enters the game for Te-Hina Paopao,Substitution,584,False,False,1,1:39,13,10,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,4433431.0,Te-Hina Paopao,,,-214748340,-214748365
+2026-10-26,401918309138,Angel Reese makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,1,1:39,13,11,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,-214748340,-214748365
+2026-10-26,401918309139,Gabby Williams misses 13-foot two point shot,Pullup Bank Jump Shot,133,False,True,1,1:22,13,11,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,16,10
+2026-10-26,401918309140,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,1:20,13,11,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,16,10
+2026-10-26,401918309141,Allisha Gray misses 11-foot two point shot,Turnaround Fade Away Jump Shot,137,False,True,1,1:06,13,11,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,30,10
+2026-10-26,401918309142,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,1,1:03,13,11,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,30,10
+2026-10-26,401918309143,Angel Reese personal foul,Personal Foul,45,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,28,35
+2026-10-26,401918309145,Tiffany Hayes enters the game for Gabby Williams,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,3142328.0,Gabby Williams,,,-214748340,-214748365
+2026-10-26,401918309146,Naz Hillmon enters the game for Angel Reese,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,4433402.0,Angel Reese,,,-214748340,-214748365
+2026-10-26,401918309147,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,1,58.9,13,11,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,401918309151,Kaila Charles misses 7-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,1,43.1,13,11,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,29,6
+2026-10-26,401918309155,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,1,40.7,13,11,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,29,6
+2026-10-26,401918309152,Rhyne Howard vs. Cecilia Zandalasini (Kaila Charles gains possession),Jumpball,615,False,False,1,39.1,13,11,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,4398674.0,Rhyne Howard,4065780.0,Kaila Charles,-214748340,-214748365
+2026-10-26,401918309156,DeWanna Bonner vs. Kaila Charles,Jumpball,615,False,False,1,34.7,13,11,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,4065780.0,Kaila Charles,,,-214748340,-214748365
+2026-10-26,401918309161,Rhyne Howard makes 26-foot three point jumper (Jordin Canada assists),Jump Shot,92,True,True,1,21.5,13,14,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,3142250.0,Jordin Canada,,,35,24
+2026-10-26,401918309163,Veronica Burton out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,False,1,0.9,13,14,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,14,7
 2026-10-26,401918309164,End of the 1st Quarter,End Period,412,False,False,1,0.0,13,14,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309166,Veronica Burton makes 7-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,2,9:40,15,14,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,25,8
+2026-10-26,401918309166,Veronica Burton makes 7-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,2,9:40,15,14,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,25,8
 2026-10-26,401918309167,"DeWanna Bonner bad pass
 turnover (Kaila Charles steals)","Bad Pass
-Turnover",62,False,False,2,9:23,15,14,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,4065780,Kaila Charles,,,32,26
-2026-10-26,401918309169,Veronica Burton makes 24-foot three point jumper (Kaila Charles assists),Jump Shot,92,True,True,2,9:15,18,14,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,4065780,Kaila Charles,,,25,24
-2026-10-26,401918309171,Isobel Borlase misses 26-foot three point jumper,Jump Shot,92,False,True,2,8:52,18,14,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,36,24
-2026-10-26,401918309172,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,2,8:50,18,14,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,36,24
-2026-10-26,401918309173,Veronica Burton misses 27-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,13,25
+Turnover",62,False,False,2,9:23,15,14,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,4065780.0,Kaila Charles,,,32,26
+2026-10-26,401918309169,Veronica Burton makes 24-foot three point jumper (Kaila Charles assists),Jump Shot,92,True,True,2,9:15,18,14,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,4065780.0,Kaila Charles,,,25,24
+2026-10-26,401918309171,Isobel Borlase misses 26-foot three point jumper,Jump Shot,92,False,True,2,8:52,18,14,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,36,24
+2026-10-26,401918309172,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,2,8:50,18,14,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,36,24
+2026-10-26,401918309173,Veronica Burton misses 27-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,13,25
 2026-10-26,401918309174,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,,,,,,,13,25
 2026-10-26,401918309175,shot clock turnover ,Shot Clock Turnover,70,False,False,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,,,,,,,27,8
-2026-10-26,401918309176,Angel Reese enters the game for DeWanna Bonner,Substitution,584,False,False,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,869,DeWanna Bonner,,,-214748340,-214748365
-2026-10-26,401918309178,Jordin Canada misses 23-foot three point jumper,Jump Shot,92,False,True,2,8:17,18,14,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,1,3
+2026-10-26,401918309176,Angel Reese enters the game for DeWanna Bonner,Substitution,584,False,False,2,8:28,18,14,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,869.0,DeWanna Bonner,,,-214748340,-214748365
+2026-10-26,401918309178,Jordin Canada misses 23-foot three point jumper,Jump Shot,92,False,True,2,8:17,18,14,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,1,3
 2026-10-26,401918309179,Dream offensive team rebound,Offensive Rebound,156,False,False,2,8:16,18,14,Golden State Valkyries,Atlanta Dream,,,,,,,1,3
-2026-10-26,401918309181,Gabby Williams enters the game for Kaila Charles,Substitution,584,False,False,2,8:16,18,14,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,4065780,Kaila Charles,,,-214748340,-214748365
-2026-10-26,401918309182,Allisha Gray enters the game for Isobel Borlase,Substitution,584,False,False,2,8:16,18,14,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,5208983,Isobel Borlase,,,-214748340,-214748365
-2026-10-26,401918309185,Naz Hillmon makes 4-foot layup (Jordin Canada assists),Cutting Layup Shot,141,True,True,2,8:12,18,16,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,3142250,Jordin Canada,,,21,3
-2026-10-26,401918309187,Tiffany Hayes makes driving layup (Kiah Stokes assists),Driving Layup Shot,110,True,True,2,7:51,20,16,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,2590093,Kiah Stokes,,,19,4
-2026-10-26,401918309189,Angel Reese misses 7-foot hook shot,Hook Shot,93,False,True,2,7:34,20,16,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,28,6
-2026-10-26,401918309190,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,2,7:32,20,16,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,28,6
-2026-10-26,401918309191,Cecilia Zandalasini makes driving layup (Veronica Burton assists),Driving Layup Shot,110,True,True,2,7:16,22,16,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,4398935,Veronica Burton,,,21,4
-2026-10-26,401918309193,Allisha Gray makes 25-foot three point jumper (Angel Reese assists),Jump Shot,92,True,True,2,7:05,22,19,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4433402,Angel Reese,,,43,18
-2026-10-26,401918309195,Veronica Burton misses 6-foot two point shot,Driving Jump Shot Bank,134,False,True,2,6:50,22,19,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,25,6
-2026-10-26,401918309196,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,6:47,22,19,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,25,6
-2026-10-26,401918309197,Allisha Gray misses 24-foot three point jumper,Jump Shot,92,False,True,2,6:40,22,19,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,46,12
-2026-10-26,401918309198,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,6:38,22,19,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,46,12
+2026-10-26,401918309181,Gabby Williams enters the game for Kaila Charles,Substitution,584,False,False,2,8:16,18,14,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,4065780.0,Kaila Charles,,,-214748340,-214748365
+2026-10-26,401918309182,Allisha Gray enters the game for Isobel Borlase,Substitution,584,False,False,2,8:16,18,14,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,5208983.0,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309185,Naz Hillmon makes 4-foot layup (Jordin Canada assists),Cutting Layup Shot,141,True,True,2,8:12,18,16,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,3142250.0,Jordin Canada,,,21,3
+2026-10-26,401918309187,Tiffany Hayes makes driving layup (Kiah Stokes assists),Driving Layup Shot,110,True,True,2,7:51,20,16,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,2590093.0,Kiah Stokes,,,19,4
+2026-10-26,401918309189,Angel Reese misses 7-foot hook shot,Hook Shot,93,False,True,2,7:34,20,16,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,28,6
+2026-10-26,401918309190,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,2,7:32,20,16,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,28,6
+2026-10-26,401918309191,Cecilia Zandalasini makes driving layup (Veronica Burton assists),Driving Layup Shot,110,True,True,2,7:16,22,16,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,4398935.0,Veronica Burton,,,21,4
+2026-10-26,401918309193,Allisha Gray makes 25-foot three point jumper (Angel Reese assists),Jump Shot,92,True,True,2,7:05,22,19,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4433402.0,Angel Reese,,,43,18
+2026-10-26,401918309195,Veronica Burton misses 6-foot two point shot,Driving Jump Shot Bank,134,False,True,2,6:50,22,19,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,25,6
+2026-10-26,401918309196,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,6:47,22,19,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,25,6
+2026-10-26,401918309197,Allisha Gray misses 24-foot three point jumper,Jump Shot,92,False,True,2,6:40,22,19,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,46,12
+2026-10-26,401918309198,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,6:38,22,19,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,46,12
 2026-10-26,401918309199,Golden State Valkyries Full timeout,Full Timeout,16,False,False,2,6:35,22,19,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309200,Kayla Thornton enters the game for Cecilia Zandalasini,Substitution,584,False,False,2,6:35,22,19,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,4257500,Cecilia Zandalasini,,,-214748340,-214748365
-2026-10-26,401918309201,Isobel Borlase enters the game for Jordin Canada,Substitution,584,False,False,2,6:35,22,19,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3142250,Jordin Canada,,,-214748340,-214748365
-2026-10-26,401918309204,Tiffany Hayes misses driving layup,Driving Layup Shot,110,False,True,2,6:24,22,19,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,20,4
-2026-10-26,401918309205,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,6:21,22,19,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,20,4
-2026-10-26,401918309206,Veronica Burton blocks Naz Hillmon 's 6-foot layup,Cutting Layup Shot,141,False,True,2,6:10,22,19,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,4398935,Veronica Burton,,,30,4
-2026-10-26,401918309208,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,2,6:08,22,19,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,30,4
-2026-10-26,401918309209,Gabby Williams misses 23-foot three point jumper,Jump Shot,92,False,True,2,5:55,22,19,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,46,8
-2026-10-26,401918309210,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,2,5:53,22,19,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,46,8
-2026-10-26,401918309211,Angel Reese misses layup,Layup Shot,95,False,True,2,5:48,22,19,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,30,4
-2026-10-26,401918309212,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,5:46,22,19,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,30,4
-2026-10-26,401918309213,Tiffany Hayes misses 29-foot three point jumper,Jump Shot,92,False,True,2,5:25,22,19,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,21,29
-2026-10-26,401918309214,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,5:23,22,19,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,21,29
-2026-10-26,401918309215,Rhyne Howard misses 26-foot three point jumper,Jump Shot,92,False,True,2,5:12,22,19,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,38,22
-2026-10-26,401918309216,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,5:10,22,19,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,38,22
-2026-10-26,401918309217,Veronica Burton misses 24-foot three point jumper,Jump Shot,92,False,True,2,4:48,22,19,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,48,7
-2026-10-26,401918309218,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,4:46,22,19,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,48,7
-2026-10-26,401918309219,Rhyne Howard makes 10-foot pullup jump shot,Pullup Jump Shot,131,True,True,2,4:27,22,21,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,28,10
-2026-10-26,401918309220,Kayla Thornton misses 22-foot three point jumper,Jump Shot,92,False,True,2,4:05,22,21,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,3,2
-2026-10-26,401918309221,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,2,4:03,22,21,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,3,2
-2026-10-26,401918309222,Veronica Burton misses two point shot,Driving Floating Bank Jump Shot,145,False,True,2,3:54,22,21,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,19,5
-2026-10-26,401918309223,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,3:52,22,21,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,19,5
+2026-10-26,401918309200,Kayla Thornton enters the game for Cecilia Zandalasini,Substitution,584,False,False,2,6:35,22,19,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,4257500.0,Cecilia Zandalasini,,,-214748340,-214748365
+2026-10-26,401918309201,Isobel Borlase enters the game for Jordin Canada,Substitution,584,False,False,2,6:35,22,19,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3142250.0,Jordin Canada,,,-214748340,-214748365
+2026-10-26,401918309204,Tiffany Hayes misses driving layup,Driving Layup Shot,110,False,True,2,6:24,22,19,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,20,4
+2026-10-26,401918309205,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,6:21,22,19,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,20,4
+2026-10-26,401918309206,Veronica Burton blocks Naz Hillmon 's 6-foot layup,Cutting Layup Shot,141,False,True,2,6:10,22,19,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,4398935.0,Veronica Burton,,,30,4
+2026-10-26,401918309208,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,2,6:08,22,19,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,30,4
+2026-10-26,401918309209,Gabby Williams misses 23-foot three point jumper,Jump Shot,92,False,True,2,5:55,22,19,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,46,8
+2026-10-26,401918309210,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,2,5:53,22,19,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,46,8
+2026-10-26,401918309211,Angel Reese misses layup,Layup Shot,95,False,True,2,5:48,22,19,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,30,4
+2026-10-26,401918309212,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,5:46,22,19,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,30,4
+2026-10-26,401918309213,Tiffany Hayes misses 29-foot three point jumper,Jump Shot,92,False,True,2,5:25,22,19,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,21,29
+2026-10-26,401918309214,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,5:23,22,19,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,21,29
+2026-10-26,401918309215,Rhyne Howard misses 26-foot three point jumper,Jump Shot,92,False,True,2,5:12,22,19,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,38,22
+2026-10-26,401918309216,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,5:10,22,19,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,38,22
+2026-10-26,401918309217,Veronica Burton misses 24-foot three point jumper,Jump Shot,92,False,True,2,4:48,22,19,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,48,7
+2026-10-26,401918309218,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,4:46,22,19,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,48,7
+2026-10-26,401918309219,Rhyne Howard makes 10-foot pullup jump shot,Pullup Jump Shot,131,True,True,2,4:27,22,21,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,28,10
+2026-10-26,401918309220,Kayla Thornton misses 22-foot three point jumper,Jump Shot,92,False,True,2,4:05,22,21,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,3,2
+2026-10-26,401918309221,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,2,4:03,22,21,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,3,2
+2026-10-26,401918309222,Veronica Burton misses two point shot,Driving Floating Bank Jump Shot,145,False,True,2,3:54,22,21,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,19,5
+2026-10-26,401918309223,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,2,3:52,22,21,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,19,5
 2026-10-26,401918309224,"Allisha Gray bad pass
 turnover (Gabby Williams steals)","Bad Pass
-Turnover",62,False,False,2,3:32,22,21,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,3142328,Gabby Williams,,,22,26
-2026-10-26,401918309226,Gabby Williams misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,2,3:16,22,21,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,29,24
-2026-10-26,401918309227,Veronica Burton offensive rebound,Offensive Rebound,156,False,False,2,3:14,22,21,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,29,24
-2026-10-26,401918309228,Gabby Williams misses 15-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,2,3:00,22,21,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,24,15
-2026-10-26,401918309229,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,2:58,22,21,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,24,15
+Turnover",62,False,False,2,3:32,22,21,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,3142328.0,Gabby Williams,,,22,26
+2026-10-26,401918309226,Gabby Williams misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,2,3:16,22,21,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,29,24
+2026-10-26,401918309227,Veronica Burton offensive rebound,Offensive Rebound,156,False,False,2,3:14,22,21,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,29,24
+2026-10-26,401918309228,Gabby Williams misses 15-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,2,3:00,22,21,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,24,15
+2026-10-26,401918309229,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,2:58,22,21,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,24,15
 2026-10-26,401918309231,Dream Full timeout,Full Timeout,16,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309232,Kaitlyn Chen enters the game for Gabby Williams,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,4899328,Kaitlyn Chen,3142328,Gabby Williams,,,-214748340,-214748365
-2026-10-26,401918309233,Cecilia Zandalasini enters the game for Veronica Burton,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,4398935,Veronica Burton,,,-214748340,-214748365
-2026-10-26,401918309234,Madina Okot enters the game for Naz Hillmon,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,5108587,Madina Okot,4398915,Naz Hillmon,,,-214748340,-214748365
-2026-10-26,401918309235,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,5208983,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309232,Kaitlyn Chen enters the game for Gabby Williams,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,4899328.0,Kaitlyn Chen,3142328.0,Gabby Williams,,,-214748340,-214748365
+2026-10-26,401918309233,Cecilia Zandalasini enters the game for Veronica Burton,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,4398935.0,Veronica Burton,,,-214748340,-214748365
+2026-10-26,401918309234,Madina Okot enters the game for Naz Hillmon,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,5108587.0,Madina Okot,4398915.0,Naz Hillmon,,,-214748340,-214748365
+2026-10-26,401918309235,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,2,2:50,22,21,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,5208983.0,Isobel Borlase,,,-214748340,-214748365
 2026-10-26,401918309240,"Jordin Canada bad pass
 turnover","Bad Pass
-Turnover",62,False,False,2,2:48,22,21,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,41,41
-2026-10-26,401918309241,Cecilia Zandalasini makes 24-foot three point jumper (Tiffany Hayes assists),Jump Shot,92,True,True,2,2:30,25,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,1054,Tiffany Hayes,,,47,9
-2026-10-26,401918309243,Kiah Stokes blocks Angel Reese 's 6-foot driving layup,Driving Layup Shot,110,False,True,2,2:20,25,21,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,2590093,Kiah Stokes,,,29,4
-2026-10-26,401918309245,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,2:18,25,21,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,29,4
-2026-10-26,401918309246,Kaitlyn Chen traveling turnover,Traveling,64,False,False,2,2:09,25,21,Golden State Valkyries,Atlanta Dream,4899328,Kaitlyn Chen,,,,,20,15
-2026-10-26,401918309247,Madina Okot traveling turnover,Traveling,64,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,5108587,Madina Okot,,,,,31,5
-2026-10-26,401918309248,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,401918309249,Naz Hillmon enters the game for Madina Okot,Substitution,584,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,5108587,Madina Okot,,,-214748340,-214748365
-2026-10-26,401918309252,Rhyne Howard personal foul,Personal Foul,45,False,False,2,1:43,25,21,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,17,6
-2026-10-26,401918309254,Cecilia Zandalasini misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,2,1:34,25,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,30,24
-2026-10-26,401918309255,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,1:31,25,21,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,30,24
-2026-10-26,401918309256,Isobel Borlase misses 7-foot two point shot,Turnaround Fade Away Jump Shot,137,False,True,2,1:18,25,21,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,24,7
-2026-10-26,401918309257,Cecilia Zandalasini defensive rebound,Defensive Rebound,155,False,False,2,1:16,25,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,24,7
-2026-10-26,401918309258,Cecilia Zandalasini offensive foul,Offensive Foul,42,False,False,2,58.4,25,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,24,13
-2026-10-26,401918309260,Cecilia Zandalasini offensive foul turnover,Offensive Foul Turnover,84,False,False,2,58.4,25,21,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,24,13
-2026-10-26,401918309261,Isobel Borlase misses 25-foot three point jumper,Jump Shot,92,False,True,2,45.1,25,21,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,18,24
-2026-10-26,401918309262,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,2,43.1,25,21,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,18,24
-2026-10-26,401918309263,Kayla Thornton shooting foul,Shooting Foul,44,False,False,2,37.7,25,21,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,28,12
-2026-10-26,401918309265,Rhyne Howard makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,-214748340,-214748365
-2026-10-26,401918309266,DeWanna Bonner enters the game for Angel Reese,Substitution,584,False,False,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,4433402,Angel Reese,,,-214748340,-214748365
-2026-10-26,401918309268,Rhyne Howard misses free throw 2 of 2,Free Throw - 2 of 2,99,False,True,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,-214748340,-214748365
-2026-10-26,401918309269,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,2,35.6,25,22,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,-214748340,-214748365
-2026-10-26,401918309270,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,2,26.6,25,22,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,27,11
-2026-10-26,401918309271,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,25.5,25,22,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,27,11
-2026-10-26,401918309272,Kiah Stokes lost ball turnover (Jordin Canada steals),Lost Ball Turnover,63,False,False,2,23.8,25,22,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,3142250,Jordin Canada,,,15,22
-2026-10-26,401918309274,DeWanna Bonner misses 28-foot three point jumper,Jump Shot,92,False,True,2,1.8,25,22,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,,,,,4,19
+Turnover",62,False,False,2,2:48,22,21,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,41,41
+2026-10-26,401918309241,Cecilia Zandalasini makes 24-foot three point jumper (Tiffany Hayes assists),Jump Shot,92,True,True,2,2:30,25,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,1054.0,Tiffany Hayes,,,47,9
+2026-10-26,401918309243,Kiah Stokes blocks Angel Reese 's 6-foot driving layup,Driving Layup Shot,110,False,True,2,2:20,25,21,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,2590093.0,Kiah Stokes,,,29,4
+2026-10-26,401918309245,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,2:18,25,21,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,29,4
+2026-10-26,401918309246,Kaitlyn Chen traveling turnover,Traveling,64,False,False,2,2:09,25,21,Golden State Valkyries,Atlanta Dream,4899328.0,Kaitlyn Chen,,,,,20,15
+2026-10-26,401918309247,Madina Okot traveling turnover,Traveling,64,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,5108587.0,Madina Okot,,,,,31,5
+2026-10-26,401918309248,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,401918309249,Naz Hillmon enters the game for Madina Okot,Substitution,584,False,False,2,1:54,25,21,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,5108587.0,Madina Okot,,,-214748340,-214748365
+2026-10-26,401918309252,Rhyne Howard personal foul,Personal Foul,45,False,False,2,1:43,25,21,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,17,6
+2026-10-26,401918309254,Cecilia Zandalasini misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,2,1:34,25,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,30,24
+2026-10-26,401918309255,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,1:31,25,21,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,30,24
+2026-10-26,401918309256,Isobel Borlase misses 7-foot two point shot,Turnaround Fade Away Jump Shot,137,False,True,2,1:18,25,21,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,24,7
+2026-10-26,401918309257,Cecilia Zandalasini defensive rebound,Defensive Rebound,155,False,False,2,1:16,25,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,24,7
+2026-10-26,401918309258,Cecilia Zandalasini offensive foul,Offensive Foul,42,False,False,2,58.4,25,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,24,13
+2026-10-26,401918309260,Cecilia Zandalasini offensive foul turnover,Offensive Foul Turnover,84,False,False,2,58.4,25,21,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,24,13
+2026-10-26,401918309261,Isobel Borlase misses 25-foot three point jumper,Jump Shot,92,False,True,2,45.1,25,21,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,18,24
+2026-10-26,401918309262,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,2,43.1,25,21,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,18,24
+2026-10-26,401918309263,Kayla Thornton shooting foul,Shooting Foul,44,False,False,2,37.7,25,21,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,28,12
+2026-10-26,401918309265,Rhyne Howard makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-26,401918309266,DeWanna Bonner enters the game for Angel Reese,Substitution,584,False,False,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,4433402.0,Angel Reese,,,-214748340,-214748365
+2026-10-26,401918309268,Rhyne Howard misses free throw 2 of 2,Free Throw - 2 of 2,99,False,True,2,37.7,25,22,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-26,401918309269,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,2,35.6,25,22,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,-214748340,-214748365
+2026-10-26,401918309270,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,2,26.6,25,22,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,27,11
+2026-10-26,401918309271,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,25.5,25,22,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,27,11
+2026-10-26,401918309272,Kiah Stokes lost ball turnover (Jordin Canada steals),Lost Ball Turnover,63,False,False,2,23.8,25,22,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,3142250.0,Jordin Canada,,,15,22
+2026-10-26,401918309274,DeWanna Bonner misses 28-foot three point jumper,Jump Shot,92,False,True,2,1.8,25,22,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,,,,,4,19
 2026-10-26,401918309275,Dream offensive team rebound,Offensive Rebound,156,False,False,2,0.1,25,22,Golden State Valkyries,Atlanta Dream,,,,,,,4,19
 2026-10-26,401918309276,End of the 2nd Quarter,End Period,412,False,False,2,0.0,25,22,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309277,Gabby Williams enters the game for Kaitlyn Chen,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,4899328,Kaitlyn Chen,,,-214748340,-214748365
-2026-10-26,401918309278,Kaila Charles enters the game for Kayla Thornton,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,2529622,Kayla Thornton,,,-214748340,-214748365
-2026-10-26,401918309279,Veronica Burton enters the game for Cecilia Zandalasini,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,4257500,Cecilia Zandalasini,,,-214748340,-214748365
-2026-10-26,401918309280,Angel Reese enters the game for Isobel Borlase,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,5208983,Isobel Borlase,,,-214748340,-214748365
-2026-10-26,401918309281,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,869,DeWanna Bonner,,,-214748340,-214748365
-2026-10-26,401918309288,Veronica Burton misses 26-foot three point jumper,Jump Shot,92,False,True,3,9:47,25,22,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,6,19
-2026-10-26,401918309289,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,3,9:45,25,22,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,6,19
-2026-10-26,401918309290,Jordin Canada makes driving layup (Rhyne Howard assists),Driving Layup Shot,110,True,True,3,9:24,25,24,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,4398674,Rhyne Howard,,,32,4
-2026-10-26,401918309293,Kaila Charles makes 15-foot step back jumpshot,Step Back Jump Shot,132,True,True,3,8:59,27,24,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,35,11
+2026-10-26,401918309277,Gabby Williams enters the game for Kaitlyn Chen,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,4899328.0,Kaitlyn Chen,,,-214748340,-214748365
+2026-10-26,401918309278,Kaila Charles enters the game for Kayla Thornton,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-10-26,401918309279,Veronica Burton enters the game for Cecilia Zandalasini,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,4257500.0,Cecilia Zandalasini,,,-214748340,-214748365
+2026-10-26,401918309280,Angel Reese enters the game for Isobel Borlase,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,5208983.0,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309281,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,3,10:00,25,22,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,869.0,DeWanna Bonner,,,-214748340,-214748365
+2026-10-26,401918309288,Veronica Burton misses 26-foot three point jumper,Jump Shot,92,False,True,3,9:47,25,22,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,6,19
+2026-10-26,401918309289,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,3,9:45,25,22,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,6,19
+2026-10-26,401918309290,Jordin Canada makes driving layup (Rhyne Howard assists),Driving Layup Shot,110,True,True,3,9:24,25,24,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,4398674.0,Rhyne Howard,,,32,4
+2026-10-26,401918309293,Kaila Charles makes 15-foot step back jumpshot,Step Back Jump Shot,132,True,True,3,8:59,27,24,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,35,11
 2026-10-26,401918309295,shot clock turnover ,Shot Clock Turnover,70,False,False,3,8:32,27,24,Golden State Valkyries,Atlanta Dream,,,,,,,27,31
-2026-10-26,401918309296,Kiah Stokes makes 23-foot three point jumper (Tiffany Hayes assists),Jump Shot,92,True,True,3,8:09,30,24,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,1054,Tiffany Hayes,,,48,3
-2026-10-26,401918309298,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,3,7:53,30,24,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,4,13
-2026-10-26,401918309299,Angel Reese offensive rebound,Offensive Rebound,156,False,False,3,7:51,30,24,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,4,13
-2026-10-26,401918309300,Angel Reese misses two point shot,Layup Shot Putback,125,False,True,3,7:50,30,24,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,31,4
-2026-10-26,401918309301,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,3,7:48,30,24,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,31,4
-2026-10-26,401918309302,Tiffany Hayes makes driving layup,Driving Layup Shot,110,True,True,3,7:27,32,24,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,21,5
+2026-10-26,401918309296,Kiah Stokes makes 23-foot three point jumper (Tiffany Hayes assists),Jump Shot,92,True,True,3,8:09,30,24,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,1054.0,Tiffany Hayes,,,48,3
+2026-10-26,401918309298,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,3,7:53,30,24,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,4,13
+2026-10-26,401918309299,Angel Reese offensive rebound,Offensive Rebound,156,False,False,3,7:51,30,24,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,4,13
+2026-10-26,401918309300,Angel Reese misses two point shot,Layup Shot Putback,125,False,True,3,7:50,30,24,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,31,4
+2026-10-26,401918309301,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,3,7:48,30,24,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,31,4
+2026-10-26,401918309302,Tiffany Hayes makes driving layup,Driving Layup Shot,110,True,True,3,7:27,32,24,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,21,5
 2026-10-26,401918309303,Dream Full timeout,Full Timeout,16,False,False,3,7:27,32,24,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309304,Rhyne Howard makes 16-foot pullup jump shot (Jordin Canada assists),Pullup Jump Shot,131,True,True,3,7:13,32,26,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,3142250,Jordin Canada,,,19,15
-2026-10-26,401918309306,Tiffany Hayes makes 11-foot pullup jump shot,Pullup Jump Shot,131,True,True,3,6:50,34,26,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,35,5
-2026-10-26,401918309307,Naz Hillmon misses 24-foot three point jumper,Jump Shot,92,False,True,3,6:38,34,26,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,29,24
+2026-10-26,401918309304,Rhyne Howard makes 16-foot pullup jump shot (Jordin Canada assists),Pullup Jump Shot,131,True,True,3,7:13,32,26,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,3142250.0,Jordin Canada,,,19,15
+2026-10-26,401918309306,Tiffany Hayes makes 11-foot pullup jump shot,Pullup Jump Shot,131,True,True,3,6:50,34,26,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,35,5
+2026-10-26,401918309307,Naz Hillmon misses 24-foot three point jumper,Jump Shot,92,False,True,3,6:38,34,26,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,29,24
 2026-10-26,401918309308,Dream offensive team rebound,Offensive Rebound,156,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,,,,,,,29,24
-2026-10-26,401918309311,Allisha Gray offensive foul,Offensive Foul,42,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,35,18
-2026-10-26,401918309313,Allisha Gray offensive foul turnover,Offensive Foul Turnover,84,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,35,18
+2026-10-26,401918309311,Allisha Gray offensive foul,Offensive Foul,42,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,35,18
+2026-10-26,401918309313,Allisha Gray offensive foul turnover,Offensive Foul Turnover,84,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,35,18
 2026-10-26,401918309315,(06:37) [Dream] COACH'S CHALLENGE (REPLAY SUPPORTS CALL) [Dream] charged with a timeout,Coach's Challenge (Supported),214,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
 2026-10-26,401918309316,Dream Full timeout,Full Timeout,16,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
 2026-10-26,401918309330,(06:37) [Dream] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL),Ref-Initiated Review (Supported),278,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309407,Tiffany Hayes loose ball foul,Loose Ball Foul,43,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,26,6
-2026-10-26,401918309317,Allisha Gray blocks Veronica Burton 's 7-foot driving layup,Driving Layup Shot,110,False,True,3,6:18,34,26,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,3058901,Allisha Gray,,,28,7
-2026-10-26,401918309319,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,6:16,34,26,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,28,7
-2026-10-26,401918309320,Allisha Gray misses 25-foot three point jumper,Jump Shot,92,False,True,3,6:06,34,26,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,3,12
-2026-10-26,401918309321,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,3,6:04,34,26,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,3,12
-2026-10-26,401918309322,Allisha Gray makes 14-foot pullup jump shot (Angel Reese assists),Pullup Jump Shot,131,True,True,3,5:54,34,28,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4433402,Angel Reese,,,27,14
-2026-10-26,401918309324,Gabby Williams misses 17-foot two point shot,Pullup Bank Jump Shot,133,False,True,3,5:28,34,28,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,23,17
-2026-10-26,401918309325,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,5:26,34,28,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,23,17
-2026-10-26,401918309326,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,3,5:14,34,28,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,26,10
-2026-10-26,401918309327,Angel Reese offensive rebound,Offensive Rebound,156,False,False,3,5:11,34,28,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,26,10
-2026-10-26,401918309328,Veronica Burton blocks Allisha Gray 's 6-foot driving layup,Driving Layup Shot,110,False,True,3,5:06,34,28,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4398935,Veronica Burton,,,29,4
+2026-10-26,401918309407,Tiffany Hayes loose ball foul,Loose Ball Foul,43,False,False,3,6:37,34,26,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,26,6
+2026-10-26,401918309317,Allisha Gray blocks Veronica Burton 's 7-foot driving layup,Driving Layup Shot,110,False,True,3,6:18,34,26,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,3058901.0,Allisha Gray,,,28,7
+2026-10-26,401918309319,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,6:16,34,26,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,28,7
+2026-10-26,401918309320,Allisha Gray misses 25-foot three point jumper,Jump Shot,92,False,True,3,6:06,34,26,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,3,12
+2026-10-26,401918309321,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,3,6:04,34,26,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,3,12
+2026-10-26,401918309322,Allisha Gray makes 14-foot pullup jump shot (Angel Reese assists),Pullup Jump Shot,131,True,True,3,5:54,34,28,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4433402.0,Angel Reese,,,27,14
+2026-10-26,401918309324,Gabby Williams misses 17-foot two point shot,Pullup Bank Jump Shot,133,False,True,3,5:28,34,28,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,23,17
+2026-10-26,401918309325,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,5:26,34,28,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,23,17
+2026-10-26,401918309326,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,3,5:14,34,28,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,26,10
+2026-10-26,401918309327,Angel Reese offensive rebound,Offensive Rebound,156,False,False,3,5:11,34,28,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,26,10
+2026-10-26,401918309328,Veronica Burton blocks Allisha Gray 's 6-foot driving layup,Driving Layup Shot,110,False,True,3,5:06,34,28,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4398935.0,Veronica Burton,,,29,4
 2026-10-26,401918309331,Dream offensive team rebound,Offensive Rebound,156,False,False,3,5:05,34,28,Golden State Valkyries,Atlanta Dream,,,,,,,29,4
-2026-10-26,401918309332,Rhyne Howard makes 20-foot pullup jump shot,Pullup Jump Shot,131,True,True,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,35,17
-2026-10-26,401918309334,Tiffany Hayes shooting foul,Shooting Foul,44,False,False,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,26,9
-2026-10-26,401918309337,Cecilia Zandalasini enters the game for Tiffany Hayes,Substitution,584,False,False,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,1054,Tiffany Hayes,,,-214748340,-214748365
-2026-10-26,401918309339,Allisha Gray makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,3,4:59,34,31,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,-214748340,-214748365
+2026-10-26,401918309332,Rhyne Howard makes 20-foot pullup jump shot,Pullup Jump Shot,131,True,True,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,35,17
+2026-10-26,401918309334,Tiffany Hayes shooting foul,Shooting Foul,44,False,False,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,26,9
+2026-10-26,401918309337,Cecilia Zandalasini enters the game for Tiffany Hayes,Substitution,584,False,False,3,4:59,34,30,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,1054.0,Tiffany Hayes,,,-214748340,-214748365
+2026-10-26,401918309339,Allisha Gray makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,3,4:59,34,31,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,-214748340,-214748365
 2026-10-26,401918309340,"Kiah Stokes bad pass
 turnover (Rhyne Howard steals)","Bad Pass
-Turnover",62,False,False,3,4:39,34,31,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,4398674,Rhyne Howard,,,22,24
+Turnover",62,False,False,3,4:39,34,31,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,4398674.0,Rhyne Howard,,,22,24
 2026-10-26,401918309342,"Rhyne Howard bad pass
 turnover (Gabby Williams steals)","Bad Pass
-Turnover",62,False,False,3,4:30,34,31,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,3142328,Gabby Williams,,,28,-1
-2026-10-26,401918309344,Cecilia Zandalasini makes running layup (Kaila Charles assists),Running Layup Shot,109,True,True,3,4:24,36,31,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,4065780,Kaila Charles,,,21,4
-2026-10-26,401918309346,Kiah Stokes blocks Naz Hillmon 's 5-foot layup,Cutting Layup Shot,141,False,True,3,4:11,36,31,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,2590093,Kiah Stokes,,,21,4
+Turnover",62,False,False,3,4:30,34,31,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,3142328.0,Gabby Williams,,,28,-1
+2026-10-26,401918309344,Cecilia Zandalasini makes running layup (Kaila Charles assists),Running Layup Shot,109,True,True,3,4:24,36,31,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,4065780.0,Kaila Charles,,,21,4
+2026-10-26,401918309346,Kiah Stokes blocks Naz Hillmon 's 5-foot layup,Cutting Layup Shot,141,False,True,3,4:11,36,31,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,2590093.0,Kiah Stokes,,,21,4
 2026-10-26,401918309348,Dream offensive team rebound,Offensive Rebound,156,False,False,3,4:10,36,31,Golden State Valkyries,Atlanta Dream,,,,,,,21,4
-2026-10-26,401918309349,Veronica Burton shooting foul,Shooting Foul,44,False,False,3,4:05,36,31,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,30,4
-2026-10-26,401918309351,Angel Reese makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,3,4:05,36,32,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,-214748340,-214748365
-2026-10-26,401918309352,Angel Reese makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,4:05,36,33,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,-214748340,-214748365
-2026-10-26,401918309356,Gabby Williams makes 7-foot two point shot (Kaila Charles assists),Driving Finger Roll Layup,128,True,True,3,3:47,38,33,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,4065780,Kaila Charles,,,20,5
+2026-10-26,401918309349,Veronica Burton shooting foul,Shooting Foul,44,False,False,3,4:05,36,31,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,30,4
+2026-10-26,401918309351,Angel Reese makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,3,4:05,36,32,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,-214748340,-214748365
+2026-10-26,401918309352,Angel Reese makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,4:05,36,33,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,-214748340,-214748365
+2026-10-26,401918309356,Gabby Williams makes 7-foot two point shot (Kaila Charles assists),Driving Finger Roll Layup,128,True,True,3,3:47,38,33,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,4065780.0,Kaila Charles,,,20,5
 2026-10-26,401918309357,"Rhyne Howard bad pass
 turnover (Veronica Burton steals)","Bad Pass
-Turnover",62,False,False,3,3:32,38,33,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,4398935,Veronica Burton,,,17,14
-2026-10-26,401918309359,Cecilia Zandalasini misses 24-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,3,3:26,38,33,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,44,15
-2026-10-26,401918309360,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,3:24,38,33,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,44,15
-2026-10-26,401918309361,Rhyne Howard makes 24-foot three point step back jumpshot (Angel Reese assists),Step Back Jump Shot,132,True,True,3,3:04,38,36,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,4433402,Angel Reese,,,30,24
-2026-10-26,401918309362,Kiah Stokes makes 26-foot three point jumper (Gabby Williams assists),Jump Shot,92,True,True,3,2:45,41,36,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,3142328,Gabby Williams,,,26,26
-2026-10-26,401918309364,Gabby Williams shooting foul,Shooting Foul,44,False,False,3,2:24,41,36,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,13,5
-2026-10-26,401918309366,Rhyne Howard makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,-214748340,-214748365
-2026-10-26,401918309367,Isobel Borlase enters the game for Jordin Canada,Substitution,584,False,False,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3142250,Jordin Canada,,,-214748340,-214748365
-2026-10-26,401918309368,DeWanna Bonner enters the game for Allisha Gray,Substitution,584,False,False,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,401918309372,Rhyne Howard makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,2:24,41,38,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,-214748340,-214748365
-2026-10-26,401918309374,Veronica Burton misses 27-foot three point jumper,Jump Shot,92,False,True,3,1:59,41,38,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,43,20
-2026-10-26,401918309375,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,3,1:57,41,38,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,43,20
-2026-10-26,401918309376,Rhyne Howard misses 24-foot three point jumper,Jump Shot,92,False,True,3,1:48,41,38,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,21,24
+Turnover",62,False,False,3,3:32,38,33,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,4398935.0,Veronica Burton,,,17,14
+2026-10-26,401918309359,Cecilia Zandalasini misses 24-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,3,3:26,38,33,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,44,15
+2026-10-26,401918309360,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,3:24,38,33,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,44,15
+2026-10-26,401918309361,Rhyne Howard makes 24-foot three point step back jumpshot (Angel Reese assists),Step Back Jump Shot,132,True,True,3,3:04,38,36,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,4433402.0,Angel Reese,,,30,24
+2026-10-26,401918309362,Kiah Stokes makes 26-foot three point jumper (Gabby Williams assists),Jump Shot,92,True,True,3,2:45,41,36,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,3142328.0,Gabby Williams,,,26,26
+2026-10-26,401918309364,Gabby Williams shooting foul,Shooting Foul,44,False,False,3,2:24,41,36,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,13,5
+2026-10-26,401918309366,Rhyne Howard makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-26,401918309367,Isobel Borlase enters the game for Jordin Canada,Substitution,584,False,False,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3142250.0,Jordin Canada,,,-214748340,-214748365
+2026-10-26,401918309368,DeWanna Bonner enters the game for Allisha Gray,Substitution,584,False,False,3,2:24,41,37,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,401918309372,Rhyne Howard makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,2:24,41,38,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-26,401918309374,Veronica Burton misses 27-foot three point jumper,Jump Shot,92,False,True,3,1:59,41,38,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,43,20
+2026-10-26,401918309375,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,3,1:57,41,38,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,43,20
+2026-10-26,401918309376,Rhyne Howard misses 24-foot three point jumper,Jump Shot,92,False,True,3,1:48,41,38,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,21,24
 2026-10-26,401918309377,Golden State Valkyries defensive team rebound,Defensive Rebound,155,False,False,3,1:46,41,38,Golden State Valkyries,Atlanta Dream,,,,,,,21,24
-2026-10-26,401918309378,Isobel Borlase loose ball foul,Loose Ball Foul,43,False,False,3,1:46,41,38,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,24,15
-2026-10-26,401918309380,Isobel Borlase personal foul,Personal Foul,45,False,False,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,40,7
-2026-10-26,401918309382,Cecilia Zandalasini misses free throw 1 of 2,Free Throw - 1 of 2,98,False,True,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-10-26,401918309378,Isobel Borlase loose ball foul,Loose Ball Foul,43,False,False,3,1:46,41,38,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,24,15
+2026-10-26,401918309380,Isobel Borlase personal foul,Personal Foul,45,False,False,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,40,7
+2026-10-26,401918309382,Cecilia Zandalasini misses free throw 1 of 2,Free Throw - 1 of 2,98,False,True,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,-214748340,-214748365
 2026-10-26,401918309383,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309384,Allisha Gray enters the game for Angel Reese,Substitution,584,False,False,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4433402,Angel Reese,,,-214748340,-214748365
-2026-10-26,401918309386,Cecilia Zandalasini makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,1:28,42,38,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,-214748340,-214748365
-2026-10-26,401918309387,Kiah Stokes blocks Isobel Borlase 's 7-foot pullup jump shot,Pullup Jump Shot,131,False,True,3,1:14,42,38,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,2590093,Kiah Stokes,,,29,6
-2026-10-26,401918309389,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,3,1:12,42,38,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,29,6
-2026-10-26,401918309390,Gabby Williams misses driving layup,Driving Layup Shot,110,False,True,3,1:02,42,38,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,30,3
-2026-10-26,401918309391,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,3,1:00,42,38,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,30,3
-2026-10-26,401918309392,Allisha Gray misses 26-foot three point jumper,Jump Shot,92,False,True,3,52.8,42,38,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,39,21
-2026-10-26,401918309393,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,3,51.1,42,38,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,39,21
-2026-10-26,401918309395,Kayla Thornton enters the game for Kiah Stokes,Substitution,584,False,False,3,31.5,42,38,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,2590093,Kiah Stokes,,,-214748340,-214748365
-2026-10-26,401918309396,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,3,31.5,42,38,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,5208983,Isobel Borlase,,,-214748340,-214748365
-2026-10-26,401918309399,Cecilia Zandalasini makes 15-foot turnaround jump shot (Veronica Burton assists),Turnaround Jump Shot,114,True,True,3,28.6,44,38,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,4398935,Veronica Burton,,,40,3
-2026-10-26,401918309401,Rhyne Howard makes 13-foot step back jumpshot,Step Back Jump Shot,132,True,True,3,10.3,44,40,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,38,3
-2026-10-26,401918309402,Veronica Burton makes 10-foot driving floating jump shot,Driving Floating Jump Shot,144,True,True,3,1.7,46,40,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,34,4
-2026-10-26,401918309403,Rhyne Howard misses 49-foot three point jumper,Jump Shot,92,False,True,3,0.4,46,40,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,46,45
+2026-10-26,401918309384,Allisha Gray enters the game for Angel Reese,Substitution,584,False,False,3,1:28,41,38,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4433402.0,Angel Reese,,,-214748340,-214748365
+2026-10-26,401918309386,Cecilia Zandalasini makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,3,1:28,42,38,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-10-26,401918309387,Kiah Stokes blocks Isobel Borlase 's 7-foot pullup jump shot,Pullup Jump Shot,131,False,True,3,1:14,42,38,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,2590093.0,Kiah Stokes,,,29,6
+2026-10-26,401918309389,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,3,1:12,42,38,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,29,6
+2026-10-26,401918309390,Gabby Williams misses driving layup,Driving Layup Shot,110,False,True,3,1:02,42,38,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,30,3
+2026-10-26,401918309391,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,3,1:00,42,38,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,30,3
+2026-10-26,401918309392,Allisha Gray misses 26-foot three point jumper,Jump Shot,92,False,True,3,52.8,42,38,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,39,21
+2026-10-26,401918309393,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,3,51.1,42,38,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,39,21
+2026-10-26,401918309395,Kayla Thornton enters the game for Kiah Stokes,Substitution,584,False,False,3,31.5,42,38,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,2590093.0,Kiah Stokes,,,-214748340,-214748365
+2026-10-26,401918309396,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,3,31.5,42,38,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,5208983.0,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309399,Cecilia Zandalasini makes 15-foot turnaround jump shot (Veronica Burton assists),Turnaround Jump Shot,114,True,True,3,28.6,44,38,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,4398935.0,Veronica Burton,,,40,3
+2026-10-26,401918309401,Rhyne Howard makes 13-foot step back jumpshot,Step Back Jump Shot,132,True,True,3,10.3,44,40,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,38,3
+2026-10-26,401918309402,Veronica Burton makes 10-foot driving floating jump shot,Driving Floating Jump Shot,144,True,True,3,1.7,46,40,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,34,4
+2026-10-26,401918309403,Rhyne Howard misses 49-foot three point jumper,Jump Shot,92,False,True,3,0.4,46,40,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,46,45
 2026-10-26,401918309404,Dream offensive team rebound,Offensive Rebound,156,False,False,3,0.1,46,40,Golden State Valkyries,Atlanta Dream,,,,,,,4,39
 2026-10-26,401918309405,End of the 3rd Quarter,End Period,412,False,False,3,0.0,46,40,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309410,Jordin Canada makes driving layup,Driving Layup Shot,110,True,True,4,9:53,46,42,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,29,3
-2026-10-26,401918309411,Kaila Charles misses 9-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,4,9:30,46,42,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,21,8
-2026-10-26,401918309412,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,4,9:27,46,42,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,,,,,21,8
-2026-10-26,401918309413,Veronica Burton blocks Allisha Gray 's 6-foot driving layup,Driving Layup Shot,110,False,True,4,9:21,46,42,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4398935,Veronica Burton,,,23,6
-2026-10-26,401918309415,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,4,9:18,46,42,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,23,6
-2026-10-26,401918309416,Gabby Williams makes driving layup,Driving Layup Shot,110,True,True,4,9:08,48,42,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,19,3
-2026-10-26,401918309417,Naz Hillmon shooting foul,Shooting Foul,44,False,False,4,9:08,48,42,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,20,5
-2026-10-26,401918309419,Gabby Williams makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,4,9:08,49,42,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,-214748340,-214748365
-2026-10-26,401918309420,Jordin Canada misses two point shot,Layup Driving Reverse,126,False,True,4,8:47,49,42,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,30,4
-2026-10-26,401918309421,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,4,8:45,49,42,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,30,4
-2026-10-26,401918309422,Kayla Thornton misses 24-foot running jump shot,Running Jump Shot,113,False,True,4,8:39,49,42,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,,,,,44,15
-2026-10-26,401918309423,DeWanna Bonner defensive rebound,Defensive Rebound,155,False,False,4,8:37,49,42,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,,,,,44,15
-2026-10-26,401918309424,Rhyne Howard misses 15-foot pullup jump shot,Pullup Jump Shot,131,False,True,4,8:22,49,42,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,27,15
-2026-10-26,401918309425,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,27,15
-2026-10-26,401918309426,Angel Reese enters the game for DeWanna Bonner,Substitution,584,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,869,DeWanna Bonner,,,-214748340,-214748365
-2026-10-26,401918309428,Naz Hillmon vs. Kayla Thornton (Cecilia Zandalasini gains possession),Jumpball,615,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,2529622,Kayla Thornton,4398915,Naz Hillmon,4257500,Cecilia Zandalasini,-214748340,-214748365
-2026-10-26,401918309431,Naz Hillmon lost ball turnover (Kayla Thornton steals),Lost Ball Turnover,63,False,False,4,8:16,49,42,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,2529622,Kayla Thornton,,,-214748340,-214748365
-2026-10-26,401918309433,Kaila Charles misses 8-foot two point shot,Turnaround Bank Jump Shot,136,False,True,4,7:53,49,42,Golden State Valkyries,Atlanta Dream,4065780,Kaila Charles,,,,,30,7
-2026-10-26,401918309434,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,7:51,49,42,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,30,7
-2026-10-26,401918309435,Angel Reese offensive foul,Offensive Foul,42,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,29,4
-2026-10-26,401918309437,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,29,4
-2026-10-26,401918309438,Kiah Stokes enters the game for Kayla Thornton,Substitution,584,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,2529622,Kayla Thornton,,,-214748340,-214748365
-2026-10-26,401918309439,Tiffany Hayes enters the game for Kaila Charles,Substitution,584,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,4065780,Kaila Charles,,,-214748340,-214748365
-2026-10-26,401918309442,Kiah Stokes makes 23-foot three point jumper (Cecilia Zandalasini assists),Jump Shot,92,True,True,4,7:21,52,42,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,4257500,Cecilia Zandalasini,,,1,3
-2026-10-26,401918309444,Cecilia Zandalasini personal foul,Personal Foul,45,False,False,4,7:15,52,42,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,17,5
-2026-10-26,401918309446,Allisha Gray makes 12-foot turnaround jump shot (Angel Reese assists),Turnaround Jump Shot,114,True,True,4,7:08,52,44,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,4433402,Angel Reese,,,35,7
-2026-10-26,401918309448,Veronica Burton misses 12-foot floating jump shot,Floating Jump Shot,130,False,True,4,6:42,52,44,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,37,3
-2026-10-26,401918309449,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,4,6:39,52,44,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,37,3
-2026-10-26,401918309450,Veronica Burton makes 10-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,24,10
-2026-10-26,401918309451,Jordin Canada shooting foul,Shooting Foul,44,False,False,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,23,9
-2026-10-26,401918309453,Veronica Burton misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,-214748340,-214748365
-2026-10-26,401918309454,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,6:25,54,44,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,-214748340,-214748365
-2026-10-26,401918309455,Rhyne Howard misses 24-foot three point jumper,Jump Shot,92,False,True,4,6:11,54,44,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,3,10
-2026-10-26,401918309456,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,4,6:09,54,44,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,3,10
-2026-10-26,401918309457,Naz Hillmon personal foul,Personal Foul,45,False,False,4,5:50,54,44,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,39,18
+2026-10-26,401918309410,Jordin Canada makes driving layup,Driving Layup Shot,110,True,True,4,9:53,46,42,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,29,3
+2026-10-26,401918309411,Kaila Charles misses 9-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,4,9:30,46,42,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,21,8
+2026-10-26,401918309412,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,4,9:27,46,42,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,,,,,21,8
+2026-10-26,401918309413,Veronica Burton blocks Allisha Gray 's 6-foot driving layup,Driving Layup Shot,110,False,True,4,9:21,46,42,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4398935.0,Veronica Burton,,,23,6
+2026-10-26,401918309415,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,4,9:18,46,42,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,23,6
+2026-10-26,401918309416,Gabby Williams makes driving layup,Driving Layup Shot,110,True,True,4,9:08,48,42,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,19,3
+2026-10-26,401918309417,Naz Hillmon shooting foul,Shooting Foul,44,False,False,4,9:08,48,42,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,20,5
+2026-10-26,401918309419,Gabby Williams makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,4,9:08,49,42,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-10-26,401918309420,Jordin Canada misses two point shot,Layup Driving Reverse,126,False,True,4,8:47,49,42,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,30,4
+2026-10-26,401918309421,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,4,8:45,49,42,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,30,4
+2026-10-26,401918309422,Kayla Thornton misses 24-foot running jump shot,Running Jump Shot,113,False,True,4,8:39,49,42,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,,,,,44,15
+2026-10-26,401918309423,DeWanna Bonner defensive rebound,Defensive Rebound,155,False,False,4,8:37,49,42,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,,,,,44,15
+2026-10-26,401918309424,Rhyne Howard misses 15-foot pullup jump shot,Pullup Jump Shot,131,False,True,4,8:22,49,42,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,27,15
+2026-10-26,401918309425,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,27,15
+2026-10-26,401918309426,Angel Reese enters the game for DeWanna Bonner,Substitution,584,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,869.0,DeWanna Bonner,,,-214748340,-214748365
+2026-10-26,401918309428,Naz Hillmon vs. Kayla Thornton (Cecilia Zandalasini gains possession),Jumpball,615,False,False,4,8:18,49,42,Golden State Valkyries,Atlanta Dream,2529622.0,Kayla Thornton,4398915.0,Naz Hillmon,4257500.0,Cecilia Zandalasini,-214748340,-214748365
+2026-10-26,401918309431,Naz Hillmon lost ball turnover (Kayla Thornton steals),Lost Ball Turnover,63,False,False,4,8:16,49,42,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-10-26,401918309433,Kaila Charles misses 8-foot two point shot,Turnaround Bank Jump Shot,136,False,True,4,7:53,49,42,Golden State Valkyries,Atlanta Dream,4065780.0,Kaila Charles,,,,,30,7
+2026-10-26,401918309434,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,7:51,49,42,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,30,7
+2026-10-26,401918309435,Angel Reese offensive foul,Offensive Foul,42,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,29,4
+2026-10-26,401918309437,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,29,4
+2026-10-26,401918309438,Kiah Stokes enters the game for Kayla Thornton,Substitution,584,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,2529622.0,Kayla Thornton,,,-214748340,-214748365
+2026-10-26,401918309439,Tiffany Hayes enters the game for Kaila Charles,Substitution,584,False,False,4,7:43,49,42,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,4065780.0,Kaila Charles,,,-214748340,-214748365
+2026-10-26,401918309442,Kiah Stokes makes 23-foot three point jumper (Cecilia Zandalasini assists),Jump Shot,92,True,True,4,7:21,52,42,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,4257500.0,Cecilia Zandalasini,,,1,3
+2026-10-26,401918309444,Cecilia Zandalasini personal foul,Personal Foul,45,False,False,4,7:15,52,42,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,17,5
+2026-10-26,401918309446,Allisha Gray makes 12-foot turnaround jump shot (Angel Reese assists),Turnaround Jump Shot,114,True,True,4,7:08,52,44,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,4433402.0,Angel Reese,,,35,7
+2026-10-26,401918309448,Veronica Burton misses 12-foot floating jump shot,Floating Jump Shot,130,False,True,4,6:42,52,44,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,37,3
+2026-10-26,401918309449,Tiffany Hayes offensive rebound,Offensive Rebound,156,False,False,4,6:39,52,44,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,37,3
+2026-10-26,401918309450,Veronica Burton makes 10-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,24,10
+2026-10-26,401918309451,Jordin Canada shooting foul,Shooting Foul,44,False,False,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,23,9
+2026-10-26,401918309453,Veronica Burton misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,4,6:27,54,44,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,-214748340,-214748365
+2026-10-26,401918309454,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,6:25,54,44,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,-214748340,-214748365
+2026-10-26,401918309455,Rhyne Howard misses 24-foot three point jumper,Jump Shot,92,False,True,4,6:11,54,44,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,3,10
+2026-10-26,401918309456,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,4,6:09,54,44,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,3,10
+2026-10-26,401918309457,Naz Hillmon personal foul,Personal Foul,45,False,False,4,5:50,54,44,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,39,18
 2026-10-26,401918309459,Official timeout,Official Timeout,19,False,False,4,5:50,54,44,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309460,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,4,5:50,54,44,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,401918309462,Gabby Williams misses 9-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,4,5:39,54,44,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,23,9
-2026-10-26,401918309463,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,4,5:36,54,44,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,23,9
-2026-10-26,401918309464,Jordin Canada misses 10-foot two point shot,Hook Driving Bank,139,False,True,4,5:15,54,44,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,33,5
-2026-10-26,401918309465,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,4,5:14,54,44,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,33,5
+2026-10-26,401918309460,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,4,5:50,54,44,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,401918309462,Gabby Williams misses 9-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,4,5:39,54,44,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,23,9
+2026-10-26,401918309463,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,4,5:36,54,44,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,23,9
+2026-10-26,401918309464,Jordin Canada misses 10-foot two point shot,Hook Driving Bank,139,False,True,4,5:15,54,44,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,33,5
+2026-10-26,401918309465,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,4,5:14,54,44,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,33,5
 2026-10-26,401918309466,shot clock turnover ,Shot Clock Turnover,70,False,False,4,5:14,54,44,Golden State Valkyries,Atlanta Dream,,,,,,,19,3
-2026-10-26,401918309467,Cecilia Zandalasini makes 11-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,4,4:58,56,44,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,,,,,34,6
-2026-10-26,401918309468,Angel Reese offensive foul,Offensive Foul,42,False,False,4,4:49,56,44,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,29,9
-2026-10-26,401918309470,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,4,4:49,56,44,Golden State Valkyries,Atlanta Dream,4433402,Angel Reese,,,,,29,9
-2026-10-26,401918309471,Jordin Canada blocks Cecilia Zandalasini 's 6-foot driving layup,Driving Layup Shot,110,False,True,4,4:29,56,44,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,3142250,Jordin Canada,,,30,3
-2026-10-26,401918309473,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,4,4:27,56,44,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,30,3
-2026-10-26,401918309474,Isobel Borlase misses 7-foot pullup jump shot,Pullup Jump Shot,131,False,True,4,4:19,56,44,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,25,7
+2026-10-26,401918309467,Cecilia Zandalasini makes 11-foot turnaround jump shot,Turnaround Jump Shot,114,True,True,4,4:58,56,44,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,,,,,34,6
+2026-10-26,401918309468,Angel Reese offensive foul,Offensive Foul,42,False,False,4,4:49,56,44,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,29,9
+2026-10-26,401918309470,Angel Reese offensive foul turnover,Offensive Foul Turnover,84,False,False,4,4:49,56,44,Golden State Valkyries,Atlanta Dream,4433402.0,Angel Reese,,,,,29,9
+2026-10-26,401918309471,Jordin Canada blocks Cecilia Zandalasini 's 6-foot driving layup,Driving Layup Shot,110,False,True,4,4:29,56,44,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,3142250.0,Jordin Canada,,,30,3
+2026-10-26,401918309473,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,4,4:27,56,44,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,30,3
+2026-10-26,401918309474,Isobel Borlase misses 7-foot pullup jump shot,Pullup Jump Shot,131,False,True,4,4:19,56,44,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,25,7
 2026-10-26,401918309475,Dream offensive team rebound,Offensive Rebound,156,False,False,4,4:17,56,44,Golden State Valkyries,Atlanta Dream,,,,,,,25,7
-2026-10-26,401918309476,Tiffany Hayes loose ball foul,Loose Ball Foul,43,False,False,4,4:17,56,44,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,21,3
-2026-10-26,401918309479,Allisha Gray enters the game for Jordin Canada,Substitution,584,False,False,4,4:17,56,44,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,3142250,Jordin Canada,,,-214748340,-214748365
-2026-10-26,401918309481,Veronica Burton shooting foul,Shooting Foul,44,False,False,4,4:07,56,44,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,32,6
+2026-10-26,401918309476,Tiffany Hayes loose ball foul,Loose Ball Foul,43,False,False,4,4:17,56,44,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,21,3
+2026-10-26,401918309479,Allisha Gray enters the game for Jordin Canada,Substitution,584,False,False,4,4:17,56,44,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,3142250.0,Jordin Canada,,,-214748340,-214748365
+2026-10-26,401918309481,Veronica Burton shooting foul,Shooting Foul,44,False,False,4,4:07,56,44,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,32,6
 2026-10-26,401918309483,(04:07) [Golden State Valkyries] COACH'S CHALLENGE (CALL STANDS) [Golden State Valkyries] charged with a timeout,Coach's Challenge (Stands),216,False,False,4,4:07,56,44,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
 2026-10-26,401918309484,Golden State Valkyries Full timeout,Full Timeout,16,False,False,4,4:07,56,44,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309485,Isobel Borlase makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,4:07,56,45,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,-214748340,-214748365
-2026-10-26,401918309486,Isobel Borlase makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,4:07,56,46,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,-214748340,-214748365
-2026-10-26,401918309487,Tiffany Hayes makes two point shot (Cecilia Zandalasini assists),Layup Driving Reverse,126,True,True,4,3:50,58,46,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,4257500,Cecilia Zandalasini,,,22,3
+2026-10-26,401918309485,Isobel Borlase makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,4:07,56,45,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-26,401918309486,Isobel Borlase makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,4:07,56,46,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-26,401918309487,Tiffany Hayes makes two point shot (Cecilia Zandalasini assists),Layup Driving Reverse,126,True,True,4,3:50,58,46,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,4257500.0,Cecilia Zandalasini,,,22,3
 2026-10-26,401918309489,"Isobel Borlase bad pass
 turnover (Cecilia Zandalasini steals)","Bad Pass
-Turnover",62,False,False,4,3:34,58,46,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,4257500,Cecilia Zandalasini,,,27,4
-2026-10-26,401918309491,Gabby Williams misses 26-foot three point jumper,Jump Shot,92,False,True,4,3:15,58,46,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,7,20
-2026-10-26,401918309492,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,3:13,58,46,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,,,,,7,20
-2026-10-26,401918309493,Rhyne Howard misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,4,3:07,58,46,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,20,10
-2026-10-26,401918309494,Rhyne Howard offensive rebound,Offensive Rebound,156,False,False,4,3:05,58,46,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,20,10
-2026-10-26,401918309495,Allisha Gray lost ball turnover (Gabby Williams steals),Lost Ball Turnover,63,False,False,4,3:00,58,46,Golden State Valkyries,Atlanta Dream,3058901,Allisha Gray,3142328,Gabby Williams,,,16,16
-2026-10-26,401918309497,Veronica Burton lost ball turnover (Allisha Gray steals),Lost Ball Turnover,63,False,False,4,2:41,58,46,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,3058901,Allisha Gray,,,19,13
+Turnover",62,False,False,4,3:34,58,46,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,4257500.0,Cecilia Zandalasini,,,27,4
+2026-10-26,401918309491,Gabby Williams misses 26-foot three point jumper,Jump Shot,92,False,True,4,3:15,58,46,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,7,20
+2026-10-26,401918309492,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,4,3:13,58,46,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,,,,,7,20
+2026-10-26,401918309493,Rhyne Howard misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,4,3:07,58,46,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,20,10
+2026-10-26,401918309494,Rhyne Howard offensive rebound,Offensive Rebound,156,False,False,4,3:05,58,46,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,20,10
+2026-10-26,401918309495,Allisha Gray lost ball turnover (Gabby Williams steals),Lost Ball Turnover,63,False,False,4,3:00,58,46,Golden State Valkyries,Atlanta Dream,3058901.0,Allisha Gray,3142328.0,Gabby Williams,,,16,16
+2026-10-26,401918309497,Veronica Burton lost ball turnover (Allisha Gray steals),Lost Ball Turnover,63,False,False,4,2:41,58,46,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,3058901.0,Allisha Gray,,,19,13
 2026-10-26,401918309499,"Naz Hillmon bad pass
 turnover (Tiffany Hayes steals)","Bad Pass
-Turnover",62,False,False,4,2:36,58,46,Golden State Valkyries,Atlanta Dream,4398915,Naz Hillmon,1054,Tiffany Hayes,,,18,21
-2026-10-26,401918309501,Isobel Borlase shooting foul,Shooting Foul,44,False,False,4,2:17,58,46,Golden State Valkyries,Atlanta Dream,5208983,Isobel Borlase,,,,,29,11
-2026-10-26,401918309503,Tiffany Hayes makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,-214748340,-214748365
-2026-10-26,401918309504,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,5208983,Isobel Borlase,,,-214748340,-214748365
-2026-10-26,401918309505,DeWanna Bonner enters the game for Allisha Gray,Substitution,584,False,False,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,869,DeWanna Bonner,3058901,Allisha Gray,,,-214748340,-214748365
-2026-10-26,401918309508,Tiffany Hayes makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,2:17,60,46,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,-214748340,-214748365
-2026-10-26,401918309509,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,4,2:07,60,46,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,28,24
-2026-10-26,401918309510,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,4,2:05,60,46,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,28,24
-2026-10-26,401918309511,Jordin Canada shooting foul,Shooting Foul,44,False,False,4,1:46,60,46,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,21,4
-2026-10-26,401918309513,Tiffany Hayes makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,1:46,61,46,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,-214748340,-214748365
-2026-10-26,401918309514,Te-Hina Paopao enters the game for Naz Hillmon,Substitution,584,False,False,4,1:46,61,46,Golden State Valkyries,Atlanta Dream,4433431,Te-Hina Paopao,4398915,Naz Hillmon,,,-214748340,-214748365
-2026-10-26,401918309516,Tiffany Hayes makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,1:46,62,46,Golden State Valkyries,Atlanta Dream,1054,Tiffany Hayes,,,,,-214748340,-214748365
-2026-10-26,401918309517,Jordin Canada makes 25-foot three pointer (Angel Reese assists),Pullup Jump Shot,131,True,True,4,1:30,62,49,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,4433402,Angel Reese,,,35,23
-2026-10-26,401918309519,Veronica Burton misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,4,1:11,62,49,Golden State Valkyries,Atlanta Dream,4398935,Veronica Burton,,,,,24,8
-2026-10-26,401918309520,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,4,1:09,62,49,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,24,8
-2026-10-26,401918309521,Rhyne Howard makes 25-foot three pointer,Pullup Jump Shot,131,True,True,4,1:04,62,52,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,17,24
+Turnover",62,False,False,4,2:36,58,46,Golden State Valkyries,Atlanta Dream,4398915.0,Naz Hillmon,1054.0,Tiffany Hayes,,,18,21
+2026-10-26,401918309501,Isobel Borlase shooting foul,Shooting Foul,44,False,False,4,2:17,58,46,Golden State Valkyries,Atlanta Dream,5208983.0,Isobel Borlase,,,,,29,11
+2026-10-26,401918309503,Tiffany Hayes makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-26,401918309504,Jordin Canada enters the game for Isobel Borlase,Substitution,584,False,False,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,5208983.0,Isobel Borlase,,,-214748340,-214748365
+2026-10-26,401918309505,DeWanna Bonner enters the game for Allisha Gray,Substitution,584,False,False,4,2:17,59,46,Golden State Valkyries,Atlanta Dream,869.0,DeWanna Bonner,3058901.0,Allisha Gray,,,-214748340,-214748365
+2026-10-26,401918309508,Tiffany Hayes makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,2:17,60,46,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-26,401918309509,Jordin Canada misses 24-foot three point jumper,Jump Shot,92,False,True,4,2:07,60,46,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,28,24
+2026-10-26,401918309510,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,4,2:05,60,46,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,28,24
+2026-10-26,401918309511,Jordin Canada shooting foul,Shooting Foul,44,False,False,4,1:46,60,46,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,21,4
+2026-10-26,401918309513,Tiffany Hayes makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,1:46,61,46,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-26,401918309514,Te-Hina Paopao enters the game for Naz Hillmon,Substitution,584,False,False,4,1:46,61,46,Golden State Valkyries,Atlanta Dream,4433431.0,Te-Hina Paopao,4398915.0,Naz Hillmon,,,-214748340,-214748365
+2026-10-26,401918309516,Tiffany Hayes makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,1:46,62,46,Golden State Valkyries,Atlanta Dream,1054.0,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-26,401918309517,Jordin Canada makes 25-foot three pointer (Angel Reese assists),Pullup Jump Shot,131,True,True,4,1:30,62,49,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,4433402.0,Angel Reese,,,35,23
+2026-10-26,401918309519,Veronica Burton misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,4,1:11,62,49,Golden State Valkyries,Atlanta Dream,4398935.0,Veronica Burton,,,,,24,8
+2026-10-26,401918309520,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,4,1:09,62,49,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,24,8
+2026-10-26,401918309521,Rhyne Howard makes 25-foot three pointer,Pullup Jump Shot,131,True,True,4,1:04,62,52,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,17,24
 2026-10-26,401918309522,Golden State Valkyries Full timeout,Full Timeout,16,False,False,4,56.8,62,52,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
 2026-10-26,401918309523,Golden State Valkyries Reset Timeout,Reset Timeout,283,False,False,4,56.8,62,52,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309524,Rhyne Howard personal foul,Personal Foul,45,False,False,4,49.9,62,52,Golden State Valkyries,Atlanta Dream,4398674,Rhyne Howard,,,,,44,19
-2026-10-26,401918309526,Gabby Williams makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,49.9,63,52,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,-214748340,-214748365
-2026-10-26,401918309527,Gabby Williams makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,49.9,64,52,Golden State Valkyries,Atlanta Dream,3142328,Gabby Williams,,,,,-214748340,-214748365
+2026-10-26,401918309524,Rhyne Howard personal foul,Personal Foul,45,False,False,4,49.9,62,52,Golden State Valkyries,Atlanta Dream,4398674.0,Rhyne Howard,,,,,44,19
+2026-10-26,401918309526,Gabby Williams makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,4,49.9,63,52,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,-214748340,-214748365
+2026-10-26,401918309527,Gabby Williams makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,4,49.9,64,52,Golden State Valkyries,Atlanta Dream,3142328.0,Gabby Williams,,,,,-214748340,-214748365
 2026-10-26,401918309528,Dream Full timeout,Full Timeout,16,False,False,4,49.9,64,52,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
-2026-10-26,401918309529,Jordin Canada misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,4,45.0,64,52,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,,,,,33,24
-2026-10-26,401918309530,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,4,42.6,64,52,Golden State Valkyries,Atlanta Dream,2590093,Kiah Stokes,,,,,33,24
-2026-10-26,401918309531,Cecilia Zandalasini lost ball turnover (Jordin Canada steals),Lost Ball Turnover,63,False,False,4,26.4,64,52,Golden State Valkyries,Atlanta Dream,4257500,Cecilia Zandalasini,3142250,Jordin Canada,,,7,20
-2026-10-26,401918309533,Jordin Canada makes 25-foot three point jumper (Rhyne Howard assists),Jump Shot,92,True,True,4,16.1,64,55,Golden State Valkyries,Atlanta Dream,3142250,Jordin Canada,4398674,Rhyne Howard,,,45,15
+2026-10-26,401918309529,Jordin Canada misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,4,45.0,64,52,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,,,,,33,24
+2026-10-26,401918309530,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,4,42.6,64,52,Golden State Valkyries,Atlanta Dream,2590093.0,Kiah Stokes,,,,,33,24
+2026-10-26,401918309531,Cecilia Zandalasini lost ball turnover (Jordin Canada steals),Lost Ball Turnover,63,False,False,4,26.4,64,52,Golden State Valkyries,Atlanta Dream,4257500.0,Cecilia Zandalasini,3142250.0,Jordin Canada,,,7,20
+2026-10-26,401918309533,Jordin Canada makes 25-foot three point jumper (Rhyne Howard assists),Jump Shot,92,True,True,4,16.1,64,55,Golden State Valkyries,Atlanta Dream,3142250.0,Jordin Canada,4398674.0,Rhyne Howard,,,45,15
 2026-10-26,401918309535,End of the 4th Quarter,End Period,412,False,False,4,0.0,64,55,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
 2026-10-26,401918309536,End of Game,End Game,402,False,False,4,0.0,64,55,Golden State Valkyries,Atlanta Dream,,,,,,,-214748340,-214748365
+2026-10-29,4019183104,Kiah Stokes vs. Angel Reese (Naz Hillmon gains possession),Jumpball,615,False,False,1,10:00,0,0,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,2590093,Kiah Stokes,4398915,Naz Hillmon,-214748340,-214748365
+2026-10-29,4019183107,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,1,9:42,0,0,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,23,8
+2026-10-29,4019183108,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,1,9:40,0,0,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,23,8
+2026-10-29,4019183109,Veronica Burton makes 17-foot step back jumpshot,Step Back Jump Shot,132,True,True,1,9:19,0,2,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,39,10
+2026-10-29,40191831010,Allisha Gray makes 23-foot three point jumper (Angel Reese assists),Jump Shot,92,True,True,1,9:04,3,2,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,4433402,Angel Reese,,,47,9
+2026-10-29,40191831012,Angel Reese personal foul,Personal Foul,45,False,False,1,8:45,3,2,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,30,12
+2026-10-29,40191831014,Rhyne Howard blocks Gabby Williams 's 10-foot driving floating jump shot,Driving Floating Jump Shot,144,False,True,1,8:32,3,2,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,4398674,Rhyne Howard,,,28,10
+2026-10-29,40191831016,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,1,8:30,3,2,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,28,10
+2026-10-29,40191831017,Naz Hillmon makes 24-foot three point jumper (Angel Reese assists),Jump Shot,92,True,True,1,8:20,6,2,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,4433402,Angel Reese,,,34,23
+2026-10-29,40191831019,Tiffany Hayes makes 6-foot driving floating jump shot (Gabby Williams assists),Driving Floating Jump Shot,144,True,True,1,7:56,6,4,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,3142328,Gabby Williams,,,24,6
+2026-10-29,40191831021,Angel Reese misses 24-foot three point jumper,Jump Shot,92,False,True,1,7:47,6,4,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,10,19
+2026-10-29,40191831022,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,1,7:45,6,4,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,10,19
+2026-10-29,40191831023,"Naz Hillmon defensive 3-seconds (technical foul)
+",Defensive 3-Seconds Technical,29,False,False,1,7:31,6,4,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,-214748340,-214748365
+2026-10-29,40191831024,Gabby Williams makes technical free throw,Free Throw - Technical,103,True,True,1,7:31,6,5,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,-214748340,-214748365
+2026-10-29,40191831025,Kaila Charles misses driving layup,Driving Layup Shot,110,False,True,1,7:21,6,5,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,28,3
+2026-10-29,40191831026,Kiah Stokes offensive rebound,Offensive Rebound,156,False,False,1,7:20,6,5,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,28,3
+2026-10-29,40191831027,Kiah Stokes misses tip shot,Tip Shot,94,False,True,1,7:20,6,5,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,25,0
+2026-10-29,40191831028,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,1,7:18,6,5,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,25,0
+2026-10-29,40191831029,Allisha Gray makes 8-foot driving floating jump shot (Naz Hillmon assists),Driving Floating Jump Shot,144,True,True,1,7:06,8,5,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,4398915,Naz Hillmon,,,23,8
+2026-10-29,40191831031,Gabby Williams misses two point shot,Driving Floating Bank Jump Shot,145,False,True,1,6:43,8,5,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,20,9
+2026-10-29,40191831032,Kiah Stokes offensive rebound,Offensive Rebound,156,False,False,1,6:41,8,5,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,20,9
+2026-10-29,40191831033,Kiah Stokes out of bounds lost ball turnover,Out of Bounds - Lost Ball Turnover,87,False,False,1,6:41,8,5,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,25,2
+2026-10-29,40191831034,Golden State Valkyries Full timeout,Full Timeout,16,False,False,1,6:41,8,5,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,40191831035,"Naz Hillmon bad pass
+turnover (Kiah Stokes steals)","Bad Pass
+Turnover",62,False,False,1,6:29,8,5,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,2590093,Kiah Stokes,,,34,11
+2026-10-29,40191831037,Veronica Burton misses driving layup,Driving Layup Shot,110,False,True,1,6:08,8,5,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,28,3
+2026-10-29,40191831038,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,1,6:06,8,5,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,28,3
+2026-10-29,40191831039,Angel Reese lost ball turnover (Gabby Williams steals),Lost Ball Turnover,63,False,False,1,6:03,8,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,3142328,Gabby Williams,,,29,14
+2026-10-29,40191831041,Veronica Burton misses running layup,Running Layup Shot,109,False,True,1,5:58,8,5,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,26,2
+2026-10-29,40191831042,Naz Hillmon defensive rebound,Defensive Rebound,155,False,False,1,5:57,8,5,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,26,2
+2026-10-29,40191831043,Tiffany Hayes personal foul,Personal Foul,45,False,False,1,5:50,8,5,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,14,18
+2026-10-29,40191831045,Angel Reese makes driving layup (Allisha Gray assists),Driving Layup Shot,110,True,True,1,5:41,10,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,3058901,Allisha Gray,,,25,2
+2026-10-29,40191831047,Kiah Stokes shooting foul,Shooting Foul,44,False,False,1,5:41,10,5,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,25,2
+2026-10-29,40191831049,Angel Reese makes free throw 1 of 1,Free Throw - 1 of 1,97,True,True,1,5:41,11,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,-214748340,-214748365
+2026-10-29,40191831050,Allisha Gray blocks Veronica Burton 's 11-foot driving floating jump shot,Driving Floating Jump Shot,144,False,True,1,5:21,11,5,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,3058901,Allisha Gray,,,22,11
+2026-10-29,40191831052,Veronica Burton offensive rebound,Offensive Rebound,156,False,False,1,5:20,11,5,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,22,11
+2026-10-29,40191831053,Veronica Burton misses 7-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,5:16,11,5,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,27,6
+2026-10-29,40191831054,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,1,5:16,11,5,Atlanta Dream,Golden State Valkyries,,,,,,,27,6
+2026-10-29,40191831055,shot clock turnover ,Shot Clock Turnover,70,False,False,1,5:16,11,5,Atlanta Dream,Golden State Valkyries,,,,,,,26,1
+2026-10-29,40191831056,Angel Reese misses 24-foot three point jumper,Jump Shot,92,False,True,1,5:05,11,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,7,17
+2026-10-29,40191831057,Dream offensive team rebound,Offensive Rebound,156,False,False,1,5:04,11,5,Atlanta Dream,Golden State Valkyries,,,,,,,7,17
+2026-10-29,40191831058,Kaila Charles loose ball foul,Loose Ball Foul,43,False,False,1,5:04,11,5,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,26,3
+2026-10-29,40191831060,Jordin Canada makes 24-foot three point jumper (Allisha Gray assists),Jump Shot,92,True,True,1,4:58,14,5,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,3058901,Allisha Gray,,,8,17
+2026-10-29,40191831062,Kaila Charles lost ball turnover (Naz Hillmon steals),Lost Ball Turnover,63,False,False,1,4:38,14,5,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,4398915,Naz Hillmon,,,35,31
+2026-10-29,40191831063,Kaila Charles loose ball foul,Loose Ball Foul,43,False,False,1,4:38,14,5,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,39,35
+2026-10-29,40191831065,Kayla Thornton enters the game for Kaila Charles,Substitution,584,False,False,1,4:38,14,5,Atlanta Dream,Golden State Valkyries,2529622,Kayla Thornton,4065780,Kaila Charles,,,-214748340,-214748365
+2026-10-29,40191831067,Angel Reese misses driving layup,Driving Layup Shot,110,False,True,1,4:29,14,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,24,4
+2026-10-29,40191831068,Angel Reese offensive rebound,Offensive Rebound,156,False,False,1,4:28,14,5,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,24,4
+2026-10-29,40191831069,Allisha Gray makes 23-foot three point jumper (Angel Reese assists),Jump Shot,92,True,True,1,4:24,17,5,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,4433402,Angel Reese,,,48,5
+2026-10-29,40191831071,"Tiffany Hayes bad pass
+turnover (Jordin Canada steals)","Bad Pass
+Turnover",62,False,False,1,4:13,17,5,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,3142250,Jordin Canada,,,28,38
+2026-10-29,40191831073,Jordin Canada makes running layup,Running Layup Shot,109,True,True,1,4:10,19,5,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,24,2
+2026-10-29,40191831074,Gabby Williams makes 23-foot three point jumper (Veronica Burton assists),Jump Shot,92,True,True,1,3:49,19,8,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,4398935,Veronica Burton,,,2,2
+2026-10-29,40191831076,Rhyne Howard makes 24-foot three pointer,Pullup Jump Shot,131,True,True,1,3:31,22,8,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,37,21
+2026-10-29,40191831077,Tiffany Hayes misses 23-foot three point jumper,Jump Shot,92,False,True,1,3:14,22,8,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,48,4
+2026-10-29,40191831078,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,3:13,22,8,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,48,4
+2026-10-29,40191831079,Isobel Borlase enters the game for Allisha Gray,Substitution,584,False,False,1,2:55,22,8,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,3058901,Allisha Gray,,,-214748340,-214748365
+2026-10-29,40191831080,Cecilia Zandalasini enters the game for Tiffany Hayes,Substitution,584,False,False,1,2:55,22,8,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,1054,Tiffany Hayes,,,-214748340,-214748365
+2026-10-29,40191831083,Kiah Stokes vs. Naz Hillmon (Jordin Canada gains possession),Jumpball,615,False,False,1,2:51,22,8,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,2590093,Kiah Stokes,3142250,Jordin Canada,-214748340,-214748365
+2026-10-29,40191831086,Rhyne Howard makes 25-foot three point jumper (Jordin Canada assists),Jump Shot,92,True,True,1,2:47,25,8,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,3142250,Jordin Canada,,,14,22
+2026-10-29,40191831088,Cecilia Zandalasini makes 6-foot two point shot,Driving Floating Bank Jump Shot,145,True,True,1,2:23,25,10,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,22,6
+2026-10-29,40191831090,Naz Hillmon makes 20-foot jumper (Isobel Borlase assists),Jump Shot,92,True,True,1,2:01,27,10,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,5208983,Isobel Borlase,,,39,14
+2026-10-29,40191831092,Kayla Thornton misses 24-foot three point jumper,Jump Shot,92,False,True,1,1:41,27,10,Atlanta Dream,Golden State Valkyries,2529622,Kayla Thornton,,,,,22,24
+2026-10-29,40191831093,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,1:40,27,10,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,22,24
+2026-10-29,40191831094,Cecilia Zandalasini shooting foul,Shooting Foul,44,False,False,1,1:31,27,10,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,25,3
+2026-10-29,40191831096,Isobel Borlase makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,1:31,28,10,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-29,40191831097,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,1,1:31,28,10,Atlanta Dream,Golden State Valkyries,869,DeWanna Bonner,4398915,Naz Hillmon,,,-214748340,-214748365
+2026-10-29,40191831098,Allisha Gray enters the game for Rhyne Howard,Substitution,584,False,False,1,1:31,28,10,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,4398674,Rhyne Howard,,,-214748340,-214748365
+2026-10-29,40191831099,Laeticia Amihere enters the game for Kiah Stokes,Substitution,584,False,False,1,1:31,28,10,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,2590093,Kiah Stokes,,,-214748340,-214748365
+2026-10-29,401918310103,Isobel Borlase makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,1:31,29,10,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,,,,,-214748340,-214748365
+2026-10-29,401918310104,Gabby Williams misses 11-foot pullup jump shot,Pullup Jump Shot,131,False,True,1,1:16,29,10,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,22,11
+2026-10-29,401918310105,Angel Reese defensive rebound,Defensive Rebound,155,False,False,1,1:15,29,10,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,22,11
+2026-10-29,401918310106,Jordin Canada makes 4-foot two point shot (Angel Reese assists),Driving Finger Roll Layup,128,True,True,1,1:05,31,10,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,4433402,Angel Reese,,,25,4
+2026-10-29,401918310108,Cecilia Zandalasini makes 24-foot three pointer,Pullup Jump Shot,131,True,True,1,39.7,31,13,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,17,23
+2026-10-29,401918310110,Laeticia Amihere shooting foul,Shooting Foul,44,False,False,1,33.9,31,13,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,26,6
+2026-10-29,401918310113,Angel Reese misses free throw 1 of 2,Free Throw - 1 of 2,98,False,True,1,33.9,31,13,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,-214748340,-214748365
+2026-10-29,401918310114,Dream offensive team rebound,Offensive Rebound,156,False,False,1,33.9,31,13,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310115,Rhyne Howard enters the game for Jordin Canada,Substitution,584,False,False,1,33.9,31,13,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,3142250,Jordin Canada,,,-214748340,-214748365
+2026-10-29,401918310117,Angel Reese makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,33.9,32,13,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,-214748340,-214748365
+2026-10-29,401918310118,Allisha Gray shooting foul,Shooting Foul,44,False,False,1,19.5,32,13,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,29,6
+2026-10-29,401918310120,Cecilia Zandalasini makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,1,19.5,32,14,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-10-29,401918310121,Cecilia Zandalasini makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,1,19.5,32,15,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,-214748340,-214748365
+2026-10-29,401918310122,Angel Reese traveling turnover,Traveling,64,False,False,1,3.5,32,15,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,24,9
+2026-10-29,401918310123,Naz Hillmon enters the game for Angel Reese,Substitution,584,False,False,1,3.5,32,15,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,4433402,Angel Reese,,,-214748340,-214748365
+2026-10-29,401918310125,Veronica Burton misses 31-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,1,0.5,32,15,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,35,29
+2026-10-29,401918310126,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,1,0.1,32,15,Atlanta Dream,Golden State Valkyries,,,,,,,35,29
+2026-10-29,401918310127,End of the 1st Quarter,End Period,412,False,False,1,0.0,32,15,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310129,Cecilia Zandalasini misses 12-foot turnaround jump shot,Turnaround Jump Shot,114,False,True,2,9:44,32,15,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,13,3
+2026-10-29,401918310130,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,2,9:43,32,15,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,13,3
+2026-10-29,401918310131,DeWanna Bonner misses 25-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,2,9:18,32,15,Atlanta Dream,Golden State Valkyries,869,DeWanna Bonner,,,,,14,22
+2026-10-29,401918310132,Kayla Thornton defensive rebound,Defensive Rebound,155,False,False,2,9:16,32,15,Atlanta Dream,Golden State Valkyries,2529622,Kayla Thornton,,,,,14,22
+2026-10-29,401918310133,Allisha Gray personal foul,Personal Foul,45,False,False,2,9:00,32,15,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,33,13
+2026-10-29,401918310135,Gabby Williams misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,2,8:46,32,15,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,14,22
+2026-10-29,401918310136,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,2,8:45,32,15,Atlanta Dream,Golden State Valkyries,,,,,,,14,22
+2026-10-29,401918310137,Naz Hillmon loose ball foul,Loose Ball Foul,43,False,False,2,8:45,32,15,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,25,1
+2026-10-29,401918310139,Naz Hillmon personal foul,Personal Foul,45,False,False,2,8:36,32,15,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,29,20
+2026-10-29,401918310141,Jordin Canada enters the game for Allisha Gray,Substitution,584,False,False,2,8:36,32,15,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,3058901,Allisha Gray,,,-214748340,-214748365
+2026-10-29,401918310143,Veronica Burton misses 13-foot two point shot,Pullup Bank Jump Shot,133,False,True,2,8:26,32,15,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,34,10
+2026-10-29,401918310144,Golden State Valkyries offensive team rebound,Offensive Rebound,156,False,False,2,8:25,32,15,Atlanta Dream,Golden State Valkyries,,,,,,,34,10
+2026-10-29,401918310146,Cecilia Zandalasini misses layup,Layup Shot,95,False,True,2,8:23,32,15,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,25,2
+2026-10-29,401918310147,Cecilia Zandalasini offensive rebound,Offensive Rebound,156,False,False,2,8:22,32,15,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,25,2
+2026-10-29,401918310148,Cecilia Zandalasini misses tip shot,Tip Shot,94,False,True,2,8:21,32,15,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,25,0
+2026-10-29,401918310149,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,2,8:20,32,15,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,25,0
+2026-10-29,401918310150,Rhyne Howard makes 25-foot three point jumper (Naz Hillmon assists),Jump Shot,92,True,True,2,8:12,35,15,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,4398915,Naz Hillmon,,,42,19
+2026-10-29,401918310152,Gabby Williams misses driving layup,Driving Layup Shot,110,False,True,2,7:50,35,15,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,29,2
+2026-10-29,401918310153,Rhyne Howard defensive rebound,Defensive Rebound,155,False,False,2,7:49,35,15,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,29,2
+2026-10-29,401918310154,Rhyne Howard misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,2,7:41,35,15,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,8,18
+2026-10-29,401918310155,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,False,2,7:40,35,15,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,8,18
+2026-10-29,401918310156,Rhyne Howard personal foul,Personal Foul,45,False,False,2,7:32,35,15,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,29,11
+2026-10-29,401918310158,Angel Reese enters the game for Isobel Borlase,Substitution,584,False,False,2,7:32,35,15,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,5208983,Isobel Borlase,,,-214748340,-214748365
+2026-10-29,401918310159,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,2,7:32,35,15,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,869,DeWanna Bonner,,,-214748340,-214748365
+2026-10-29,401918310160,Tiffany Hayes enters the game for Gabby Williams,Substitution,584,False,False,2,7:32,35,15,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,3142328,Gabby Williams,,,-214748340,-214748365
+2026-10-29,401918310164,Tiffany Hayes makes 17-foot pullup jump shot,Pullup Jump Shot,131,True,True,2,7:19,35,17,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,24,17
+2026-10-29,401918310166,Tiffany Hayes personal foul,Personal Foul,45,False,False,2,7:11,35,17,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,14,14
+2026-10-29,401918310168,Naz Hillmon makes 2-foot layup (Angel Reese assists),Cutting Layup Shot,141,True,True,2,7:02,37,17,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,4433402,Angel Reese,,,25,2
+2026-10-29,401918310170,Cecilia Zandalasini misses 24-foot three point jumper,Jump Shot,92,False,True,2,6:43,37,17,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,,,,,40,19
+2026-10-29,401918310171,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,6:42,37,17,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,40,19
+2026-10-29,401918310172,Jordin Canada misses 5-foot two point shot,Driving Hook Shot,119,False,True,2,6:21,37,17,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,24,5
+2026-10-29,401918310173,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,False,2,6:20,37,17,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,24,5
+2026-10-29,401918310175,Gabby Williams enters the game for Kayla Thornton,Substitution,584,False,False,2,6:08,37,17,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,2529622,Kayla Thornton,,,-214748340,-214748365
+2026-10-29,401918310177,Gabby Williams misses 13-foot pullup jump shot,Pullup Jump Shot,131,False,True,2,6:00,37,17,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,30,13
+2026-10-29,401918310178,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,2,5:58,37,17,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,30,13
+2026-10-29,401918310179,Allisha Gray makes running layup,Running Layup Shot,109,True,True,2,5:52,39,17,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,24,2
+2026-10-29,401918310180,Golden State Valkyries Full timeout,Full Timeout,16,False,False,2,5:52,39,17,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310181,Kiah Stokes enters the game for Laeticia Amihere,Substitution,584,False,False,2,5:52,39,17,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,4432834,Laeticia Amihere,,,-214748340,-214748365
+2026-10-29,401918310182,Kaila Charles enters the game for Cecilia Zandalasini,Substitution,584,False,False,2,5:52,39,17,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,4257500,Cecilia Zandalasini,,,-214748340,-214748365
+2026-10-29,401918310185,Naz Hillmon personal foul,Personal Foul,45,False,False,2,5:37,39,17,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,25,5
+2026-10-29,401918310187,Tiffany Hayes makes free throw 1 of 2,Free Throw - 1 of 2,98,True,True,2,5:37,39,18,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-29,401918310188,DeWanna Bonner enters the game for Naz Hillmon,Substitution,584,False,False,2,5:37,39,18,Atlanta Dream,Golden State Valkyries,869,DeWanna Bonner,4398915,Naz Hillmon,,,-214748340,-214748365
+2026-10-29,401918310190,Tiffany Hayes makes free throw 2 of 2,Free Throw - 2 of 2,99,True,True,2,5:37,39,19,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-29,401918310191,Allisha Gray misses driving layup,Driving Layup Shot,110,False,True,2,5:15,39,19,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,23,2
+2026-10-29,401918310192,Tiffany Hayes defensive rebound,Defensive Rebound,155,False,False,2,5:14,39,19,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,23,2
+2026-10-29,401918310193,Gabby Williams misses driving layup,Driving Layup Shot,110,False,True,2,4:52,39,19,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,24,1
+2026-10-29,401918310194,Dream defensive team rebound,Defensive Rebound,155,False,False,2,4:51,39,19,Atlanta Dream,Golden State Valkyries,,,,,,,24,1
+2026-10-29,401918310196,Angel Reese makes 22-foot three point jumper (Rhyne Howard assists),Jump Shot,92,True,True,2,4:40,42,19,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,4398674,Rhyne Howard,,,47,0
+2026-10-29,401918310198,Tiffany Hayes offensive foul,Offensive Foul,42,False,False,2,4:30,42,19,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,30,23
+2026-10-29,401918310200,Tiffany Hayes offensive foul turnover,Offensive Foul Turnover,84,False,False,2,4:30,42,19,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,30,23
+2026-10-29,401918310201,Isobel Borlase enters the game for Jordin Canada,Substitution,584,False,False,2,4:30,42,19,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,3142250,Jordin Canada,,,-214748340,-214748365
+2026-10-29,401918310202,Kaitlyn Chen enters the game for Veronica Burton,Substitution,584,False,False,2,4:30,42,19,Atlanta Dream,Golden State Valkyries,4899328,Kaitlyn Chen,4398935,Veronica Burton,,,-214748340,-214748365
+2026-10-29,401918310205,Rhyne Howard makes 8-foot pullup jump shot,Pullup Jump Shot,131,True,True,2,4:21,44,19,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,27,8
+2026-10-29,401918310206,Tiffany Hayes makes 2-foot layup (Kaila Charles assists),Cutting Layup Shot,141,True,True,2,4:05,44,21,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,4065780,Kaila Charles,,,26,2
+2026-10-29,401918310208,Rhyne Howard misses 16-foot pullup jump shot,Pullup Jump Shot,131,False,True,2,3:45,44,21,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,22,16
+2026-10-29,401918310209,Angel Reese offensive rebound,Offensive Rebound,156,False,False,2,3:43,44,21,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,22,16
+2026-10-29,401918310210,Rhyne Howard misses 35-foot three point pullup jump shot,Pullup Jump Shot,131,False,True,2,3:31,44,21,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,43,30
+2026-10-29,401918310211,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,3:29,44,21,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,43,30
+2026-10-29,401918310212,Kaila Charles misses running layup,Running Layup Shot,109,False,True,2,3:24,44,21,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,24,1
+2026-10-29,401918310213,Isobel Borlase defensive rebound,Defensive Rebound,155,False,False,2,3:23,44,21,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,,,,,24,1
+2026-10-29,401918310214,Isobel Borlase makes 10-foot pullup jump shot,Pullup Jump Shot,131,True,True,2,3:15,46,21,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,,,,,25,10
+2026-10-29,401918310215,Kaitlyn Chen misses driving layup,Driving Layup Shot,110,False,True,2,2:51,46,21,Atlanta Dream,Golden State Valkyries,4899328,Kaitlyn Chen,,,,,27,3
+2026-10-29,401918310216,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,2:49,46,21,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,27,3
+2026-10-29,401918310217,Gabby Williams blocks Isobel Borlase 's 2-foot running layup,Running Layup Shot,109,False,True,2,2:44,46,21,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,3142328,Gabby Williams,,,25,2
+2026-10-29,401918310219,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,2,2:43,46,21,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,25,2
+2026-10-29,401918310220,Gabby Williams misses 25-foot three point jumper,Jump Shot,92,False,True,2,2:35,46,21,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,35,23
+2026-10-29,401918310221,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,2,2:34,46,21,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,35,23
+2026-10-29,401918310222,Dream Full timeout,Full Timeout,16,False,False,2,2:31,46,21,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310224,Laeticia Amihere enters the game for Kiah Stokes,Substitution,584,False,False,2,2:31,46,21,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,2590093,Kiah Stokes,,,-214748340,-214748365
+2026-10-29,401918310230,Jordin Canada enters the game for Allisha Gray,Substitution,584,False,False,2,2:31,46,21,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,3058901,Allisha Gray,,,-214748340,-214748365
+2026-10-29,401918310227,Angel Reese misses 24-foot three point jumper,Jump Shot,92,False,True,2,2:11,46,21,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,40,19
+2026-10-29,401918310228,Golden State Valkyries defensive team rebound,Defensive Rebound,155,False,False,2,2:10,46,21,Atlanta Dream,Golden State Valkyries,,,,,,,40,19
+2026-10-29,401918310231,Isobel Borlase blocks Kaitlyn Chen 's 11-foot driving floating jump shot,Driving Floating Jump Shot,144,False,True,2,1:56,46,21,Atlanta Dream,Golden State Valkyries,4899328,Kaitlyn Chen,5208983,Isobel Borlase,,,17,9
+2026-10-29,401918310233,Angel Reese defensive rebound,Defensive Rebound,155,False,False,2,1:55,46,21,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,17,9
+2026-10-29,401918310234,Angel Reese misses driving layup,Driving Layup Shot,110,False,True,2,1:46,46,21,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,25,2
+2026-10-29,401918310235,Kaila Charles defensive rebound,Defensive Rebound,155,False,False,2,1:44,46,21,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,,,,,25,2
+2026-10-29,401918310236,Tiffany Hayes makes 24-foot three pointer (Kaila Charles assists),Pullup Jump Shot,131,True,True,2,1:35,46,24,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,4065780,Kaila Charles,,,4,11
+2026-10-29,401918310238,"Isobel Borlase bad pass
+turnover (Gabby Williams steals)","Bad Pass
+Turnover",62,False,False,2,1:10,46,24,Atlanta Dream,Golden State Valkyries,5208983,Isobel Borlase,3142328,Gabby Williams,,,12,8
+2026-10-29,401918310240,Laeticia Amihere makes running layup (Kaitlyn Chen assists),Running Layup Shot,109,True,True,2,1:04,46,26,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,4899328,Kaitlyn Chen,,,25,1
+2026-10-29,401918310242,Jordin Canada misses 23-foot three point jumper,Jump Shot,92,False,True,2,50.1,46,26,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,48,-1
+2026-10-29,401918310243,Jordin Canada offensive rebound,Offensive Rebound,156,False,False,2,49.1,46,26,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,48,-1
+2026-10-29,401918310244,Angel Reese lost ball turnover (Tiffany Hayes steals),Lost Ball Turnover,63,False,False,2,38.2,46,26,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,1054,Tiffany Hayes,,,19,13
+2026-10-29,401918310246,Kaila Charles lost ball turnover (Jordin Canada steals),Lost Ball Turnover,63,False,False,2,26.5,46,26,Atlanta Dream,Golden State Valkyries,4065780,Kaila Charles,3142250,Jordin Canada,,,23,11
+2026-10-29,401918310248,Angel Reese misses 21-foot jumper,Jump Shot,92,False,True,2,5.3,46,26,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,20,21
+2026-10-29,401918310249,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,2,3.5,46,26,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,20,21
+2026-10-29,401918310251,End of the 2nd Quarter,End Period,412,False,False,2,0.0,46,26,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310252,Allisha Gray enters the game for DeWanna Bonner,Substitution,584,False,False,3,10:00,46,26,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,869,DeWanna Bonner,,,-214748340,-214748365
+2026-10-29,401918310253,Naz Hillmon enters the game for Isobel Borlase,Substitution,584,False,False,3,10:00,46,26,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,5208983,Isobel Borlase,,,-214748340,-214748365
+2026-10-29,401918310254,Kiah Stokes enters the game for Kaitlyn Chen,Substitution,584,False,False,3,10:00,46,26,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,4899328,Kaitlyn Chen,,,-214748340,-214748365
+2026-10-29,401918310255,Veronica Burton enters the game for Laeticia Amihere,Substitution,584,False,False,3,10:00,46,26,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,4432834,Laeticia Amihere,,,-214748340,-214748365
+2026-10-29,401918310261,Allisha Gray blocks Veronica Burton 's 25-foot three point jumper,Jump Shot,92,False,True,3,9:51,46,26,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,3058901,Allisha Gray,,,16,23
+2026-10-29,401918310263,Jordin Canada defensive rebound,Defensive Rebound,155,False,False,3,9:50,46,26,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,16,23
+2026-10-29,401918310264,Jordin Canada misses driving floating jump shot,Driving Floating Jump Shot,144,False,True,3,9:33,46,26,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,27,12
+2026-10-29,401918310265,Kiah Stokes defensive rebound,Defensive Rebound,155,False,False,3,9:31,46,26,Atlanta Dream,Golden State Valkyries,2590093,Kiah Stokes,,,,,27,12
+2026-10-29,401918310266,Gabby Williams offensive foul,Offensive Foul,42,False,False,3,9:23,46,26,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,11,10
+2026-10-29,401918310268,Gabby Williams offensive foul turnover,Offensive Foul Turnover,84,False,False,3,9:23,46,26,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,11,10
+2026-10-29,401918310269,Angel Reese misses 22-foot three point jumper,Jump Shot,92,False,True,3,9:03,46,26,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,47,2
+2026-10-29,401918310270,Naz Hillmon offensive rebound,Offensive Rebound,156,False,False,3,9:02,46,26,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,,,,,47,2
+2026-10-29,401918310271,Rhyne Howard makes 24-foot three point jumper (Naz Hillmon assists),Jump Shot,92,True,True,3,8:58,49,26,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,4398915,Naz Hillmon,,,28,24
+2026-10-29,401918310273,Veronica Burton misses 24-foot three point step back jumpshot,Step Back Jump Shot,132,False,True,3,8:40,49,26,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,38,20
+2026-10-29,401918310274,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,8:39,49,26,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,38,20
+2026-10-29,401918310275,Allisha Gray misses 24-foot running jump shot,Running Jump Shot,113,False,True,3,8:33,49,26,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,4,12
+2026-10-29,401918310276,Golden State Valkyries defensive team rebound,Defensive Rebound,155,False,False,3,8:31,49,26,Atlanta Dream,Golden State Valkyries,,,,,,,4,12
+2026-10-29,401918310277,Rhyne Howard loose ball foul,Loose Ball Foul,43,False,False,3,8:31,49,26,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,26,2
+2026-10-29,401918310279,Tiffany Hayes makes two point shot (Veronica Burton assists),Layup Driving Reverse,126,True,True,3,8:20,49,28,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,4398935,Veronica Burton,,,24,1
+2026-10-29,401918310281,Angel Reese shooting foul,Shooting Foul,44,False,False,3,8:20,49,28,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,24,1
+2026-10-29,401918310283,Cecilia Zandalasini enters the game for Kaila Charles,Substitution,584,False,False,3,8:20,49,28,Atlanta Dream,Golden State Valkyries,4257500,Cecilia Zandalasini,4065780,Kaila Charles,,,-214748340,-214748365
+2026-10-29,401918310285,Tiffany Hayes misses free throw 1 of 1,Free Throw - 1 of 1,97,False,True,3,8:20,49,28,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,-214748340,-214748365
+2026-10-29,401918310286,Angel Reese defensive rebound,Defensive Rebound,155,False,False,3,8:20,49,28,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,-214748340,-214748365
+2026-10-29,401918310287,Jordin Canada makes driving layup,Driving Layup Shot,110,True,True,3,8:10,51,28,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,25,4
+2026-10-29,401918310288,Tiffany Hayes misses 24-foot three point jumper,Jump Shot,92,False,True,3,7:56,51,28,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,,,,,38,21
+2026-10-29,401918310289,Dream defensive team rebound,Defensive Rebound,155,False,False,3,7:55,51,28,Atlanta Dream,Golden State Valkyries,,,,,,,38,21
+2026-10-29,401918310291,Jordin Canada out of bounds bad pass turnover,Out of Bounds - Bad Pass Turnover,90,False,False,3,7:36,51,28,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,16,2
+2026-10-29,401918310292,Laeticia Amihere enters the game for Kiah Stokes,Substitution,584,False,False,3,7:36,51,28,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,2590093,Kiah Stokes,,,-214748340,-214748365
+2026-10-29,401918310294,"Tiffany Hayes bad pass
+turnover (Allisha Gray steals)","Bad Pass
+Turnover",62,False,False,3,7:23,51,28,Atlanta Dream,Golden State Valkyries,1054,Tiffany Hayes,3058901,Allisha Gray,,,29,20
+2026-10-29,401918310296,Veronica Burton flagrant foul type 1,Flagrant Foul Type 1,32,False,False,3,7:19,51,28,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,27,2
+2026-10-29,401918310298,(07:19) [Golden State Valkyries] REF-INITIATED REVIEW (REPLAY SUPPORTS CALL),Ref-Initiated Review (Supported),278,False,False,3,7:19,51,28,Atlanta Dream,Golden State Valkyries,,,,,,,-214748340,-214748365
+2026-10-29,401918310299,Rhyne Howard makes free throw flagrant 1 of 2,Free Throw - Flagrant 1 of 2,104,True,True,3,7:19,52,28,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-29,401918310300,Rhyne Howard makes free throw flagrant 2 of 2,Free Throw - Flagrant 2 of 2,105,True,True,3,7:19,53,28,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,-214748340,-214748365
+2026-10-29,401918310301,Angel Reese misses driving layup,Driving Layup Shot,110,False,True,3,7:11,53,28,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,25,5
+2026-10-29,401918310302,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,False,3,7:10,53,28,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,25,5
+2026-10-29,401918310303,Rhyne Howard personal foul,Personal Foul,45,False,False,3,7:09,53,28,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,,,,,28,5
+2026-10-29,401918310305,Laeticia Amihere lost ball turnover (Angel Reese steals),Lost Ball Turnover,63,False,False,3,7:01,53,28,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,4433402,Angel Reese,,,22,21
+2026-10-29,401918310307,Angel Reese misses running layup,Running Layup Shot,109,False,True,3,6:55,53,28,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,27,2
+2026-10-29,401918310308,Veronica Burton defensive rebound,Defensive Rebound,155,False,False,3,6:54,53,28,Atlanta Dream,Golden State Valkyries,4398935,Veronica Burton,,,,,27,2
+2026-10-29,401918310309,Laeticia Amihere misses layup,Layup Shot,95,False,True,3,6:46,53,28,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,26,1
+2026-10-29,401918310310,Allisha Gray defensive rebound,Defensive Rebound,155,False,False,3,6:45,53,28,Atlanta Dream,Golden State Valkyries,3058901,Allisha Gray,,,,,26,1
+2026-10-29,401918310311,"Naz Hillmon bad pass
+turnover (Gabby Williams steals)","Bad Pass
+Turnover",62,False,False,3,6:35,53,28,Atlanta Dream,Golden State Valkyries,4398915,Naz Hillmon,3142328,Gabby Williams,,,21,10
+2026-10-29,401918310313,Gabby Williams makes running layup,Running Layup Shot,109,True,True,3,6:29,53,30,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,24,2
+2026-10-29,401918310314,Jordin Canada misses 18-foot pullup jump shot,Pullup Jump Shot,131,False,True,3,6:04,53,30,Atlanta Dream,Golden State Valkyries,3142250,Jordin Canada,,,,,24,18
+2026-10-29,401918310315,Laeticia Amihere defensive rebound,Defensive Rebound,155,False,False,3,6:02,53,30,Atlanta Dream,Golden State Valkyries,4432834,Laeticia Amihere,,,,,24,18
+2026-10-29,401918310316,Angel Reese personal foul,Personal Foul,45,False,False,3,6:02,53,30,Atlanta Dream,Golden State Valkyries,4433402,Angel Reese,,,,,28,4
+2026-10-29,401918310318,DeWanna Bonner enters the game for Angel Reese,Substitution,584,False,False,3,6:02,53,30,Atlanta Dream,Golden State Valkyries,869,DeWanna Bonner,4433402,Angel Reese,,,-214748340,-214748365
+2026-10-29,401918310320,Gabby Williams misses layup,Layup Shot,95,False,True,3,5:52,53,30,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,25,1
+2026-10-29,401918310321,Tiffany Hayes vs. Rhyne Howard (Allisha Gray gains possession),Jumpball,615,False,False,3,5:44,53,30,Atlanta Dream,Golden State Valkyries,4398674,Rhyne Howard,1054,Tiffany Hayes,3058901,Allisha Gray,-214748340,-214748365
+2026-10-29,401918310324,Dream defensive team rebound,Defensive Rebound,155,False,False,3,5:44,53,30,Atlanta Dream,Golden State Valkyries,,,,,,,25,1
+2026-10-29,401918310325,DeWanna Bonner misses 25-foot three point jumper,Jump Shot,92,False,True,3,5:26,53,30,Atlanta Dream,Golden State Valkyries,869,DeWanna Bonner,,,,,38,22
+2026-10-29,401918310326,Gabby Williams defensive rebound,Defensive Rebound,155,False,False,3,5:23,53,30,Atlanta Dream,Golden State Valkyries,3142328,Gabby Williams,,,,,38,22
